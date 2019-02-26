@@ -1,17 +1,25 @@
 
 
-=================================================================================
+=============================================================================================
 
-Beginning workflow for CCCCCC(=O)O at:
+Beginning workflow for CC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/test_folder
 
-Geometry & Frequency log file NOT FOUND or NOT COMPLETE
-	FUZZWVXGSFPDMH-UHFFFAOYSA-N_GeoFreq.log for CCCCCC(=O)O NOT FOUND or NOT COMPLETE.
-	Looking for FUZZWVXGSFPDMH-UHFFFAOYSA-N_GeoFreq.com
+Geometry & Frequency log file is complete!
+	OTMSDBZUPAUEDD-UHFFFAOYSA-N_GeoFreq.log for CC is complete!
 
-Using previous geometry & frequency input file
+Looking at (4, 0, 1, 5) torsion in CC
 
-EXECUTING FUZZWVXGSFPDMH-UHFFFAOYSA-N_GeoFreq.com
+	Torsion log file NOT FOUND or NOT COMPLETE.
+		OTMSDBZUPAUEDD-UHFFFAOYSA-N_tor01.log for CC NOT FOUND or NOT COMPLETE.
+		Looking for existing OTMSDBZUPAUEDD-UHFFFAOYSA-N_tor01.com
 
-=================================================================================
+	Torsion input file NOT FOUND.
+		OTMSDBZUPAUEDD-UHFFFAOYSA-N_tor01.com for CC NOT FOUND.
+		Generating one now..
 
+	EXECUTING OTMSDBZUPAUEDD-UHFFFAOYSA-N_tor01.com
+
+
+
+=============================================================================================
