@@ -1,0 +1,61 @@
+
+
+=============================================================================================
+
+Beginning workflow for ONCC(=O)O at:
+	/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow
+
+Geometry & Frequency log file is complete!
+	NPWGWQRXHVJJRD-UHFFFAOYSA-N_GeoFreq.log for ONCC(=O)O is complete!
+
+Looking at (9, 0, 3, 4) torsion in ONCC(=O)O
+
+	Torsion log file NOT FOUND or NOT COMPLETE.
+		NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor03.log for ONCC(=O)O NOT FOUND or NOT COMPLETE.
+		Looking for existing NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor03.com
+
+	Torsion input file NOT FOUND.
+		NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor03.com for ONCC(=O)O NOT FOUND.
+		Generating one now..
+
+	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor03.com
+
+Looking at (10, 1, 5, 4) torsion in ONCC(=O)O
+
+	Torsion log file NOT FOUND or NOT COMPLETE.
+		NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor15.log for ONCC(=O)O NOT FOUND or NOT COMPLETE.
+		Looking for existing NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor15.com
+
+	Torsion input file NOT FOUND.
+		NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor15.com for ONCC(=O)O NOT FOUND.
+		Generating one now..
+
+	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor15.com
+
+Looking at (8, 3, 4, 7) torsion in ONCC(=O)O
+
+	Torsion log file NOT FOUND or NOT COMPLETE.
+		NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor34.log for ONCC(=O)O NOT FOUND or NOT COMPLETE.
+		Looking for existing NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor34.com
+
+	Torsion input file NOT FOUND.
+		NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor34.com for ONCC(=O)O NOT FOUND.
+		Generating one now..
+
+	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor34.com
+
+Looking at (7, 4, 5, 2) torsion in ONCC(=O)O
+
+	Torsion log file NOT FOUND or NOT COMPLETE.
+		NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor45.log for ONCC(=O)O NOT FOUND or NOT COMPLETE.
+		Looking for existing NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor45.com
+
+	Torsion input file NOT FOUND.
+		NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor45.com for ONCC(=O)O NOT FOUND.
+		Generating one now..
+
+	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor45.com
+
+
+
+=============================================================================================
