@@ -1,8 +1,7 @@
 #!/bin/bash
 
 ##SBATCH --job-name=handrun
-#SBATCH --output=UUIQMZJEGPQKFD-UHFFFAOYSA-N_Geo.log
-
+#SBATCH --output=VMPUAIZSESMILD-UHFFFAOYSA-N_GeoFreq.log
 ## number of nodes
 #SBATCH -N 1
 #SBATCH --exclusive
@@ -10,6 +9,6 @@
 #SBATCH --mem=120000
 
 # run gaussian, with the desired input file
-g16 UUIQMZJEGPQKFD-UHFFFAOYSA-N_Geo.com
+g16 VMPUAIZSESMILD-UHFFFAOYSA-N_GeoFreq.com
 
 
