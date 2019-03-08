@@ -1,37 +1,41 @@
 
 
-=============================================================================================
-
-Beginning workflow for CCCCO at:
-	/home/underkoffler.c/Code/Hindered_Rotors/CCCCO/From_Workflow
-
-Geometry & Frequency log file NOT FOUND or NOT COMPLETE
-	LRHPLDYGYMQRHN-UHFFFAOYSA-N_GeoFreq_a1.com for CCCCO NOT FOUND or NOT COMPLETE.
-	Looking for LRHPLDYGYMQRHN-UHFFFAOYSA-N_GeoFreq_a1.com
-
-Using previous geometry & frequency input file
-
-EXECUTING LRHPLDYGYMQRHN-UHFFFAOYSA-N_GeoFreq_a1.com
-
-
-
-=============================================================================================
-
-
-
-=============================================================================================
+===========================================================================================
 
 Beginning workflow for CCOC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/CCOC/From_Workflow
 
-Geometry & Frequency log file NOT FOUND or NOT COMPLETE
-	XOBKSJJDNFUZPF-UHFFFAOYSA-N_GeoFreq_a1.com for CCOC NOT FOUND or NOT COMPLETE.
-	Looking for XOBKSJJDNFUZPF-UHFFFAOYSA-N_GeoFreq_a1.com
+	2019-03-07 20:22:24.258354
 
-Using previous geometry & frequency input file
+Geometry & Frequency log file is complete!
+	XOBKSJJDNFUZPF-UHFFFAOYSA-N_GeoFreq_a1.log for CCOC is complete!
 
-EXECUTING XOBKSJJDNFUZPF-UHFFFAOYSA-N_GeoFreq_a1.com
+Looking at (1, 0, 3, 11) torsion in CCOC
+
+	Torsion log file is complete!
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_72by10.0_tor03_a1.log for CCOC exists and is complete!
+
+(1, 0, 3, 11) Verified!
+
+Looking at (3, 0, 1, 2) torsion in CCOC
+
+	Torsion log file is complete!
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_72by10.0_tor01_a1.log for CCOC exists and is complete!
+
+(3, 0, 1, 2) Verified!
+
+Looking at (4, 1, 2, 8) torsion in CCOC
+
+	Torsion log file is complete!
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_72by10.0_tor12_a1.log for CCOC exists and is complete!
+
+(4, 1, 2, 8) Verified!
+
+All scans for CCOC have data!
+
+Species.py for CCOC exists!
+	XOBKSJJDNFUZPF-UHFFFAOYSA-N.py
 
 
 
-=============================================================================================
+===========================================================================================

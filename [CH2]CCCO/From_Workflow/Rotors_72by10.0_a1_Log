@@ -1,0 +1,49 @@
+
+
+===========================================================================================
+
+Beginning workflow for [CH2]CCCO at:
+	/home/underkoffler.c/Code/Hindered_Rotors/[CH2]CCCO/From_Workflow
+
+	2019-03-07 20:21:43.039744
+
+Geometry & Frequency log file is complete!
+	SXIFAEWFOJETOA-UHFFFAOYSA-N-u1_GeoFreq_a1.log for [CH2]CCCO is complete!
+
+Looking at (13, 0, 3, 10) torsion in [CH2]CCCO
+
+	Torsion log file is complete!
+		SXIFAEWFOJETOA-UHFFFAOYSA-N-u1_72by10.0_tor03_a1.log for [CH2]CCCO exists and is complete!
+
+(13, 0, 3, 10) Verified!
+
+Looking at (3, 1, 2, 7) torsion in [CH2]CCCO
+
+	Torsion log file is complete!
+		SXIFAEWFOJETOA-UHFFFAOYSA-N-u1_72by10.0_tor12_a1.log for [CH2]CCCO exists and is complete!
+
+(3, 1, 2, 7) Verified!
+
+Looking at (2, 1, 3, 10) torsion in [CH2]CCCO
+
+	Torsion log file is complete!
+		SXIFAEWFOJETOA-UHFFFAOYSA-N-u1_72by10.0_tor13_a1.log for [CH2]CCCO exists and is complete!
+
+(2, 1, 3, 10) Verified!
+
+Looking at (7, 2, 4, 12) torsion in [CH2]CCCO
+
+	Torsion log file is complete!
+		SXIFAEWFOJETOA-UHFFFAOYSA-N-u1_72by10.0_tor24_a1.log for [CH2]CCCO exists and is complete!
+
+(7, 2, 4, 12) Verified!
+
+All scans for [CH2]CCCO have data!
+
+Arkane Species.py file NOT FOUND
+	SXIFAEWFOJETOA-UHFFFAOYSA-N-u1.py NOT FOUND for [CH2]CCCO
+	Generating one now...
+
+
+
+===========================================================================================

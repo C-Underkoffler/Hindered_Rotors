@@ -1,0 +1,43 @@
+
+
+===========================================================================================
+
+Beginning workflow for CCC[CH]O at:
+	/home/underkoffler.c/Code/Hindered_Rotors/CCC[CH]O/From_Workflow
+
+	2019-03-07 20:19:38.532253
+
+Geometry & Frequency log file is complete!
+	DHVSQGCGLGSLDF-UHFFFAOYSA-N-u4_GeoFreq_a1.log for CCC[CH]O is complete!
+
+Looking at (13, 0, 4, 12) torsion in CCC[CH]O
+
+	Torsion log file is complete!
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N-u4_72by10.0_tor04_a1.log for CCC[CH]O exists and is complete!
+
+(13, 0, 4, 12) NOT Verified. Suggest running with different initial geometry
+
+Looking at (2, 1, 3, 10) torsion in CCC[CH]O
+
+	Torsion log file is complete!
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N-u4_72by10.0_tor13_a1.log for CCC[CH]O exists and is complete!
+
+(2, 1, 3, 10) Verified!
+
+Looking at (6, 1, 2, 7) torsion in CCC[CH]O
+
+	Torsion log file is complete!
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N-u4_72by10.0_tor12_a1.log for CCC[CH]O exists and is complete!
+
+(6, 1, 2, 7) Verified!
+
+Looking at (7, 2, 4, 12) torsion in CCC[CH]O
+
+	Torsion log file is complete!
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N-u4_72by10.0_tor24_a1.log for CCC[CH]O exists and is complete!
+
+(7, 2, 4, 12) NOT Verified. Suggest running with different initial geometry
+
+
+
+===========================================================================================

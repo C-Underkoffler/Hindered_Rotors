@@ -1,0 +1,26 @@
+Arkane execution initiated at Thu Mar  7 11:27:35 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Loading species XOBKSJJDNFUZPF-UHFFFAOYSA-N...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA-N...
