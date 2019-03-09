@@ -2,34 +2,34 @@
 
 ===========================================================================================
 
+2019-03-08 22:37:39.002524
+
 Beginning workflow for COC(C)C at:
 	/home/underkoffler.c/Code/Hindered_Rotors/COC(C)C/From_Workflow
-
-	2019-03-07 20:22:45.843954
 
 Geometry & Frequency log file is complete!
 	RMGHERXMTMUMMV-UHFFFAOYSA-N_GeoFreq_a1.log for COC(C)C is complete!
 
-Looking at (4, 0, 1, 3) torsion in COC(C)C
+Looking at (4, 0, 1, 5) torsion in COC(C)C
 
 	Torsion log file is complete!
 		RMGHERXMTMUMMV-UHFFFAOYSA-N_72by10.0_tor01_a1.log for COC(C)C exists and is complete!
 
-(4, 0, 1, 3) Verified!
+(4, 0, 1, 5) Verified!
 
-Looking at (1, 0, 4, 13) torsion in COC(C)C
+Looking at (1, 0, 4, 14) torsion in COC(C)C
 
 	Torsion log file is complete!
 		RMGHERXMTMUMMV-UHFFFAOYSA-N_72by10.0_tor04_a1.log for COC(C)C exists and is complete!
 
-(1, 0, 4, 13) Verified!
+(1, 0, 4, 14) Verified!
 
-Looking at (3, 1, 2, 6) torsion in COC(C)C
+Looking at (5, 1, 2, 8) torsion in COC(C)C
 
 	Torsion log file is complete!
 		RMGHERXMTMUMMV-UHFFFAOYSA-N_72by10.0_tor12_a1.log for COC(C)C exists and is complete!
 
-(3, 1, 2, 6) Verified!
+(5, 1, 2, 8) Verified!
 
 Looking at (5, 1, 3, 10) torsion in COC(C)C
 
@@ -40,9 +40,8 @@ Looking at (5, 1, 3, 10) torsion in COC(C)C
 
 All scans for COC(C)C have data!
 
-Arkane Species.py file NOT FOUND
-	RMGHERXMTMUMMV-UHFFFAOYSA-N.py NOT FOUND for COC(C)C
-	Generating one now...
+Species.py for COC(C)C exists!
+	RMGHERXMTMUMMV-UHFFFAOYSA.py
 
 
 

@@ -1,0 +1,18 @@
+Error: segmentation violation
+   rax 0000000000000000, rbx ffffffffffffffff, rcx ffffffffffffffff
+   rdx 0000000000008826, rsp 00007ffd4eb9ff68, rbp 00007ffd4eba04e0
+   rsi 000000000000000b, rdi 0000000000008826, r8  0000000000000020
+   r9  00002aad66426470, r10 00007ffd4eb9f9e0, r11 0000000000000202
+   r12 00007ffd4eba0528, r13 0000000000000000, r14 0000000000000000
+   r15 00000000000003e6
+  /lib64/libpthread.so.0(+0xf6d0) [0x2aad65dc46d0]
+  /lib64/libc.so.6(kill+0x7) [0x2aad66309547]
+  /shared/centos7/gaussian/g16/l9999.exe() [0x43c650]
+  /shared/centos7/gaussian/g16/l9999.exe() [0x452931]
+  /shared/centos7/gaussian/g16/l9999.exe() [0x4821d1]
+  /shared/centos7/gaussian/g16/l9999.exe() [0x475ea9]
+  /shared/centos7/gaussian/g16/l9999.exe() [0x40846e]
+  /shared/centos7/gaussian/g16/l9999.exe() [0x403a90]
+  /shared/centos7/gaussian/g16/l9999.exe(sched_setaffinity+0x16d) [0x4039cd]
+  /lib64/libc.so.6(__libc_start_main+0xf5) [0x2aad662f5445]
+  /shared/centos7/gaussian/g16/l9999.exe(sched_setaffinity+0x99) [0x4038f9]

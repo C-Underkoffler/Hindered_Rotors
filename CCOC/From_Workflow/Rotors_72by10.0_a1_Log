@@ -2,39 +2,39 @@
 
 ===========================================================================================
 
+2019-03-08 22:37:34.723341
+
 Beginning workflow for CCOC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/CCOC/From_Workflow
-
-	2019-03-07 20:22:24.258354
 
 Geometry & Frequency log file is complete!
 	XOBKSJJDNFUZPF-UHFFFAOYSA-N_GeoFreq_a1.log for CCOC is complete!
 
-Looking at (1, 0, 3, 11) torsion in CCOC
-
-	Torsion log file is complete!
-		XOBKSJJDNFUZPF-UHFFFAOYSA-N_72by10.0_tor03_a1.log for CCOC exists and is complete!
-
-(1, 0, 3, 11) Verified!
-
-Looking at (3, 0, 1, 2) torsion in CCOC
+Looking at (3, 0, 1, 5) torsion in CCOC
 
 	Torsion log file is complete!
 		XOBKSJJDNFUZPF-UHFFFAOYSA-N_72by10.0_tor01_a1.log for CCOC exists and is complete!
 
-(3, 0, 1, 2) Verified!
+(3, 0, 1, 5) Verified!
 
-Looking at (4, 1, 2, 8) torsion in CCOC
+Looking at (1, 0, 3, 9) torsion in CCOC
+
+	Torsion log file is complete!
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_72by10.0_tor03_a1.log for CCOC exists and is complete!
+
+(1, 0, 3, 9) Verified!
+
+Looking at (5, 1, 2, 7) torsion in CCOC
 
 	Torsion log file is complete!
 		XOBKSJJDNFUZPF-UHFFFAOYSA-N_72by10.0_tor12_a1.log for CCOC exists and is complete!
 
-(4, 1, 2, 8) Verified!
+(5, 1, 2, 7) Verified!
 
 All scans for CCOC have data!
 
 Species.py for CCOC exists!
-	XOBKSJJDNFUZPF-UHFFFAOYSA-N.py
+	XOBKSJJDNFUZPF-UHFFFAOYSA.py
 
 
 
