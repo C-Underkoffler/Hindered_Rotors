@@ -1,0 +1,49 @@
+
+
+===========================================================================================
+
+2019-03-09 01:44:48.144454
+
+Beginning workflow for CCC(=O)OC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/CCC(=O)OC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	RJUFJBKOKNCXHH-UHFFFAOYSA-N_GeoFreq_a1.log for CCC(=O)OC is complete!
+
+Looking at (5, 0, 4, 13) torsion in CCC(=O)OC
+
+	Torsion log file is complete!
+		RJUFJBKOKNCXHH-UHFFFAOYSA-N_72by10.0_tor04_a1.log for CCC(=O)OC exists and is complete!
+
+(5, 0, 4, 13) Verified!
+
+Looking at (4, 0, 5, 2) torsion in CCC(=O)OC
+
+	Torsion log file is complete!
+		RJUFJBKOKNCXHH-UHFFFAOYSA-N_72by10.0_tor05_a1.log for CCC(=O)OC exists and is complete!
+
+(4, 0, 5, 2) Verified!
+
+Looking at (5, 2, 3, 10) torsion in CCC(=O)OC
+
+	Torsion log file is complete!
+		RJUFJBKOKNCXHH-UHFFFAOYSA-N_72by10.0_tor23_a1.log for CCC(=O)OC exists and is complete!
+
+(5, 2, 3, 10) Verified!
+
+Looking at (7, 2, 5, 1) torsion in CCC(=O)OC
+
+	Torsion log file is complete!
+		RJUFJBKOKNCXHH-UHFFFAOYSA-N_72by10.0_tor25_a1.log for CCC(=O)OC exists and is complete!
+
+(7, 2, 5, 1) Verified!
+
+All scans for CCC(=O)OC have data!
+
+Arkane Species.py file NOT FOUND
+	RJUFJBKOKNCXHH-UHFFFAOYSA.py NOT FOUND for CCC(=O)OC
+	Generating one now...
+
+
+
+===========================================================================================

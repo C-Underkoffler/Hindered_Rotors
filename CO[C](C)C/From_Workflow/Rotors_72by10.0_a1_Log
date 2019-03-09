@@ -2,61 +2,61 @@
 
 ===========================================================================================
 
+2019-03-09 13:21:32.524312
+
 Beginning workflow for CO[C](C)C at:
 	/home/underkoffler.c/Code/Hindered_Rotors/CO[C](C)C/From_Workflow
 
-	2019-03-07 20:23:20.860832
-
 Geometry & Frequency log file is complete!
-	VSQGJBCHGBRHMO-UHFFFAOYSA-N-u4_GeoFreq_a1.log for CO[C](C)C is complete!
-
-Looking at (3, 0, 4, 2) torsion in CO[C](C)C
-
-	Torsion log file NOT FOUND or NOT COMPLETE.
-		VSQGJBCHGBRHMO-UHFFFAOYSA-N-u4_72by10.0_tor04_a1.log for CO[C](C)C NOT FOUND or NOT COMPLETE.
-		Looking for existing VSQGJBCHGBRHMO-UHFFFAOYSA-N-u4_72by10.0_tor04_a1.com
-
-	Torsion input file NOT FOUND.
-		VSQGJBCHGBRHMO-UHFFFAOYSA-N-u4_72by10.0_tor04_a1.com for CO[C](C)C NOT FOUND.
-		Generating one now..
-
-	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N-u4_72by10.0_tor04_a1.com
+	VSQGJBCHGBRHMO-UHFFFAOYSA-N_GeoFreq_a1.log for CO[C](C)C is complete!
 
 Looking at (4, 0, 3, 13) torsion in CO[C](C)C
 
 	Torsion log file NOT FOUND or NOT COMPLETE.
-		VSQGJBCHGBRHMO-UHFFFAOYSA-N-u4_72by10.0_tor03_a1.log for CO[C](C)C NOT FOUND or NOT COMPLETE.
-		Looking for existing VSQGJBCHGBRHMO-UHFFFAOYSA-N-u4_72by10.0_tor03_a1.com
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_72by10.0_tor03_a1.log for CO[C](C)C NOT FOUND or NOT COMPLETE.
+		Looking for existing VSQGJBCHGBRHMO-UHFFFAOYSA-N_72by10.0_tor03_a1.com
 
 	Torsion input file NOT FOUND.
-		VSQGJBCHGBRHMO-UHFFFAOYSA-N-u4_72by10.0_tor03_a1.com for CO[C](C)C NOT FOUND.
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_72by10.0_tor03_a1.com for CO[C](C)C NOT FOUND.
 		Generating one now..
 
-	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N-u4_72by10.0_tor03_a1.com
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_72by10.0_tor03_a1.com
 
-Looking at (6, 1, 4, 2) torsion in CO[C](C)C
+Looking at (3, 0, 4, 2) torsion in CO[C](C)C
 
 	Torsion log file NOT FOUND or NOT COMPLETE.
-		VSQGJBCHGBRHMO-UHFFFAOYSA-N-u4_72by10.0_tor14_a1.log for CO[C](C)C NOT FOUND or NOT COMPLETE.
-		Looking for existing VSQGJBCHGBRHMO-UHFFFAOYSA-N-u4_72by10.0_tor14_a1.com
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_72by10.0_tor04_a1.log for CO[C](C)C NOT FOUND or NOT COMPLETE.
+		Looking for existing VSQGJBCHGBRHMO-UHFFFAOYSA-N_72by10.0_tor04_a1.com
 
 	Torsion input file NOT FOUND.
-		VSQGJBCHGBRHMO-UHFFFAOYSA-N-u4_72by10.0_tor14_a1.com for CO[C](C)C NOT FOUND.
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_72by10.0_tor04_a1.com for CO[C](C)C NOT FOUND.
 		Generating one now..
 
-	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N-u4_72by10.0_tor14_a1.com
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_72by10.0_tor04_a1.com
+
+Looking at (5, 1, 4, 2) torsion in CO[C](C)C
+
+	Torsion log file NOT FOUND or NOT COMPLETE.
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_72by10.0_tor14_a1.log for CO[C](C)C NOT FOUND or NOT COMPLETE.
+		Looking for existing VSQGJBCHGBRHMO-UHFFFAOYSA-N_72by10.0_tor14_a1.com
+
+	Torsion input file NOT FOUND.
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_72by10.0_tor14_a1.com for CO[C](C)C NOT FOUND.
+		Generating one now..
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_72by10.0_tor14_a1.com
 
 Looking at (10, 2, 4, 1) torsion in CO[C](C)C
 
 	Torsion log file NOT FOUND or NOT COMPLETE.
-		VSQGJBCHGBRHMO-UHFFFAOYSA-N-u4_72by10.0_tor24_a1.log for CO[C](C)C NOT FOUND or NOT COMPLETE.
-		Looking for existing VSQGJBCHGBRHMO-UHFFFAOYSA-N-u4_72by10.0_tor24_a1.com
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_72by10.0_tor24_a1.log for CO[C](C)C NOT FOUND or NOT COMPLETE.
+		Looking for existing VSQGJBCHGBRHMO-UHFFFAOYSA-N_72by10.0_tor24_a1.com
 
 	Torsion input file NOT FOUND.
-		VSQGJBCHGBRHMO-UHFFFAOYSA-N-u4_72by10.0_tor24_a1.com for CO[C](C)C NOT FOUND.
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_72by10.0_tor24_a1.com for CO[C](C)C NOT FOUND.
 		Generating one now..
 
-	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N-u4_72by10.0_tor24_a1.com
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_72by10.0_tor24_a1.com
 
 
 

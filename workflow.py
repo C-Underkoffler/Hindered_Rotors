@@ -123,7 +123,7 @@ def rote_Rotor_Input(conformer,
                                                            stepsize_deg)
     output += '\n\n\n'
 
-    with open(os.path.join(path, filename), 'w') as F:
+    with open(os.path.join(path, file_name), 'w') as F:
         F.write(output)
         F.close
 
@@ -364,6 +364,11 @@ for conf in Conf_list:
 
     log += ['Beginning workflow for {0} at:\n\t{1}'.format(SMILES, path)]
     
+    temp_mast = master_log + log
+    temp_output = '\n\n'.join(temp_mast)
+    with open(os.path.join(base_path, master_log_name), 'w') as mastf:
+        mastf.write(temp_output)
+    
     augInChIKey = Chem.rdinchi.InchiToInchiKey(Chem.MolToInchi(
             Chem.MolFromSmiles(SMILES)))
     
@@ -377,30 +382,33 @@ for conf in Conf_list:
         if not os.path.isfile(geo_Freq_Com):
             lowest_conf = None
             
-            if not os.path.isfile('{}_lowest_conf.pickle'.format(SMILES)):
-                log += ['Lowest Conformer Pickle NOT FOUND\n\t{}_lowest_conf.pickle NOT FOUND\n\tGenerating one using Hotbit...'.format(SMILES)]
-                
-                try:
-                    lowest_conf = hotbit_lowest_conf(SMILES)
-                except:
-                    log += ['PROBLEMS WITH LOWEST CONFORMER SEARCH!! Consult Grad Dad']
+            #if not os.path.isfile('{}_lowest_conf.pickle'.format(SMILES)):
+            log += ['Lowest Conformer Pickle NOT FOUND\n\t{}_lowest_conf.pickle NOT FOUND\n\tGenerating one using Hotbit...'.format(SMILES)]
 
-                    output = '\n\n'.join(log)
-                    with open(os.path.join(path, log_name), 'w') as f:
-                        f.write(output)
+            try:
+                lowest_conf = hotbit_lowest_conf(SMILES)
+            except:
+                log += ['PROBLEMS WITH LOWEST CONFORMER SEARCH!! Consult Grad Dad']
 
-                    master_log += log
-                    master_output = '\n\n'.join(master_log)
-                    with open(os.path.join(base_path, master_log_name), 'w') as mastf:
-                        mastf.write(master_output)
-                    continue
+                output = '\n\n'.join(log)
+                with open(os.path.join(path, log_name), 'w') as f:
+                    f.write(output)
+
+                master_log += log
+                master_output = '\n\n'.join(master_log)
+                with open(os.path.join(base_path, master_log_name), 'w') as mastf:
+                    mastf.write(master_output)
+                continue
+
+                with open('{}_lowest_conf.pickle'.format(SMILES), 'wb') as conf_f:
+                    pickle.dump(lowest_conf, conf_f)
                 
-                pickle.dump(lowest_conf, '{}_lowest_conf.pickle'.format(SMILES))
             
-            else:
-                lowest_conf = pickle.load('{}_lowest_conf.pickle'.format(SMILES))
+            #else:
+            #    lowest_conf = pickle.load('{}_lowest_conf.pickle'.format(SMILES))
             
             assert lowest_conf is not None, 'Pickled Conformer may be Flawed or Hotbit Solution not working'
+            
             conf = lowest_conf
             
             log += ['Geometry & Frequencey input file NOT FOUND\n\t{0} for {1} NOT FOUND.\n\tGenerating one now...'.format(geo_Freq_Com, SMILES)]
@@ -429,6 +437,11 @@ for conf in Conf_list:
             scan_output_log = scan_rotor_base + '.log'
 
             log += ['Looking at {} torsion in {}'.format((i,j,k,l), SMILES)]
+            
+            temp_mast = master_log + log
+            temp_output = '\n\n'.join(temp_mast)
+            with open(os.path.join(base_path, master_log_name), 'w') as mastf:
+                mastf.write(temp_output)
 
             verify_info = {}
             if exists_and_complete(os.path.join(path, scan_output_log)):
@@ -440,7 +453,13 @@ for conf in Conf_list:
                 subprocess.call(shlex.split('cp {} {}'.format(scan_output_log, reduced_scan_log)))
                 
                 auto_job = AutoTST_Job()
-                scan_info = auto_job.verify_rotor(given_steps, given_stepsize, file_name=reduced_scan_log)
+                print '\t', scan_output_log
+                
+                try:
+                    scan_info = auto_job.verify_rotor(given_steps, given_stepsize, file_name=reduced_scan_log)
+                except:
+                    print '\t\tFailed verify_rotor() method'
+                    
                 [verified, energy, atomnos, atomcoords] = scan_info
                 
                 if not verified:
@@ -474,7 +493,7 @@ for conf in Conf_list:
 
                 torsions = conf.get_torsions()
                 
-                statmech_job = AutoTST_StatMech()
+                statmech_job = AutoTST_StatMech('Needs_Rxn_Str_This_Will_Do')
                 statmech_job.model_chemistry = modelChemistry
                 statmech_job.scratch = path
                 statmech_job.write_arkane_for_reacts_and_prods(conf)

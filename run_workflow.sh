@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #SBATCH --exclude=c5003 
-#SBATCH --job-name=run
+#SBATCH --job-name=run_workflow
 #SBATCH --output=run_workflow.slurm.log 
 #SBATCH --error=run_workflow.slurm.log 
 #SBATCH -p general

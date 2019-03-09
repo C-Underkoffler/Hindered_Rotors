@@ -71,7 +71,8 @@ for SMILES in SMILES_list:
     
     lowest_conf = hotbit_lowest_conf(SMILES)
     
-    pickle.dump(lowest_conf, '{}_lowest_conf.pickle'.format(SMILES))
+    with open('{}_lowest_conf.pickle'.format(SMILES), 'wb') as conf_f:
+                pickle.dump(lowest_conf, conf_f)
     
     lowest_conf = pickle.load('{}_lowest_conf.pickle'.format(SMILES))
     

@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-08 22:37:26.848674
+2019-03-09 13:20:57.428126
 
 Beginning workflow for CCCCO at:
 	/home/underkoffler.c/Code/Hindered_Rotors/CCCCO/From_Workflow
@@ -17,26 +17,26 @@ Looking at (14, 0, 3, 10) torsion in CCCCO
 
 (14, 0, 3, 10) NOT Verified. Suggest running with different initial geometry
 
-Looking at (3, 1, 2, 5) torsion in CCCCO
+Looking at (7, 1, 2, 4) torsion in CCCCO
 
 	Torsion log file is complete!
 		LRHPLDYGYMQRHN-UHFFFAOYSA-N_72by10.0_tor12_a1.log for CCCCO exists and is complete!
 
-(3, 1, 2, 5) Verified!
+(7, 1, 2, 4) Verified!
 
-Looking at (2, 1, 3, 10) torsion in CCCCO
+Looking at (7, 1, 3, 10) torsion in CCCCO
 
 	Torsion log file is complete!
 		LRHPLDYGYMQRHN-UHFFFAOYSA-N_72by10.0_tor13_a1.log for CCCCO exists and is complete!
 
-(2, 1, 3, 10) Verified!
+(7, 1, 3, 10) Verified!
 
-Looking at (5, 2, 4, 11) torsion in CCCCO
+Looking at (6, 2, 4, 11) torsion in CCCCO
 
 	Torsion log file is complete!
 		LRHPLDYGYMQRHN-UHFFFAOYSA-N_72by10.0_tor24_a1.log for CCCCO exists and is complete!
 
-(5, 2, 4, 11) Verified!
+(6, 2, 4, 11) Verified!
 
 
 

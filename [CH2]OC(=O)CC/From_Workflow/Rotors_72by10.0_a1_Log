@@ -2,13 +2,25 @@
 
 ===========================================================================================
 
+2019-03-09 02:08:49.768677
+
 Beginning workflow for [CH2]OC(=O)CC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/[CH2]OC(=O)CC/From_Workflow
 
-	2019-03-07 20:29:13.691875
-
 Geometry & Frequency log file NOT FOUND or NOT COMPLETE
-	OJWHOIQFDAGZNF-UHFFFAOYSA-N-u2_GeoFreq_a1.com for [CH2]OC(=O)CC NOT FOUND or NOT COMPLETE.
-	Looking for OJWHOIQFDAGZNF-UHFFFAOYSA-N-u2_GeoFreq_a1.com
+	OJWHOIQFDAGZNF-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]OC(=O)CC NOT FOUND or NOT COMPLETE.
+	Looking for OJWHOIQFDAGZNF-UHFFFAOYSA-N_GeoFreq_a1.log
 
-PROBLEMS WITH LOWEST CONFORMER SEARCH!! Consult Grad Dad
+Lowest Conformer Pickle NOT FOUND
+	[CH2]OC(=O)CC_lowest_conf.pickle NOT FOUND
+	Generating one using Hotbit...
+
+Geometry & Frequencey input file NOT FOUND
+	OJWHOIQFDAGZNF-UHFFFAOYSA-N_GeoFreq_a1.com for [CH2]OC(=O)CC NOT FOUND.
+	Generating one now...
+
+EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_GeoFreq_a1.com
+
+
+
+===========================================================================================
