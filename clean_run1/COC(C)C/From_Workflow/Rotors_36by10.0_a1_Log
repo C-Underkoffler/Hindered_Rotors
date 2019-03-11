@@ -1,0 +1,44 @@
+
+
+===========================================================================================
+
+2019-03-11 17:44:54.649016
+
+Beginning workflow for COC(C)C at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/COC(C)C/From_Workflow
+
+Geometry & Frequency log file is complete!
+	RMGHERXMTMUMMV-UHFFFAOYSA-N_GeoFreq_a1.log for COC(C)C is complete!
+
+
+Looking at (1, 0, 4, 12) torsion in COC(C)C
+
+	Torsion log file is complete!
+		RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor04_a1.log for COC(C)C exists and is complete!
+
+
+Looking at (4, 0, 1, 3) torsion in COC(C)C
+
+	Torsion log file is complete!
+		RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor01_a1.log for COC(C)C exists and is complete!
+
+
+Looking at (3, 1, 2, 6) torsion in COC(C)C
+
+	Torsion log file is complete!
+		RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor12_a1.log for COC(C)C exists and is complete!
+
+
+Looking at (5, 1, 3, 11) torsion in COC(C)C
+
+	Torsion log file is complete!
+		RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor13_a1.log for COC(C)C exists and is complete!
+
+Scans are using lowest known conformer and all have completed to satisfaction for COC(C)C
+
+Species.py for COC(C)C exists!
+	RMGHERXMTMUMMV-UHFFFAOYSA.py
+
+
+
+===========================================================================================

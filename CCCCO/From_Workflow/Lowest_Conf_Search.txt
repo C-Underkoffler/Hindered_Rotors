@@ -1,0 +1,26 @@
+
+
+CCCCO
+Energy of conformer using hotbit: Log conformer came from
+
+If log is scan, conformer chosen by lowest SCF energy
+
+default	:	-81.1867736665
+/home/underkoffler.c/Code/Hindered_Rotors/CCCCO/From_Workflow/LRHPLDYGYMQRHN-UHFFFAOYSA_tor12.log
+	-81.3865940227
+/home/underkoffler.c/Code/Hindered_Rotors/CCCCO/From_Workflow/LRHPLDYGYMQRHN-UHFFFAOYSA-N_72by10.0_tor24_a1.log
+	-81.3865940227
+/home/underkoffler.c/Code/Hindered_Rotors/CCCCO/From_Workflow/LRHPLDYGYMQRHN-UHFFFAOYSA_tor13.log
+	-81.3865940227
+/home/underkoffler.c/Code/Hindered_Rotors/CCCCO/From_Workflow/LRHPLDYGYMQRHN-UHFFFAOYSA-N_GeoFreq_a1.log
+	-81.3865940227
+/home/underkoffler.c/Code/Hindered_Rotors/CCCCO/From_Workflow/LRHPLDYGYMQRHN-UHFFFAOYSA-N_72by10.0_tor03_a1.log
+	-81.3826361815
+/home/underkoffler.c/Code/Hindered_Rotors/CCCCO/From_Workflow/LRHPLDYGYMQRHN-UHFFFAOYSA-N_72by10.0_tor13_a1.log
+	-81.3865940227
+/home/underkoffler.c/Code/Hindered_Rotors/CCCCO/From_Workflow/LRHPLDYGYMQRHN-UHFFFAOYSA-N_72by10.0_tor12_a1.log
+	-81.3865940227
+/home/underkoffler.c/Code/Hindered_Rotors/CCCCO/From_Workflow/LRHPLDYGYMQRHN-UHFFFAOYSA_tor24.log
+	-81.3865940227
+/home/underkoffler.c/Code/Hindered_Rotors/CCCCO/From_Workflow/LRHPLDYGYMQRHN-UHFFFAOYSA_tor03.log
+	-81.3826361815

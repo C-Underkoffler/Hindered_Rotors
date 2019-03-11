@@ -1,0 +1,37 @@
+
+
+===========================================================================================
+
+2019-03-11 17:48:54.733354
+
+Beginning workflow for CO[C](C)C at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CO[C](C)C/From_Workflow
+
+Geometry & Frequency log file is complete!
+	VSQGJBCHGBRHMO-UHFFFAOYSA-N_GeoFreq_a1.log for CO[C](C)C is complete!
+
+
+Looking at (4, 0, 3, 13) torsion in CO[C](C)C
+
+
+Looking at (3, 0, 4, 2) torsion in CO[C](C)C
+
+
+Looking at (7, 1, 4, 2) torsion in CO[C](C)C
+
+
+Looking at (9, 2, 4, 1) torsion in CO[C](C)C
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor14_a1
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================

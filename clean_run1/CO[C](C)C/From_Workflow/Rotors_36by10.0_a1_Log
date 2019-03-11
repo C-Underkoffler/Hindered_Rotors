@@ -1,0 +1,44 @@
+
+
+===========================================================================================
+
+2019-03-11 17:45:01.733237
+
+Beginning workflow for CO[C](C)C at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/CO[C](C)C/From_Workflow
+
+Geometry & Frequency log file is complete!
+	VSQGJBCHGBRHMO-UHFFFAOYSA-N_GeoFreq_a1.log for CO[C](C)C is complete!
+
+
+Looking at (3, 0, 4, 2) torsion in CO[C](C)C
+
+	Torsion log file is complete!
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor04_a1.log for CO[C](C)C exists and is complete!
+
+
+Looking at (4, 0, 3, 11) torsion in CO[C](C)C
+
+	Torsion log file is complete!
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor03_a1.log for CO[C](C)C exists and is complete!
+
+
+Looking at (7, 1, 4, 2) torsion in CO[C](C)C
+
+	Torsion log file is complete!
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor14_a1.log for CO[C](C)C exists and is complete!
+
+
+Looking at (10, 2, 4, 1) torsion in CO[C](C)C
+
+	Torsion log file is complete!
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor24_a1.log for CO[C](C)C exists and is complete!
+
+Scans are using lowest known conformer and all have completed to satisfaction for CO[C](C)C
+
+Species.py for CO[C](C)C exists!
+	VSQGJBCHGBRHMO-UHFFFAOYSA.py
+
+
+
+===========================================================================================

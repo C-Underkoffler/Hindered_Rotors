@@ -1,0 +1,696 @@
+
+
+===========================================================================================
+
+2019-03-11 17:48:53.587156
+
+Beginning workflow for CCCCO at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCCCO/From_Workflow
+
+Geometry & Frequency log file is complete!
+	LRHPLDYGYMQRHN-UHFFFAOYSA-N_GeoFreq_a1.log for CCCCO is complete!
+
+
+Looking at (14, 0, 3, 10) torsion in CCCCO
+
+
+Looking at (8, 1, 2, 5) torsion in CCCCO
+
+
+Looking at (8, 1, 3, 10) torsion in CCCCO
+
+
+Looking at (5, 2, 4, 13) torsion in CCCCO
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING LRHPLDYGYMQRHN-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	EXECUTING LRHPLDYGYMQRHN-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	EXECUTING LRHPLDYGYMQRHN-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	EXECUTING LRHPLDYGYMQRHN-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:53.690355
+
+Beginning workflow for CCCC[O] at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCCC[O]/From_Workflow
+
+Geometry & Frequency log file is complete!
+	QOOQLKSEGVNYLA-UHFFFAOYSA-N_GeoFreq_a1.log for CCCC[O] is complete!
+
+
+Looking at (2, 1, 3, 11) torsion in CCCC[O]
+
+
+Looking at (3, 1, 2, 8) torsion in CCCC[O]
+
+
+Looking at (8, 2, 4, 12) torsion in CCCC[O]
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING QOOQLKSEGVNYLA-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	EXECUTING QOOQLKSEGVNYLA-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	EXECUTING QOOQLKSEGVNYLA-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:53.809651
+
+Beginning workflow for CCC[CH]O at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCC[CH]O/From_Workflow
+
+Geometry & Frequency log file is complete!
+	DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_a1.log for CCC[CH]O is complete!
+
+
+Looking at (13, 0, 4, 12) torsion in CCC[CH]O
+
+
+Looking at (5, 1, 3, 11) torsion in CCC[CH]O
+
+
+Looking at (5, 1, 2, 8) torsion in CCC[CH]O
+
+
+Looking at (8, 2, 4, 12) torsion in CCC[CH]O
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:53.910857
+
+Beginning workflow for CC[CH]CO at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CC[CH]CO/From_Workflow
+
+Geometry & Frequency log file is complete!
+	GIXGVIVAHMJKNP-UHFFFAOYSA-N_GeoFreq_a1.log for CC[CH]CO is complete!
+
+
+Looking at (13, 0, 2, 4) torsion in CC[CH]CO
+
+
+Looking at (3, 1, 4, 12) torsion in CC[CH]CO
+
+
+Looking at (6, 1, 3, 7) torsion in CC[CH]CO
+
+
+Looking at (11, 2, 4, 12) torsion in CC[CH]CO
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING GIXGVIVAHMJKNP-UHFFFAOYSA-N_36by10.0_tor02_a1
+
+	EXECUTING GIXGVIVAHMJKNP-UHFFFAOYSA-N_36by10.0_tor14_a1
+
+	EXECUTING GIXGVIVAHMJKNP-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	EXECUTING GIXGVIVAHMJKNP-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:54.026739
+
+Beginning workflow for C[CH]CCO at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/C[CH]CCO/From_Workflow
+
+Geometry & Frequency log file is complete!
+	DBQZVPSKYUCKNT-UHFFFAOYSA-N_GeoFreq_a1.log for C[CH]CCO is complete!
+
+
+Looking at (13, 0, 2, 7) torsion in C[CH]CCO
+
+
+Looking at (4, 1, 2, 7) torsion in C[CH]CCO
+
+
+Looking at (6, 1, 4, 12) torsion in C[CH]CCO
+
+
+Looking at (9, 3, 4, 12) torsion in C[CH]CCO
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING DBQZVPSKYUCKNT-UHFFFAOYSA-N_36by10.0_tor02_a1
+
+	EXECUTING DBQZVPSKYUCKNT-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	EXECUTING DBQZVPSKYUCKNT-UHFFFAOYSA-N_36by10.0_tor14_a1
+
+	EXECUTING DBQZVPSKYUCKNT-UHFFFAOYSA-N_36by10.0_tor34_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:54.135942
+
+Beginning workflow for [CH2]CCCO at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]CCCO/From_Workflow
+
+Geometry & Frequency log file is complete!
+	SXIFAEWFOJETOA-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]CCCO is complete!
+
+
+Looking at (13, 0, 3, 10) torsion in [CH2]CCCO
+
+
+Looking at (3, 1, 2, 7) torsion in [CH2]CCCO
+
+
+Looking at (2, 1, 3, 10) torsion in [CH2]CCCO
+
+
+Looking at (7, 2, 4, 12) torsion in [CH2]CCCO
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	EXECUTING SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	EXECUTING SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	EXECUTING SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:54.217468
+
+Beginning workflow for CCOC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCOC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	XOBKSJJDNFUZPF-UHFFFAOYSA-N_GeoFreq_a1.log for CCOC is complete!
+
+
+Looking at (3, 0, 1, 2) torsion in CCOC
+
+
+Looking at (1, 0, 3, 10) torsion in CCOC
+
+
+Looking at (5, 1, 2, 8) torsion in CCOC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	EXECUTING XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	EXECUTING XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:54.331475
+
+Beginning workflow for C[CH]OC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/C[CH]OC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	JQCSUVJDBHJKNG-UHFFFAOYSA-N_GeoFreq_a1.log for C[CH]OC is complete!
+
+
+Looking at (2, 0, 3, 10) torsion in C[CH]OC
+
+
+Looking at (3, 0, 2, 7) torsion in C[CH]OC
+
+
+Looking at (6, 1, 3, 10) torsion in C[CH]OC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	EXECUTING JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor02_a1
+
+	EXECUTING JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:54.419682
+
+Beginning workflow for CCO[CH2] at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCO[CH2]/From_Workflow
+
+Geometry & Frequency log file is complete!
+	TVFRQKHUZDMLDB-UHFFFAOYSA-N_GeoFreq_a1.log for CCO[CH2] is complete!
+
+
+Looking at (3, 0, 1, 4) torsion in CCO[CH2]
+
+
+Looking at (1, 0, 3, 10) torsion in CCO[CH2]
+
+
+Looking at (4, 1, 2, 8) torsion in CCO[CH2]
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	EXECUTING TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	EXECUTING TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:54.530178
+
+Beginning workflow for [CH2]COC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]COC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	ZMAYDFGNKOVZRH-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]COC is complete!
+
+
+Looking at (1, 0, 2, 8) torsion in [CH2]COC
+
+
+Looking at (2, 0, 1, 4) torsion in [CH2]COC
+
+
+Looking at (4, 1, 3, 10) torsion in [CH2]COC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING ZMAYDFGNKOVZRH-UHFFFAOYSA-N_36by10.0_tor02_a1
+
+	EXECUTING ZMAYDFGNKOVZRH-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	EXECUTING ZMAYDFGNKOVZRH-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:54.638889
+
+Beginning workflow for COC(C)C at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/COC(C)C/From_Workflow
+
+Geometry & Frequency log file is complete!
+	RMGHERXMTMUMMV-UHFFFAOYSA-N_GeoFreq_a1.log for COC(C)C is complete!
+
+
+Looking at (4, 0, 1, 5) torsion in COC(C)C
+
+
+Looking at (1, 0, 4, 14) torsion in COC(C)C
+
+
+Looking at (5, 1, 2, 8) torsion in COC(C)C
+
+
+Looking at (5, 1, 3, 10) torsion in COC(C)C
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	EXECUTING RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	EXECUTING RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	EXECUTING RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:54.733354
+
+Beginning workflow for CO[C](C)C at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CO[C](C)C/From_Workflow
+
+Geometry & Frequency log file is complete!
+	VSQGJBCHGBRHMO-UHFFFAOYSA-N_GeoFreq_a1.log for CO[C](C)C is complete!
+
+
+Looking at (4, 0, 3, 13) torsion in CO[C](C)C
+
+
+Looking at (3, 0, 4, 2) torsion in CO[C](C)C
+
+
+Looking at (7, 1, 4, 2) torsion in CO[C](C)C
+
+
+Looking at (9, 2, 4, 1) torsion in CO[C](C)C
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor14_a1
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:54.813267
+
+Beginning workflow for [CH2]OC(C)C at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]OC(C)C/From_Workflow
+
+Geometry & Frequency log file is complete!
+	BWWHSGPVJDTLAO-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]OC(C)C is complete!
+
+
+Looking at (1, 0, 4, 13) torsion in [CH2]OC(C)C
+
+
+Looking at (4, 0, 1, 3) torsion in [CH2]OC(C)C
+
+
+Looking at (3, 1, 2, 6) torsion in [CH2]OC(C)C
+
+
+Looking at (2, 1, 3, 11) torsion in [CH2]OC(C)C
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:54.871147
+
+Beginning workflow for [CH2]C(C)OC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]C(C)OC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	FBRHVBFWGRGMCF-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]C(C)OC is complete!
+
+
+Looking at (3, 0, 1, 4) torsion in [CH2]C(C)OC
+
+
+Looking at (1, 0, 3, 11) torsion in [CH2]C(C)OC
+
+
+Looking at (4, 1, 2, 8) torsion in [CH2]C(C)OC
+
+
+Looking at (5, 1, 4, 12) torsion in [CH2]C(C)OC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor14_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:54.985165
+
+Beginning workflow for CCC(=O)OC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCC(=O)OC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	RJUFJBKOKNCXHH-UHFFFAOYSA-N_GeoFreq_a1.log for CCC(=O)OC is complete!
+
+
+Looking at (5, 0, 4, 12) torsion in CCC(=O)OC
+
+
+Looking at (4, 0, 5, 2) torsion in CCC(=O)OC
+
+
+Looking at (5, 2, 3, 8) torsion in CCC(=O)OC
+
+
+Looking at (3, 2, 5, 1) torsion in CCC(=O)OC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING RJUFJBKOKNCXHH-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	EXECUTING RJUFJBKOKNCXHH-UHFFFAOYSA-N_36by10.0_tor05_a1
+
+	EXECUTING RJUFJBKOKNCXHH-UHFFFAOYSA-N_36by10.0_tor23_a1
+
+	EXECUTING RJUFJBKOKNCXHH-UHFFFAOYSA-N_36by10.0_tor25_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:55.070195
+
+Beginning workflow for C[CH]C(=O)OC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/C[CH]C(=O)OC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	DUEVIJNWLJUFDM-UHFFFAOYSA-N_GeoFreq_a1.log for C[CH]C(=O)OC is complete!
+
+
+Looking at (5, 0, 3, 11) torsion in C[CH]C(=O)OC
+
+
+Looking at (3, 0, 5, 4) torsion in C[CH]C(=O)OC
+
+
+Looking at (8, 2, 4, 5) torsion in C[CH]C(=O)OC
+
+
+Looking at (12, 4, 5, 1) torsion in C[CH]C(=O)OC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor05_a1
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor45_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:55.191207
+
+Beginning workflow for [CH2]CC(=O)OC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]CC(=O)OC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	NPQBOSHSVUVOHJ-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]CC(=O)OC is complete!
+
+
+Looking at (3, 0, 4, 2) torsion in [CH2]CC(=O)OC
+
+
+Looking at (4, 0, 3, 9) torsion in [CH2]CC(=O)OC
+
+
+Looking at (5, 2, 4, 1) torsion in [CH2]CC(=O)OC
+
+
+Looking at (7, 2, 5, 12) torsion in [CH2]CC(=O)OC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING NPQBOSHSVUVOHJ-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	EXECUTING NPQBOSHSVUVOHJ-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	EXECUTING NPQBOSHSVUVOHJ-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+	EXECUTING NPQBOSHSVUVOHJ-UHFFFAOYSA-N_36by10.0_tor25_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:55.299518
+
+Beginning workflow for [CH2]OC(=O)CC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]OC(=O)CC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	OJWHOIQFDAGZNF-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]OC(=O)CC is complete!
+
+
+Looking at (4, 0, 5, 12) torsion in [CH2]OC(=O)CC
+
+
+Looking at (5, 0, 4, 2) torsion in [CH2]OC(=O)CC
+
+
+Looking at (6, 2, 3, 10) torsion in [CH2]OC(=O)CC
+
+
+Looking at (6, 2, 4, 1) torsion in [CH2]OC(=O)CC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor05_a1
+
+	EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor23_a1
+
+	EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+2019-03-11 17:48:55.385376
+
+Beginning workflow for ONCC(=O)O at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/ONCC(=O)O/From_Workflow
+
+Geometry & Frequency log file is complete!
+	NPWGWQRXHVJJRD-UHFFFAOYSA-N_GeoFreq_a1.log for ONCC(=O)O is complete!
+
+
+Looking at (9, 0, 3, 8) torsion in ONCC(=O)O
+
+
+Looking at (10, 1, 5, 4) torsion in ONCC(=O)O
+
+
+Looking at (8, 3, 4, 7) torsion in ONCC(=O)O
+
+
+Looking at (7, 4, 5, 2) torsion in ONCC(=O)O
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor15_a1
+
+	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor34_a1
+
+	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor45_a1
+
+
+
+===========================================================================================

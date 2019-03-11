@@ -1,0 +1,43 @@
+
+
+===========================================================================================
+
+2019-03-11 17:50:17.199251
+
+Beginning workflow for [CH2]CCCO at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/[CH2]CCCO/From_Workflow
+
+Geometry & Frequency log file is complete!
+	SXIFAEWFOJETOA-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]CCCO is complete!
+
+
+Looking at (13, 0, 3, 10) torsion in [CH2]CCCO
+
+	Torsion log file is complete!
+		SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor03_a1.log for [CH2]CCCO exists and is complete!
+
+
+Looking at (6, 1, 2, 7) torsion in [CH2]CCCO
+
+	Torsion log file is complete!
+		SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor12_a1.log for [CH2]CCCO exists and is complete!
+
+
+Looking at (6, 1, 3, 10) torsion in [CH2]CCCO
+
+	Torsion log file is complete!
+		SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor13_a1.log for [CH2]CCCO exists and is complete!
+
+
+Looking at (7, 2, 4, 12) torsion in [CH2]CCCO
+
+	Torsion log file is complete!
+		SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor24_a1.log for [CH2]CCCO exists and is complete!
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+
+
+===========================================================================================

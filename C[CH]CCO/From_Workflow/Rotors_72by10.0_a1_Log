@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-09 13:21:12.024811
+2019-03-10 23:59:10.004530
 
 Beginning workflow for C[CH]CCO at:
 	/home/underkoffler.c/Code/Hindered_Rotors/C[CH]CCO/From_Workflow
@@ -10,53 +10,41 @@ Beginning workflow for C[CH]CCO at:
 Geometry & Frequency log file is complete!
 	DBQZVPSKYUCKNT-UHFFFAOYSA-N_GeoFreq_a1.log for C[CH]CCO is complete!
 
+
 Looking at (13, 0, 2, 7) torsion in C[CH]CCO
 
-	Torsion log file NOT FOUND or NOT COMPLETE.
-		DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor02_a1.log for C[CH]CCO NOT FOUND or NOT COMPLETE.
-		Looking for existing DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor02_a1.com
+	Torsion log file is complete!
+		DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor02_a1.log for C[CH]CCO exists and is complete!
 
-	Torsion input file NOT FOUND.
-		DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor02_a1.com for C[CH]CCO NOT FOUND.
-		Generating one now..
+(13, 0, 2, 7) NOT Verified. Suggest running with different initial geometry
 
-	EXECUTING DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor02_a1.com
 
-Looking at (4, 1, 2, 7) torsion in C[CH]CCO
+Looking at (6, 1, 4, 12) torsion in C[CH]CCO
+
+	Torsion log file is complete!
+		DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor14_a1.log for C[CH]CCO exists and is complete!
+
+(6, 1, 4, 12) NOT Verified. Suggest running with different initial geometry
+
+
+Looking at (6, 1, 2, 7) torsion in C[CH]CCO
 
 	Torsion log file NOT FOUND or NOT COMPLETE.
 		DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor12_a1.log for C[CH]CCO NOT FOUND or NOT COMPLETE.
 		Looking for existing DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor12_a1.com
 
-	Torsion input file NOT FOUND.
-		DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor12_a1.com for C[CH]CCO NOT FOUND.
-		Generating one now..
+	Using previous torsion input file.
+		DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor12_a1.com for C[CH]CCO exists!
 
 	EXECUTING DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor12_a1.com
 
-Looking at (6, 1, 4, 12) torsion in C[CH]CCO
 
-	Torsion log file NOT FOUND or NOT COMPLETE.
-		DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor14_a1.log for C[CH]CCO NOT FOUND or NOT COMPLETE.
-		Looking for existing DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor14_a1.com
+Looking at (10, 3, 4, 12) torsion in C[CH]CCO
 
-	Torsion input file NOT FOUND.
-		DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor14_a1.com for C[CH]CCO NOT FOUND.
-		Generating one now..
+	Torsion log file is complete!
+		DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor34_a1.log for C[CH]CCO exists and is complete!
 
-	EXECUTING DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor14_a1.com
-
-Looking at (11, 3, 4, 12) torsion in C[CH]CCO
-
-	Torsion log file NOT FOUND or NOT COMPLETE.
-		DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor34_a1.log for C[CH]CCO NOT FOUND or NOT COMPLETE.
-		Looking for existing DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor34_a1.com
-
-	Torsion input file NOT FOUND.
-		DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor34_a1.com for C[CH]CCO NOT FOUND.
-		Generating one now..
-
-	EXECUTING DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by10.0_tor34_a1.com
+(10, 3, 4, 12) NOT Verified. Suggest running with different initial geometry
 
 
 

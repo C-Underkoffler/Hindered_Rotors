@@ -1,0 +1,39 @@
+
+
+===========================================================================================
+
+2019-03-11 17:50:26.483388
+
+Beginning workflow for CCOC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/CCOC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	XOBKSJJDNFUZPF-UHFFFAOYSA-N_GeoFreq_a1.log for CCOC is complete!
+
+
+Looking at (1, 0, 3, 11) torsion in CCOC
+
+	Torsion log file is complete!
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor03_a1.log for CCOC exists and is complete!
+
+
+Looking at (3, 0, 1, 2) torsion in CCOC
+
+	Torsion log file is complete!
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor01_a1.log for CCOC exists and is complete!
+
+
+Looking at (4, 1, 2, 8) torsion in CCOC
+
+	Torsion log file is complete!
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor12_a1.log for CCOC exists and is complete!
+
+Scans Indicate there is a conformer lower than what was previously known.
+
+Generating new lowest conformer and using it to write GeoFreq as attemp: 2
+
+EXECUTING XOBKSJJDNFUZPF-UHFFFAOYSA-N_GeoFreq_a2.com
+
+
+
+===========================================================================================

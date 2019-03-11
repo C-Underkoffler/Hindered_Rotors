@@ -1,0 +1,45 @@
+
+
+===========================================================================================
+
+2019-03-11 17:45:44.185637
+
+Beginning workflow for [CH2]OC(=O)CC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/[CH2]OC(=O)CC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	OJWHOIQFDAGZNF-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]OC(=O)CC is complete!
+
+
+Looking at (5, 0, 4, 2) torsion in [CH2]OC(=O)CC
+
+	Torsion log file is complete!
+		OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor04_a1.log for [CH2]OC(=O)CC exists and is complete!
+
+
+Looking at (4, 0, 5, 11) torsion in [CH2]OC(=O)CC
+
+	Torsion log file is complete!
+		OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor05_a1.log for [CH2]OC(=O)CC exists and is complete!
+
+
+Looking at (3, 2, 4, 1) torsion in [CH2]OC(=O)CC
+
+	Torsion log file is complete!
+		OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor24_a1.log for [CH2]OC(=O)CC exists and is complete!
+
+
+Looking at (7, 2, 3, 10) torsion in [CH2]OC(=O)CC
+
+	Torsion log file is complete!
+		OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor23_a1.log for [CH2]OC(=O)CC exists and is complete!
+
+Scans Indicate there is a conformer lower than what was previously known.
+
+Generating new lowest conformer and using it to write GeoFreq as attemp: 2
+
+EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_GeoFreq_a2.com
+
+
+
+===========================================================================================

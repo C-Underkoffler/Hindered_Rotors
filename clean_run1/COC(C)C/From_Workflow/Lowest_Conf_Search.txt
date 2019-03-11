@@ -1,0 +1,46 @@
+
+
+COC(C)C
+Energy of conformer using hotbit: Log conformer came from
+
+If log is scan, conformer chosen by lowest SCF energy
+
+default	:	-79.5370525646
+/home/underkoffler.c/Code/Hindered_Rotors/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA-N_GeoFreq_a1.log
+	-79.7367355556
+/home/underkoffler.c/Code/Hindered_Rotors/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA_tor01.log
+	-79.7367355556
+/home/underkoffler.c/Code/Hindered_Rotors/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA-N_72by10.0_tor13_a1.log
+	-79.7367438232
+/home/underkoffler.c/Code/Hindered_Rotors/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA_tor12.log
+	-79.736734713
+/home/underkoffler.c/Code/Hindered_Rotors/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA-N_72by10.0_tor04_a1.log
+	-79.7367355556
+/home/underkoffler.c/Code/Hindered_Rotors/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA_tor04.log
+	-79.7367355556
+/home/underkoffler.c/Code/Hindered_Rotors/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA_tor13.log
+	-79.7367438232
+/home/underkoffler.c/Code/Hindered_Rotors/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA-N_72by10.0_tor01_a1.log
+	-79.7367355556
+/home/underkoffler.c/Code/Hindered_Rotors/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA-N_72by10.0_tor12_a1.log
+	-79.736734713
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor13_a1.log
+	-79.7367391473
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA-N_GeoFreq_a1.log
+	-79.7367380864
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA_tor01.log
+	-79.7367380864
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor04_a1.log
+	-79.7367419538
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA_tor12.log
+	-79.7367465281
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor12_a1.log
+	-79.7367465281
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA_tor04.log
+	-79.7367419538
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA_tor13.log
+	-79.7367391473
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/COC(C)C/From_Workflow/RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor01_a1.log
+	-79.7367380864
+
+Done Searching through Logs

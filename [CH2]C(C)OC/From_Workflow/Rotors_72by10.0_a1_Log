@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-09 13:21:34.407726
+2019-03-11 00:00:23.219746
 
 Beginning workflow for [CH2]C(C)OC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/[CH2]C(C)OC/From_Workflow
@@ -10,41 +10,26 @@ Beginning workflow for [CH2]C(C)OC at:
 Geometry & Frequency log file is complete!
 	FBRHVBFWGRGMCF-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]C(C)OC is complete!
 
+
 Looking at (3, 0, 1, 5) torsion in [CH2]C(C)OC
 
 	Torsion log file NOT FOUND or NOT COMPLETE.
 		FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor01_a1.log for [CH2]C(C)OC NOT FOUND or NOT COMPLETE.
 		Looking for existing FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor01_a1.com
 
-	Torsion input file NOT FOUND.
-		FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor01_a1.com for [CH2]C(C)OC NOT FOUND.
-		Generating one now..
+	Using previous torsion input file.
+		FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor01_a1.com for [CH2]C(C)OC exists!
 
 	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor01_a1.com
 
-Looking at (1, 0, 3, 9) torsion in [CH2]C(C)OC
 
-	Torsion log file NOT FOUND or NOT COMPLETE.
-		FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor03_a1.log for [CH2]C(C)OC NOT FOUND or NOT COMPLETE.
-		Looking for existing FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor03_a1.com
+Looking at (1, 0, 3, 11) torsion in [CH2]C(C)OC
 
-	Torsion input file NOT FOUND.
-		FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor03_a1.com for [CH2]C(C)OC NOT FOUND.
-		Generating one now..
+	Torsion log file is complete!
+		FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor03_a1.log for [CH2]C(C)OC exists and is complete!
 
-	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor03_a1.com
+(1, 0, 3, 11) Verified!
 
-Looking at (5, 1, 2, 8) torsion in [CH2]C(C)OC
-
-	Torsion log file NOT FOUND or NOT COMPLETE.
-		FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor12_a1.log for [CH2]C(C)OC NOT FOUND or NOT COMPLETE.
-		Looking for existing FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor12_a1.com
-
-	Torsion input file NOT FOUND.
-		FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor12_a1.com for [CH2]C(C)OC NOT FOUND.
-		Generating one now..
-
-	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor12_a1.com
 
 Looking at (5, 1, 4, 13) torsion in [CH2]C(C)OC
 
@@ -52,11 +37,18 @@ Looking at (5, 1, 4, 13) torsion in [CH2]C(C)OC
 		FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor14_a1.log for [CH2]C(C)OC NOT FOUND or NOT COMPLETE.
 		Looking for existing FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor14_a1.com
 
-	Torsion input file NOT FOUND.
-		FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor14_a1.com for [CH2]C(C)OC NOT FOUND.
-		Generating one now..
+	Using previous torsion input file.
+		FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor14_a1.com for [CH2]C(C)OC exists!
 
 	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor14_a1.com
+
+
+Looking at (5, 1, 2, 8) torsion in [CH2]C(C)OC
+
+	Torsion log file is complete!
+		FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor12_a1.log for [CH2]C(C)OC exists and is complete!
+
+(5, 1, 2, 8) NOT Verified. Suggest running with different initial geometry
 
 
 

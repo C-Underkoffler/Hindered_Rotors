@@ -1,0 +1,20 @@
+Error: segmentation violation
+   rax 0000000000000000, rbx ffffffffffffffff, rcx ffffffffffffffff
+   rdx 0000000000007b94, rsp 00007fff5be94ad8, rbp 00007fff5be95050
+   rsi 000000000000000b, rdi 0000000000007b94, r8  0000000000000020
+   r9  00002afba1352470, r10 00007fff5be94560, r11 0000000000000206
+   r12 00007fff5be95098, r13 0000000000000000, r14 0000000000000000
+   r15 00000000000003e6
+  /lib64/libpthread.so.0(+0xf6d0) [0x2afba0cf06d0]
+  /lib64/libc.so.6(kill+0x7) [0x2afba1235547]
+  /shared/centos7/gaussian/g16/l103.exe() [0x45a050]
+  /shared/centos7/gaussian/g16/l103.exe() [0x471611]
+  /shared/centos7/gaussian/g16/l103.exe() [0x49fe91]
+  /shared/centos7/gaussian/g16/l103.exe() [0x48fd69]
+  /shared/centos7/gaussian/g16/l103.exe() [0x4d097d]
+  /shared/centos7/gaussian/g16/l103.exe() [0x43445f]
+  /shared/centos7/gaussian/g16/l103.exe() [0x40e023]
+  /shared/centos7/gaussian/g16/l103.exe() [0x403a47]
+  /shared/centos7/gaussian/g16/l103.exe() [0x40397d]
+  /lib64/libc.so.6(__libc_start_main+0xf5) [0x2afba1221445]
+  /shared/centos7/gaussian/g16/l103.exe(sched_setaffinity+0xa1) [0x4038a9]

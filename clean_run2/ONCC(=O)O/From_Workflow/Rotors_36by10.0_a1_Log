@@ -1,0 +1,37 @@
+
+
+===========================================================================================
+
+2019-03-11 17:48:55.385376
+
+Beginning workflow for ONCC(=O)O at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/ONCC(=O)O/From_Workflow
+
+Geometry & Frequency log file is complete!
+	NPWGWQRXHVJJRD-UHFFFAOYSA-N_GeoFreq_a1.log for ONCC(=O)O is complete!
+
+
+Looking at (9, 0, 3, 8) torsion in ONCC(=O)O
+
+
+Looking at (10, 1, 5, 4) torsion in ONCC(=O)O
+
+
+Looking at (8, 3, 4, 7) torsion in ONCC(=O)O
+
+
+Looking at (7, 4, 5, 2) torsion in ONCC(=O)O
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor15_a1
+
+	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor34_a1
+
+	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor45_a1
+
+
+
+===========================================================================================

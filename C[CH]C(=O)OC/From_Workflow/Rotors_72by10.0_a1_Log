@@ -2,24 +2,57 @@
 
 ===========================================================================================
 
-2019-03-09 01:44:56.830572
+2019-03-11 00:00:41.823524
 
 Beginning workflow for C[CH]C(=O)OC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/C[CH]C(=O)OC/From_Workflow
 
-Geometry & Frequency log file NOT FOUND or NOT COMPLETE
-	DUEVIJNWLJUFDM-UHFFFAOYSA-N_GeoFreq_a1.log for C[CH]C(=O)OC NOT FOUND or NOT COMPLETE.
-	Looking for DUEVIJNWLJUFDM-UHFFFAOYSA-N_GeoFreq_a1.log
+Geometry & Frequency log file is complete!
+	DUEVIJNWLJUFDM-UHFFFAOYSA-N_GeoFreq_a1.log for C[CH]C(=O)OC is complete!
 
-Lowest Conformer Pickle NOT FOUND
-	C[CH]C(=O)OC_lowest_conf.pickle NOT FOUND
-	Generating one using Hotbit...
 
-Geometry & Frequencey input file NOT FOUND
-	DUEVIJNWLJUFDM-UHFFFAOYSA-N_GeoFreq_a1.com for C[CH]C(=O)OC NOT FOUND.
-	Generating one now...
+Looking at (5, 0, 3, 11) torsion in C[CH]C(=O)OC
 
-EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_GeoFreq_a1.com
+	Torsion log file NOT FOUND or NOT COMPLETE.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_72by10.0_tor03_a1.log for C[CH]C(=O)OC NOT FOUND or NOT COMPLETE.
+		Looking for existing DUEVIJNWLJUFDM-UHFFFAOYSA-N_72by10.0_tor03_a1.com
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_72by10.0_tor03_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_72by10.0_tor03_a1.com
+
+
+Looking at (3, 0, 5, 4) torsion in C[CH]C(=O)OC
+
+	Torsion log file NOT FOUND or NOT COMPLETE.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_72by10.0_tor05_a1.log for C[CH]C(=O)OC NOT FOUND or NOT COMPLETE.
+		Looking for existing DUEVIJNWLJUFDM-UHFFFAOYSA-N_72by10.0_tor05_a1.com
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_72by10.0_tor05_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_72by10.0_tor05_a1.com
+
+
+Looking at (8, 2, 4, 5) torsion in C[CH]C(=O)OC
+
+	Torsion log file NOT FOUND or NOT COMPLETE.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_72by10.0_tor24_a1.log for C[CH]C(=O)OC NOT FOUND or NOT COMPLETE.
+		Looking for existing DUEVIJNWLJUFDM-UHFFFAOYSA-N_72by10.0_tor24_a1.com
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_72by10.0_tor24_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_72by10.0_tor24_a1.com
+
+
+Looking at (12, 4, 5, 1) torsion in C[CH]C(=O)OC
+
+	Torsion log file is complete!
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_72by10.0_tor45_a1.log for C[CH]C(=O)OC exists and is complete!
+
+(12, 4, 5, 1) Verified!
 
 
 

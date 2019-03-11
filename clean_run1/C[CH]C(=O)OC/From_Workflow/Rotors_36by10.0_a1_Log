@@ -1,0 +1,44 @@
+
+
+===========================================================================================
+
+2019-03-11 17:45:29.836379
+
+Beginning workflow for C[CH]C(=O)OC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/C[CH]C(=O)OC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	DUEVIJNWLJUFDM-UHFFFAOYSA-N_GeoFreq_a1.log for C[CH]C(=O)OC is complete!
+
+
+Looking at (3, 0, 5, 4) torsion in C[CH]C(=O)OC
+
+	Torsion log file is complete!
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor05_a1.log for C[CH]C(=O)OC exists and is complete!
+
+
+Looking at (5, 0, 3, 11) torsion in C[CH]C(=O)OC
+
+	Torsion log file is complete!
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor03_a1.log for C[CH]C(=O)OC exists and is complete!
+
+
+Looking at (6, 2, 4, 12) torsion in C[CH]C(=O)OC
+
+	Torsion log file is complete!
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor24_a1.log for C[CH]C(=O)OC exists and is complete!
+
+
+Looking at (12, 4, 5, 1) torsion in C[CH]C(=O)OC
+
+	Torsion log file is complete!
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor45_a1.log for C[CH]C(=O)OC exists and is complete!
+
+Scans are using lowest known conformer and all have completed to satisfaction for C[CH]C(=O)OC
+
+Species.py for C[CH]C(=O)OC exists!
+	DUEVIJNWLJUFDM-UHFFFAOYSA.py
+
+
+
+===========================================================================================

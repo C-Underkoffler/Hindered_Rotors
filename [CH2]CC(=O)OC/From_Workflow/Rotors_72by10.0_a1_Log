@@ -2,24 +2,53 @@
 
 ===========================================================================================
 
-2019-03-09 01:49:45.286542
+2019-03-11 00:00:45.629449
 
 Beginning workflow for [CH2]CC(=O)OC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/[CH2]CC(=O)OC/From_Workflow
 
-Geometry & Frequency log file NOT FOUND or NOT COMPLETE
-	NPQBOSHSVUVOHJ-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]CC(=O)OC NOT FOUND or NOT COMPLETE.
-	Looking for NPQBOSHSVUVOHJ-UHFFFAOYSA-N_GeoFreq_a1.log
+Geometry & Frequency log file is complete!
+	NPQBOSHSVUVOHJ-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]CC(=O)OC is complete!
 
-Lowest Conformer Pickle NOT FOUND
-	[CH2]CC(=O)OC_lowest_conf.pickle NOT FOUND
-	Generating one using Hotbit...
 
-Geometry & Frequencey input file NOT FOUND
-	NPQBOSHSVUVOHJ-UHFFFAOYSA-N_GeoFreq_a1.com for [CH2]CC(=O)OC NOT FOUND.
-	Generating one now...
+Looking at (3, 0, 4, 2) torsion in [CH2]CC(=O)OC
 
-EXECUTING NPQBOSHSVUVOHJ-UHFFFAOYSA-N_GeoFreq_a1.com
+	Torsion log file NOT FOUND or NOT COMPLETE.
+		NPQBOSHSVUVOHJ-UHFFFAOYSA-N_72by10.0_tor04_a1.log for [CH2]CC(=O)OC NOT FOUND or NOT COMPLETE.
+		Looking for existing NPQBOSHSVUVOHJ-UHFFFAOYSA-N_72by10.0_tor04_a1.com
+
+	Using previous torsion input file.
+		NPQBOSHSVUVOHJ-UHFFFAOYSA-N_72by10.0_tor04_a1.com for [CH2]CC(=O)OC exists!
+
+	EXECUTING NPQBOSHSVUVOHJ-UHFFFAOYSA-N_72by10.0_tor04_a1.com
+
+
+Looking at (4, 0, 3, 8) torsion in [CH2]CC(=O)OC
+
+	Torsion log file is complete!
+		NPQBOSHSVUVOHJ-UHFFFAOYSA-N_72by10.0_tor03_a1.log for [CH2]CC(=O)OC exists and is complete!
+
+(4, 0, 3, 8) NOT Verified. Suggest running with different initial geometry
+
+
+Looking at (7, 2, 5, 11) torsion in [CH2]CC(=O)OC
+
+	Torsion log file NOT FOUND or NOT COMPLETE.
+		NPQBOSHSVUVOHJ-UHFFFAOYSA-N_72by10.0_tor25_a1.log for [CH2]CC(=O)OC NOT FOUND or NOT COMPLETE.
+		Looking for existing NPQBOSHSVUVOHJ-UHFFFAOYSA-N_72by10.0_tor25_a1.com
+
+	Using previous torsion input file.
+		NPQBOSHSVUVOHJ-UHFFFAOYSA-N_72by10.0_tor25_a1.com for [CH2]CC(=O)OC exists!
+
+	EXECUTING NPQBOSHSVUVOHJ-UHFFFAOYSA-N_72by10.0_tor25_a1.com
+
+
+Looking at (7, 2, 4, 1) torsion in [CH2]CC(=O)OC
+
+	Torsion log file is complete!
+		NPQBOSHSVUVOHJ-UHFFFAOYSA-N_72by10.0_tor24_a1.log for [CH2]CC(=O)OC exists and is complete!
+
+(7, 2, 4, 1) NOT Verified. Suggest running with different initial geometry
 
 
 

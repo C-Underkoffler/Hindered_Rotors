@@ -1,0 +1,32 @@
+
+
+===========================================================================================
+
+2019-03-11 17:48:54.530178
+
+Beginning workflow for [CH2]COC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]COC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	ZMAYDFGNKOVZRH-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]COC is complete!
+
+
+Looking at (1, 0, 2, 8) torsion in [CH2]COC
+
+
+Looking at (2, 0, 1, 4) torsion in [CH2]COC
+
+
+Looking at (4, 1, 3, 10) torsion in [CH2]COC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING ZMAYDFGNKOVZRH-UHFFFAOYSA-N_36by10.0_tor02_a1
+
+	EXECUTING ZMAYDFGNKOVZRH-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	EXECUTING ZMAYDFGNKOVZRH-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================

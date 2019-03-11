@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-09 13:21:20.782104
+2019-03-10 23:59:43.846398
 
 Beginning workflow for CCO[CH2] at:
 	/home/underkoffler.c/Code/Hindered_Rotors/CCO[CH2]/From_Workflow
@@ -10,41 +10,29 @@ Beginning workflow for CCO[CH2] at:
 Geometry & Frequency log file is complete!
 	TVFRQKHUZDMLDB-UHFFFAOYSA-N_GeoFreq_a1.log for CCO[CH2] is complete!
 
-Looking at (3, 0, 1, 5) torsion in CCO[CH2]
 
-	Torsion log file NOT FOUND or NOT COMPLETE.
-		TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor01_a1.log for CCO[CH2] NOT FOUND or NOT COMPLETE.
-		Looking for existing TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor01_a1.com
+Looking at (1, 0, 3, 10) torsion in CCO[CH2]
 
-	Torsion input file NOT FOUND.
-		TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor01_a1.com for CCO[CH2] NOT FOUND.
-		Generating one now..
+	Torsion log file is complete!
+		TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor03_a1.log for CCO[CH2] exists and is complete!
 
-	EXECUTING TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor01_a1.com
+(1, 0, 3, 10) NOT Verified. Suggest running with different initial geometry
 
-Looking at (1, 0, 3, 9) torsion in CCO[CH2]
 
-	Torsion log file NOT FOUND or NOT COMPLETE.
-		TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor03_a1.log for CCO[CH2] NOT FOUND or NOT COMPLETE.
-		Looking for existing TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor03_a1.com
+Looking at (3, 0, 1, 4) torsion in CCO[CH2]
 
-	Torsion input file NOT FOUND.
-		TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor03_a1.com for CCO[CH2] NOT FOUND.
-		Generating one now..
+	Torsion log file is complete!
+		TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor01_a1.log for CCO[CH2] exists and is complete!
 
-	EXECUTING TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor03_a1.com
+(3, 0, 1, 4) NOT Verified. Suggest running with different initial geometry
 
-Looking at (5, 1, 2, 8) torsion in CCO[CH2]
 
-	Torsion log file NOT FOUND or NOT COMPLETE.
-		TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor12_a1.log for CCO[CH2] NOT FOUND or NOT COMPLETE.
-		Looking for existing TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor12_a1.com
+Looking at (4, 1, 2, 8) torsion in CCO[CH2]
 
-	Torsion input file NOT FOUND.
-		TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor12_a1.com for CCO[CH2] NOT FOUND.
-		Generating one now..
+	Torsion log file is complete!
+		TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor12_a1.log for CCO[CH2] exists and is complete!
 
-	EXECUTING TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor12_a1.com
+(4, 1, 2, 8) Verified!
 
 
 

@@ -1,0 +1,30 @@
+
+
+[CH2]COC
+Energy of conformer using hotbit: Log conformer came from
+
+If log is scan, conformer chosen by lowest SCF energy
+
+default	:	-56.4763484914
+/home/underkoffler.c/Code/Hindered_Rotors/[CH2]COC/From_Workflow/ZMAYDFGNKOVZRH-UHFFFAOYSA-N_GeoFreq_a1.log
+	-56.8900498924
+/home/underkoffler.c/Code/Hindered_Rotors/[CH2]COC/From_Workflow/ZMAYDFGNKOVZRH-UHFFFAOYSA-N-u1_72by10.0_tor02_a1.log
+	-56.8900496497
+/home/underkoffler.c/Code/Hindered_Rotors/[CH2]COC/From_Workflow/ZMAYDFGNKOVZRH-UHFFFAOYSA_tor13.log
+	-56.8900498924
+/home/underkoffler.c/Code/Hindered_Rotors/[CH2]COC/From_Workflow/ZMAYDFGNKOVZRH-UHFFFAOYSA-N-u1_GeoFreq_a1.log
+	-56.8900496497
+/home/underkoffler.c/Code/Hindered_Rotors/[CH2]COC/From_Workflow/ZMAYDFGNKOVZRH-UHFFFAOYSA_tor01.log
+	-56.8900498924
+/home/underkoffler.c/Code/Hindered_Rotors/[CH2]COC/From_Workflow/ZMAYDFGNKOVZRH-UHFFFAOYSA-N_72by10.0_tor02_a1.log
+	-56.8900498924
+/home/underkoffler.c/Code/Hindered_Rotors/[CH2]COC/From_Workflow/ZMAYDFGNKOVZRH-UHFFFAOYSA-N-u1_72by10.0_tor13_a1.log
+	-56.8900496497
+/home/underkoffler.c/Code/Hindered_Rotors/[CH2]COC/From_Workflow/ZMAYDFGNKOVZRH-UHFFFAOYSA-N_72by10.0_tor13_a1.log
+	-56.8900498924
+/home/underkoffler.c/Code/Hindered_Rotors/[CH2]COC/From_Workflow/ZMAYDFGNKOVZRH-UHFFFAOYSA-N_72by10.0_tor01_a1.log
+	-56.8900498924
+/home/underkoffler.c/Code/Hindered_Rotors/[CH2]COC/From_Workflow/ZMAYDFGNKOVZRH-UHFFFAOYSA-N-u1_72by10.0_tor01_a1.log
+	-56.8900496497
+/home/underkoffler.c/Code/Hindered_Rotors/[CH2]COC/From_Workflow/ZMAYDFGNKOVZRH-UHFFFAOYSA_tor02.log
+	-56.8900498924

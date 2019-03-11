@@ -1,0 +1,56 @@
+
+
+CCO[CH2]
+Energy of conformer using hotbit: Log conformer came from
+
+If log is scan, conformer chosen by lowest SCF energy
+
+default	:	-56.7285416325
+/home/underkoffler.c/Code/Hindered_Rotors/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor03_a1.log
+	-57.0801381991
+/home/underkoffler.c/Code/Hindered_Rotors/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor12_a1.log
+	-57.043131239
+/home/underkoffler.c/Code/Hindered_Rotors/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA-N-u2_72by10.0_tor12_a1.log
+	-57.071310494
+/home/underkoffler.c/Code/Hindered_Rotors/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA-N-u2_GeoFreq_a1.log
+	-57.071310494
+/home/underkoffler.c/Code/Hindered_Rotors/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA_tor01.log
+	-57.0663907032
+/home/underkoffler.c/Code/Hindered_Rotors/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA-N_GeoFreq_a1.log
+	-57.043131239
+/home/underkoffler.c/Code/Hindered_Rotors/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA-N-u2_72by10.0_tor03_a1.log
+	-57.071310494
+/home/underkoffler.c/Code/Hindered_Rotors/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA-N-u2_72by10.0_tor01_a1.log
+	-57.071310494
+/home/underkoffler.c/Code/Hindered_Rotors/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA-N_72by10.0_tor01_a1.log
+	-57.0663907032
+/home/underkoffler.c/Code/Hindered_Rotors/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA_tor12.log
+	-57.043131239
+/home/underkoffler.c/Code/Hindered_Rotors/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA_tor03.log
+	-57.0801381991
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by10.0_tor01_a1.log
+	-57.071169289
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by10.0_tor12_a1.log
+	-57.0431331478
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by10.0_tor03_a1.log
+	-57.0866469997
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA_tor01.log
+	-57.071169289
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA-N_GeoFreq_a1.log
+	-57.0431331478
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA_tor12.log
+	-57.0431331478
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA_tor03.log
+	-57.0866469997
+
+Done Searching through Logs
+
+LOWEST FOUND:
+-57.0866469997	:	/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by10.0_tor03_a1.log
+Creating geo-freq input for min_conf.
+	Conf sourced from /home/underkoffler.c/Code/Hindered_Rotors/clean_run1/CCO[CH2]/From_Workflow/TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by10.0_tor03_a1.log
+	New Geo-Freq Input: TVFRQKHUZDMLDB-UHFFFAOYSA-N_GeoFreq_a1.com
+
+EXECUTED TVFRQKHUZDMLDB-UHFFFAOYSA-N_GeoFreq_a1.com.com
+
+

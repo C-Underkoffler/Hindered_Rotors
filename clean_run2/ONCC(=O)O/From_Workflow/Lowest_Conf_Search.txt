@@ -1,0 +1,63 @@
+
+
+ONCC(=O)O
+Energy of conformer using hotbit: Log conformer came from
+
+If log is scan, conformer chosen by lowest SCF energy
+
+default	:	-68.0171792812
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor15.log
+	-69.3752437455
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor03_a1.log
+	-69.5694474958
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor03_a2.log
+	-69.5660760346
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor34_a3.log
+	-69.5255134818
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor03_a4.log
+	-69.5664165422
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor45_a3.log
+	-69.5663049545
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor03.log
+	-69.5694474958
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor34_a4.log
+	-69.5664165422
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor45_a1.log
+	-69.375489361
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor34_a1.log
+	-69.4729662253
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor45.log
+	-69.375489361
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_GeoFreq.log
+	-69.3964890014
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor34_a2.log
+	-69.4736254251
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor15_a1.log
+	-69.3752437455
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor15_a2.log
+	-69.4570888207
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor45_a4.log
+	-69.5664165422
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor45_a2.log
+	-69.4570182943
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor15_a4.log
+	-69.5664165422
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor34.log
+	-69.4729662253
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor03_a3.log
+	-69.5665651284
+/home/underkoffler.c/Code/Hindered_Rotors/ONCC(=O)O/From_Workflow/NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by10.0_tor15_a3.log
+	-69.5663074128
+
+Done Searching through Logs
+hotbit_gen	:	-70.1490728187
+
+LOWEST FOUND:
+-70.1490728187	:	hotbit_gen
+Creating geo-freq input for min_conf.
+	Conf sourced from hotbit_gen
+	New Geo-Freq Input: NPWGWQRXHVJJRD-UHFFFAOYSA-N_GeoFreq_a1.com
+
+EXECUTED NPWGWQRXHVJJRD-UHFFFAOYSA-N_GeoFreq_a1.com.com
+
+

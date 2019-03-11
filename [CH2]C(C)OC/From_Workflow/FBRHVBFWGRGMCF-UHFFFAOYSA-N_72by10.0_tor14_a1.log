@@ -2,8 +2,8 @@
  Input=FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor14_a1.com
  Output=FBRHVBFWGRGMCF-UHFFFAOYSA-N_72by10.0_tor14_a1.log
  Initial command:
- /shared/centos7/gaussian/g16/l1.exe "/scratch/underkoffler.c/gaussian_scratch/Gau-40609.inp" -scrdir="/scratch/underkoffler.c/gaussian_scratch/"
- Entering Link 1 = /shared/centos7/gaussian/g16/l1.exe PID=     40610.
+ /shared/centos7/gaussian/g16/l1.exe "/scratch/underkoffler.c/gaussian_scratch/Gau-26982.inp" -scrdir="/scratch/underkoffler.c/gaussian_scratch/"
+ Entering Link 1 = /shared/centos7/gaussian/g16/l1.exe PID=     26983.
   
  Copyright (c) 1988,1990,1992,1993,1995,1998,2003,2009,2016,
             Gaussian, Inc.  All Rights Reserved.
@@ -77,7 +77,7 @@
  
  ******************************************
  Gaussian 16:  EM64L-G16RevA.03 25-Dec-2016
-                 9-Mar-2019 
+                11-Mar-2019 
  ******************************************
  %nprocshared=20
  Will use up to   20 processors via shared memory.
@@ -107,7 +107,7 @@
  2/9=110/2;
  6/7=2,8=2,9=2,10=2,19=2,28=1/1;
  99/9=1/99;
- Leave Link    1 at Sat Mar  9 13:22:05 2019, MaxMem=   671088640 cpu:              36.7 elap:               1.9
+ Leave Link    1 at Mon Mar 11 00:00:28 2019, MaxMem=   671088640 cpu:              26.3 elap:               1.4
  (Enter /shared/centos7/gaussian/g16/l101.exe)
  ----------------------------------------
  Gaussian Input Prepared from Scan Object
@@ -147,7 +147,7 @@
  
  Duplicate atom number in added dihedral:     14      2      5     14
  Error in added coordinate.
- Error termination via Lnk1e in /shared/centos7/gaussian/g16/l101.exe at Sat Mar  9 13:22:06 2019.
- Job cpu time:       0 days  0 hours  0 minutes 40.4 seconds.
- Elapsed time:       0 days  0 hours  0 minutes  2.1 seconds.
+ Error termination via Lnk1e in /shared/centos7/gaussian/g16/l101.exe at Mon Mar 11 00:00:29 2019.
+ Job cpu time:       0 days  0 hours  0 minutes 31.5 seconds.
+ Elapsed time:       0 days  0 hours  0 minutes  1.7 seconds.
  File lengths (MBytes):  RWF=    272 Int=      0 D2E=      0 Chk=     32 Scr=     32

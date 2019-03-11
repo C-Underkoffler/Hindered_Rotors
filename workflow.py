@@ -93,10 +93,23 @@ def rote_Rotor_Input(conformer,
     
     if path is None:
         path = os.getcwd()
+        
+        
+    
 
     assert isinstance(stepsize_deg, float)
-
+    
+    (i, j, k, l) = (-1, -1, -1, -1)
     (i, j, k, l) = torsion.atom_indices
+    
+    found_matching_torsion = False
+    for c_torsion in conformer.torsions:
+        [a, b, c, d] = c_torsion.atom_indices
+        if [a, b, c, d] == [i, j, k, l]:
+            found_matching_torsion = True
+            
+    assert found_matching_torsion, "Did not find matching torsion within conformer"
+    
     mol = conformer.rmg_molecule
     mol.updateMultiplicity()
 
@@ -106,7 +119,7 @@ def rote_Rotor_Input(conformer,
     output += '\nGaussian Input Prepared from Scan Object\n'
     output += '\n0 {}\n'.format(mol.multiplicity)
 
-    for i, atom in enumerate(mol.atoms):
+    for atom in mol.atoms:
         output += "{}     {}     {}     {}\n".format(atom.element, atom.coords[0], atom.coords[1], atom.coords[2])
 
     output += '\n'
@@ -115,12 +128,12 @@ def rote_Rotor_Input(conformer,
     for bond in mol.getAllEdges():
         output += 'B {0} {1}\n'.format(bond.atom1.sortingLabel+1, bond.atom2.sortingLabel+1)
 
-    output = output + 'D {0} {1} {2} {3} S {4} {5}'.format(i+1,
-                                                           j+1,
-                                                           k+1,
-                                                           l+1,
-                                                           steps,
-                                                           stepsize_deg)
+    adj_i = i+1
+    adj_j = j+1
+    adj_k = k+1
+    adj_l = l+1
+    
+    output = output + 'D {0} {1} {2} {3} S {4} {5}'.format(adj_i, adj_j, adj_k, adj_l, steps, stepsize_deg)
     output += '\n\n\n'
 
     with open(os.path.join(path, file_name), 'w') as F:
@@ -141,14 +154,12 @@ def update_Conformer(conformer, file_name, path=None):
     path :: path of file, default to cwd
     """
 
-    home = os.getcwd()
     
     if path is None:
-        path = home
+        path = os.getcwd()
 
     os.chdir(path)
     conformer.ase_molecule = read_gaussian_out(file_name)
-    os.chdir(home)
     
     conformer.update_coords()
     
@@ -158,8 +169,14 @@ def GeoFreqCom_from_Conf(conf, file_name=None, path=None):
     
     gaus_job = ASE_Gaussian()
     
+    SMILES = conf.smiles
+    
+    augInChIKey = Chem.rdinchi.InchiToInchiKey(Chem.MolToInchi(
+        Chem.MolFromSmiles(SMILES)))
+                
+    
     if file_name is None:
-        gaus_job.label = conf.rmg_molecule.toAugmentedInChIKey() + '_GeoFreq'
+        gaus_job.label = augInChIKey + '_GeoFreq'
     else:
         gaus_job.label = file_name
         
@@ -382,8 +399,7 @@ for conf in Conf_list:
         if not os.path.isfile(geo_Freq_Com):
             lowest_conf = None
             
-            #if not os.path.isfile('{}_lowest_conf.pickle'.format(SMILES)):
-            log += ['Lowest Conformer Pickle NOT FOUND\n\t{}_lowest_conf.pickle NOT FOUND\n\tGenerating one using Hotbit...'.format(SMILES)]
+            #log += ['Lowest Conformer Pickle NOT FOUND\n\t{}_lowest_conf.pickle NOT FOUND\n\tGenerating one using Hotbit...'.format(SMILES)]
 
             try:
                 lowest_conf = hotbit_lowest_conf(SMILES)
@@ -399,14 +415,7 @@ for conf in Conf_list:
                 with open(os.path.join(base_path, master_log_name), 'w') as mastf:
                     mastf.write(master_output)
                 continue
-
-                with open('{}_lowest_conf.pickle'.format(SMILES), 'wb') as conf_f:
-                    pickle.dump(lowest_conf, conf_f)
                 
-            
-            #else:
-            #    lowest_conf = pickle.load('{}_lowest_conf.pickle'.format(SMILES))
-            
             assert lowest_conf is not None, 'Pickled Conformer may be Flawed or Hotbit Solution not working'
             
             conf = lowest_conf
@@ -424,10 +433,11 @@ for conf in Conf_list:
 
     else:
         log += ['Geometry & Frequency log file is complete!\n\t{0} for {1} is complete!'.format(geo_Freq_Log, SMILES)]
-        conf = update_Conformer(conf, geo_Freq_Log, path=path)
+        geo_conf = update_Conformer(conf, geo_Freq_Log, path=path)
         
         all_Scans_Updated = True
-        for torsion in conf.get_torsions():
+        for torsion in geo_conf.get_torsions():
+            (i, j, k, l) = (-1, -1, -1, -1)
             (i, j, k, l) = torsion.atom_indices
 
             scan_geo_log = geo_Freq_Log
@@ -436,7 +446,7 @@ for conf in Conf_list:
             scan_input_com = scan_rotor_base + '.com'
             scan_output_log = scan_rotor_base + '.log'
 
-            log += ['Looking at {} torsion in {}'.format((i,j,k,l), SMILES)]
+            log += ['\nLooking at {} torsion in {}'.format((i,j,k,l), SMILES)]
             
             temp_mast = master_log + log
             temp_output = '\n\n'.join(temp_mast)
@@ -458,7 +468,33 @@ for conf in Conf_list:
                 try:
                     scan_info = auto_job.verify_rotor(given_steps, given_stepsize, file_name=reduced_scan_log)
                 except:
-                    print '\t\tFailed verify_rotor() method'
+                    log += ['\tBROKE verify_rotor() method\n\t{}'.format(scan_output_log)]
+                    
+                    
+                    log += ['\tCopying broken log to "..._BVM.log" for Broke verify_rotor() Method'] 
+                    failed_name = scan_output_log
+                    failed_rename = failed_name.strip('.log') + '_BVB.log'
+                    subprocess.call(shlex.split('mv {} {}'.format(failed_name, failed_rename)))
+                    
+                             
+                    log += ['\tRe-running with previous input file'.format(scan_input_com)]
+
+                    log += ['\tEXECUTING {0}'.format(scan_input_com)]
+                    
+                    subprocess.call(shlex.split('sbatch rotors_run_template.sh {0}'.format(scan_rotor_base)))
+                    
+                    output = '\n\n'.join(log)
+                    with open(os.path.join(path, log_name), 'w') as f:
+                        f.write(output)
+     
+                    master_log += log
+                    master_output = '\n\n'.join(master_log)
+                    with open(os.path.join(base_path, master_log_name), 'w') as mastf:
+                        mastf.write(master_output)
+                    continue
+
+                    
+                    
                     
                 [verified, energy, atomnos, atomcoords] = scan_info
                 
@@ -473,7 +509,7 @@ for conf in Conf_list:
                 if not os.path.isfile(os.path.join(path, scan_input_com)):
                     log += ['\tTorsion input file NOT FOUND.\n\t\t{0} for {1} NOT FOUND.\n\t\tGenerating one now..'.format(scan_input_com, SMILES)]
                     
-                    rote_Rotor_Input(conf, torsion, scan_input_com, path=path, steps=given_steps, stepsize_deg=given_stepsize)
+                    rote_Rotor_Input(geo_conf, torsion, scan_input_com, path=path, steps=given_steps, stepsize_deg=given_stepsize)
                 else:
                     log += ['\tUsing previous torsion input file.\n\t\t{0} for {1} exists!'.format(scan_input_com, SMILES)]
 
@@ -523,8 +559,11 @@ for conf in Conf_list:
                 ark.execute()
                 ark_dict[SMILES] = ark
                 
-                with open(ark_dict_file, 'wb') as ark_f:
-                    pickle.dump(ark_dict, ark_f)
+                """try:
+                    with open(ark_dict_file, 'wb') as ark_f:
+                        pickle.dump(ark_dict, ark_f)
+                except:
+                    pass"""
                     
     log += ['\n\n===========================================================================================']
 

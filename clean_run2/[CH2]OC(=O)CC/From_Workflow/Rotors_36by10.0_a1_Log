@@ -1,0 +1,37 @@
+
+
+===========================================================================================
+
+2019-03-11 17:48:55.299518
+
+Beginning workflow for [CH2]OC(=O)CC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]OC(=O)CC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	OJWHOIQFDAGZNF-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]OC(=O)CC is complete!
+
+
+Looking at (4, 0, 5, 12) torsion in [CH2]OC(=O)CC
+
+
+Looking at (5, 0, 4, 2) torsion in [CH2]OC(=O)CC
+
+
+Looking at (6, 2, 3, 10) torsion in [CH2]OC(=O)CC
+
+
+Looking at (6, 2, 4, 1) torsion in [CH2]OC(=O)CC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor05_a1
+
+	EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor23_a1
+
+	EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================

@@ -1,0 +1,151 @@
+ Entering Gaussian System, Link 0=g16
+ Input=DUEVIJNWLJUFDM-UHFFFAOYSA-N_72by10.0_tor24_a1.com
+ Output=DUEVIJNWLJUFDM-UHFFFAOYSA-N_72by10.0_tor24_a1.log
+ Initial command:
+ /shared/centos7/gaussian/g16/l1.exe "/scratch/underkoffler.c/gaussian_scratch/Gau-31353.inp" -scrdir="/scratch/underkoffler.c/gaussian_scratch/"
+ Entering Link 1 = /shared/centos7/gaussian/g16/l1.exe PID=     31354.
+  
+ Copyright (c) 1988,1990,1992,1993,1995,1998,2003,2009,2016,
+            Gaussian, Inc.  All Rights Reserved.
+  
+ This is part of the Gaussian(R) 16 program.  It is based on
+ the Gaussian(R) 09 system (copyright 2009, Gaussian, Inc.),
+ the Gaussian(R) 03 system (copyright 2003, Gaussian, Inc.),
+ the Gaussian(R) 98 system (copyright 1998, Gaussian, Inc.),
+ the Gaussian(R) 94 system (copyright 1995, Gaussian, Inc.),
+ the Gaussian 92(TM) system (copyright 1992, Gaussian, Inc.),
+ the Gaussian 90(TM) system (copyright 1990, Gaussian, Inc.),
+ the Gaussian 88(TM) system (copyright 1988, Gaussian, Inc.),
+ the Gaussian 86(TM) system (copyright 1986, Carnegie Mellon
+ University), and the Gaussian 82(TM) system (copyright 1983,
+ Carnegie Mellon University). Gaussian is a federally registered
+ trademark of Gaussian, Inc.
+  
+ This software contains proprietary and confidential information,
+ including trade secrets, belonging to Gaussian, Inc.
+  
+ This software is provided under written license and may be
+ used, copied, transmitted, or stored only in accord with that
+ written license.
+  
+ The following legend is applicable only to US Government
+ contracts under FAR:
+  
+                    RESTRICTED RIGHTS LEGEND
+  
+ Use, reproduction and disclosure by the US Government is
+ subject to restrictions as set forth in subparagraphs (a)
+ and (c) of the Commercial Computer Software - Restricted
+ Rights clause in FAR 52.227-19.
+  
+ Gaussian, Inc.
+ 340 Quinnipiac St., Bldg. 40, Wallingford CT 06492
+  
+  
+ ---------------------------------------------------------------
+ Warning -- This program may not be used in any manner that
+ competes with the business of Gaussian, Inc. or will provide
+ assistance to any competitor of Gaussian, Inc.  The licensee
+ of this program is prohibited from giving any competitor of
+ Gaussian, Inc. access to this program.  By using this program,
+ the user acknowledges that Gaussian, Inc. is engaged in the
+ business of creating and licensing software in the field of
+ computational chemistry and represents and warrants to the
+ licensee that it is not a competitor of Gaussian, Inc. and that
+ it will not use this program in any manner prohibited above.
+ ---------------------------------------------------------------
+  
+
+ Cite this work as:
+ Gaussian 16, Revision A.03,
+ M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria, 
+ M. A. Robb, J. R. Cheeseman, G. Scalmani, V. Barone, 
+ G. A. Petersson, H. Nakatsuji, X. Li, M. Caricato, A. V. Marenich, 
+ J. Bloino, B. G. Janesko, R. Gomperts, B. Mennucci, H. P. Hratchian, 
+ J. V. Ortiz, A. F. Izmaylov, J. L. Sonnenberg, D. Williams-Young, 
+ F. Ding, F. Lipparini, F. Egidi, J. Goings, B. Peng, A. Petrone, 
+ T. Henderson, D. Ranasinghe, V. G. Zakrzewski, J. Gao, N. Rega, 
+ G. Zheng, W. Liang, M. Hada, M. Ehara, K. Toyota, R. Fukuda, 
+ J. Hasegawa, M. Ishida, T. Nakajima, Y. Honda, O. Kitao, H. Nakai, 
+ T. Vreven, K. Throssell, J. A. Montgomery, Jr., J. E. Peralta, 
+ F. Ogliaro, M. J. Bearpark, J. J. Heyd, E. N. Brothers, K. N. Kudin, 
+ V. N. Staroverov, T. A. Keith, R. Kobayashi, J. Normand, 
+ K. Raghavachari, A. P. Rendell, J. C. Burant, S. S. Iyengar, 
+ J. Tomasi, M. Cossi, J. M. Millam, M. Klene, C. Adamo, R. Cammi, 
+ J. W. Ochterski, R. L. Martin, K. Morokuma, O. Farkas, 
+ J. B. Foresman, and D. J. Fox, Gaussian, Inc., Wallingford CT, 2016.
+ 
+ ******************************************
+ Gaussian 16:  EM64L-G16RevA.03 25-Dec-2016
+                11-Mar-2019 
+ ******************************************
+ %nprocshared=20
+ Will use up to   20 processors via shared memory.
+ %mem=5GB
+ ----------------------------------------------
+ #p m062x/6-311+g(2df,2p) Opt=(CalcFC,ModRedun)
+ ----------------------------------------------
+ 1/10=4,18=120,19=15,26=3,38=1/1,3;
+ 2/9=110,12=2,17=6,18=5,40=1/2;
+ 3/5=4,6=6,7=214,11=2,25=1,30=1,71=2,74=-55,140=1/1,2,3;
+ 4//1;
+ 5/5=2,38=5/2;
+ 8/6=4,10=90,11=11/1;
+ 11/6=1,8=1,9=11,15=111,16=1/1,2,10;
+ 10/6=1,13=1/2;
+ 6/7=2,8=2,9=2,10=2,28=1/1;
+ 7/10=1,18=20,25=1/1,2,3,16;
+ 1/10=4,18=20,19=15,26=3/3(2);
+ 2/9=110/2;
+ 99//99;
+ 2/9=110/2;
+ 3/5=4,6=6,7=214,11=2,25=1,30=1,71=1,74=-55/1,2,3;
+ 4/5=5,16=3,69=1/1;
+ 5/5=2,38=5/2;
+ 7//1,2,3,16;
+ 1/18=20,19=15,26=3/3(-5);
+ 2/9=110/2;
+ 6/7=2,8=2,9=2,10=2,19=2,28=1/1;
+ 99/9=1/99;
+ Leave Link    1 at Mon Mar 11 00:00:45 2019, MaxMem=   671088640 cpu:              28.8 elap:               1.5
+ (Enter /shared/centos7/gaussian/g16/l101.exe)
+ ----------------------------------------
+ Gaussian Input Prepared from Scan Object
+ ----------------------------------------
+ Symbolic Z-matrix:
+ Charge =  0 Multiplicity = 2
+ O                     1.36528  -0.04843   0.65762 
+ O                     0.80012  -0.54883  -1.46171 
+ C                    -1.76863  -1.59991  -0.55976 
+ C                     2.60162   0.45024   0.16136 
+ C                    -0.70733  -1.0235    0.29171 
+ C                     0.52785  -0.53434  -0.28191 
+ H                    -1.98823  -2.62963  -0.26559 
+ H                    -1.46801  -1.58595  -1.60431 
+ H                    -2.70246  -1.04225  -0.44993 
+ H                     3.15313   0.79905   1.02813 
+ H                     2.42986   1.26754  -0.53697 
+ H                     3.15195  -0.33728  -0.35061 
+ H                    -0.82583  -0.95243   1.36288 
+ 
+ The following ModRedundant input section has been read:
+ B       1       6 B                                                           
+ B       2       6 B                                                           
+ B       3       9 B                                                           
+ B       4      12 B                                                           
+ B       3       7 B                                                           
+ B       3       5 B                                                           
+ B       3       8 B                                                           
+ B       5      13 B                                                           
+ B       1       4 B                                                           
+ B       4      10 B                                                           
+ B       4      11 B                                                           
+ B       5       6 B                                                           
+ D      13       3       5      13 S  72 10.000                                
+ 
+ Duplicate atom number in added dihedral:     13      3      5     13
+ Error in added coordinate.
+ Error termination via Lnk1e in /shared/centos7/gaussian/g16/l101.exe at Mon Mar 11 00:00:45 2019.
+ Job cpu time:       0 days  0 hours  0 minutes 35.4 seconds.
+ Elapsed time:       0 days  0 hours  0 minutes  1.9 seconds.
+ File lengths (MBytes):  RWF=    272 Int=      0 D2E=      0 Chk=     32 Scr=     32

@@ -1,0 +1,40 @@
+
+
+[CH2]CC(=O)OC
+Energy of conformer using hotbit: Log conformer came from
+
+If log is scan, conformer chosen by lowest SCF energy
+
+default	:	-72.8922407353
+/home/underkoffler.c/Code/Hindered_Rotors/[CH2]CC(=O)OC/From_Workflow/NPQBOSHSVUVOHJ-UHFFFAOYSA-N_GeoFreq_a1.log
+	-73.6453100689
+/home/underkoffler.c/Code/Hindered_Rotors/[CH2]CC(=O)OC/From_Workflow/NPQBOSHSVUVOHJ-UHFFFAOYSA-N_72by10.0_tor03_a1.log
+	-73.5551279711
+/home/underkoffler.c/Code/Hindered_Rotors/[CH2]CC(=O)OC/From_Workflow/NPQBOSHSVUVOHJ-UHFFFAOYSA-N_72by10.0_tor24_a1.log
+	-73.5551379818
+/home/underkoffler.c/Code/Hindered_Rotors/[CH2]CC(=O)OC/From_Workflow/PQBOSHSVUVOHJ-UHFFFAOYSA_tor03.log
+	-73.5551279711
+/home/underkoffler.c/Code/Hindered_Rotors/[CH2]CC(=O)OC/From_Workflow/NPQBOSHSVUVOHJ-UHFFFAOYSA-N_72by10.0_tor04_a1.log
+	-73.5360434622
+/home/underkoffler.c/Code/Hindered_Rotors/[CH2]CC(=O)OC/From_Workflow/PQBOSHSVUVOHJ-UHFFFAOYSA_tor24.log
+	-73.5551379818
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/[CH2]CC(=O)OC/From_Workflow/NPQBOSHSVUVOHJ-UHFFFAOYSA-N_36by10.0_tor03_a1.log
+	-73.6453141423
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/[CH2]CC(=O)OC/From_Workflow/NPQBOSHSVUVOHJ-UHFFFAOYSA-N_GeoFreq_a1.log
+	-73.6453141423
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/[CH2]CC(=O)OC/From_Workflow/NPQBOSHSVUVOHJ-UHFFFAOYSA-N_36by10.0_tor25_a1.log
+	-73.5550913356
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/[CH2]CC(=O)OC/From_Workflow/PQBOSHSVUVOHJ-UHFFFAOYSA_tor03.log
+	-73.6453141423
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/[CH2]CC(=O)OC/From_Workflow/PQBOSHSVUVOHJ-UHFFFAOYSA_tor25.log
+	-73.5550913356
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/[CH2]CC(=O)OC/From_Workflow/PQBOSHSVUVOHJ-UHFFFAOYSA_tor04.log
+	-73.6453141423
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/[CH2]CC(=O)OC/From_Workflow/PQBOSHSVUVOHJ-UHFFFAOYSA_tor24.log
+	-73.5553246676
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/[CH2]CC(=O)OC/From_Workflow/NPQBOSHSVUVOHJ-UHFFFAOYSA-N_36by10.0_tor04_a1.log
+	-73.6453141423
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run1/[CH2]CC(=O)OC/From_Workflow/NPQBOSHSVUVOHJ-UHFFFAOYSA-N_36by10.0_tor24_a1.log
+	-73.5553246676
+
+Done Searching through Logs
