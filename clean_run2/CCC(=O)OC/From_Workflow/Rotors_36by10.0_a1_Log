@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-11 17:48:54.985165
+2019-03-14 14:35:52.843673
 
 Beginning workflow for CCC(=O)OC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCC(=O)OC/From_Workflow
@@ -10,27 +10,45 @@ Beginning workflow for CCC(=O)OC at:
 Geometry & Frequency log file is complete!
 	RJUFJBKOKNCXHH-UHFFFAOYSA-N_GeoFreq_a1.log for CCC(=O)OC is complete!
 
-
-Looking at (5, 0, 4, 12) torsion in CCC(=O)OC
+Generated reduced GeoFreq Log
+	RJUFJBKOKNCXHH-UHFFFAOYSA.log
 
 
 Looking at (4, 0, 5, 2) torsion in CCC(=O)OC
 
+	Torsion log file is complete!
+		RJUFJBKOKNCXHH-UHFFFAOYSA-N_36by10.0_tor05_a1.log for CCC(=O)OC exists and is complete!
 
-Looking at (5, 2, 3, 8) torsion in CCC(=O)OC
+
+Looking at (5, 0, 4, 13) torsion in CCC(=O)OC
+
+	Torsion log file is complete!
+		RJUFJBKOKNCXHH-UHFFFAOYSA-N_36by10.0_tor04_a1.log for CCC(=O)OC exists and is complete!
 
 
-Looking at (3, 2, 5, 1) torsion in CCC(=O)OC
+Looking at (7, 2, 3, 8) torsion in CCC(=O)OC
 
-Using lowest conformer thus far, but some scans still failed. Re-running them now...
+	Torsion log file is complete!
+		RJUFJBKOKNCXHH-UHFFFAOYSA-N_36by10.0_tor23_a1.log for CCC(=O)OC exists and is complete!
 
-	EXECUTING RJUFJBKOKNCXHH-UHFFFAOYSA-N_36by10.0_tor04_a1
 
-	EXECUTING RJUFJBKOKNCXHH-UHFFFAOYSA-N_36by10.0_tor05_a1
+Looking at (7, 2, 5, 1) torsion in CCC(=O)OC
 
-	EXECUTING RJUFJBKOKNCXHH-UHFFFAOYSA-N_36by10.0_tor23_a1
+	Torsion log file is complete!
+		RJUFJBKOKNCXHH-UHFFFAOYSA-N_36by10.0_tor25_a1.log for CCC(=O)OC exists and is complete!
 
-	EXECUTING RJUFJBKOKNCXHH-UHFFFAOYSA-N_36by10.0_tor25_a1
+Scans are using lowest known conformer and all have completed to satisfaction for CCC(=O)OC
+
+Species.py for CCC(=O)OC exists!
+	RJUFJBKOKNCXHH-UHFFFAOYSA.py
+
+Beginning Thermo Calculations
+
+Executing Arkane Thermo Job for RJUFJBKOKNCXHH-UHFFFAOYSA.py
+	AKA CCC(=O)OC
+
+Arkane log named "arkane.log"
+	at /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCC(=O)OC/From_Workflow
 
 
 

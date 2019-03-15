@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-11 17:48:54.871147
+2019-03-14 14:35:44.753610
 
 Beginning workflow for [CH2]C(C)OC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]C(C)OC/From_Workflow
@@ -10,27 +10,39 @@ Beginning workflow for [CH2]C(C)OC at:
 Geometry & Frequency log file is complete!
 	FBRHVBFWGRGMCF-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]C(C)OC is complete!
 
-
-Looking at (3, 0, 1, 4) torsion in [CH2]C(C)OC
-
-
-Looking at (1, 0, 3, 11) torsion in [CH2]C(C)OC
+Generated reduced GeoFreq Log
+	FBRHVBFWGRGMCF-UHFFFAOYSA.log
 
 
-Looking at (4, 1, 2, 8) torsion in [CH2]C(C)OC
+Looking at (1, 0, 3, 10) torsion in [CH2]C(C)OC
+
+	Torsion log file is complete!
+		FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor03_a1.log for [CH2]C(C)OC exists and is complete!
 
 
-Looking at (5, 1, 4, 12) torsion in [CH2]C(C)OC
+Looking at (3, 0, 1, 2) torsion in [CH2]C(C)OC
 
-Using lowest conformer thus far, but some scans still failed. Re-running them now...
+	Torsion log file is complete!
+		FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor01_a1.log for [CH2]C(C)OC exists and is complete!
 
-	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor01_a1
 
-	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor03_a1
+Looking at (2, 1, 4, 13) torsion in [CH2]C(C)OC
 
-	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor12_a1
+	Torsion log file is complete!
+		FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor14_a1.log for [CH2]C(C)OC exists and is complete!
 
-	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor14_a1
+
+Looking at (5, 1, 2, 7) torsion in [CH2]C(C)OC
+
+	Torsion log file is complete!
+		FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor12_a1.log for [CH2]C(C)OC exists and is complete!
+
+Scans Indicate there is a conformer lower than what was previously known.
+
+Generating new lowest conformer and using it to write GeoFreq as attempt: 2
+
+Will not execute Geo opt for attempt 2 because Gaussian input file already exists
+	FBRHVBFWGRGMCF-UHFFFAOYSA-N_GeoFreq_a2.com already exists.
 
 
 

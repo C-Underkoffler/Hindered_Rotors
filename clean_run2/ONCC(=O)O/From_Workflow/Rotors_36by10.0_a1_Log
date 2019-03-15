@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-11 17:48:55.385376
+2019-03-14 14:36:23.717715
 
 Beginning workflow for ONCC(=O)O at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/ONCC(=O)O/From_Workflow
@@ -10,27 +10,45 @@ Beginning workflow for ONCC(=O)O at:
 Geometry & Frequency log file is complete!
 	NPWGWQRXHVJJRD-UHFFFAOYSA-N_GeoFreq_a1.log for ONCC(=O)O is complete!
 
+Generated reduced GeoFreq Log
+	PWGWQRXHVJJRD-UHFFFAOYSA.log
+
 
 Looking at (9, 0, 3, 8) torsion in ONCC(=O)O
+
+	Torsion log file is complete!
+		NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor03_a1.log for ONCC(=O)O exists and is complete!
 
 
 Looking at (10, 1, 5, 4) torsion in ONCC(=O)O
 
+	Torsion log file is complete!
+		NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor15_a1.log for ONCC(=O)O exists and is complete!
+
 
 Looking at (8, 3, 4, 7) torsion in ONCC(=O)O
+
+	Torsion log file is complete!
+		NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor34_a1.log for ONCC(=O)O exists and is complete!
 
 
 Looking at (7, 4, 5, 2) torsion in ONCC(=O)O
 
-Using lowest conformer thus far, but some scans still failed. Re-running them now...
+	Torsion log file is complete!
+		NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor45_a1.log for ONCC(=O)O exists and is complete!
 
-	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor03_a1
+Scans are using lowest known conformer and all have completed to satisfaction for ONCC(=O)O
 
-	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor15_a1
+Species.py for ONCC(=O)O exists!
+	PWGWQRXHVJJRD-UHFFFAOYSA.py
 
-	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor34_a1
+Beginning Thermo Calculations
 
-	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor45_a1
+Executing Arkane Thermo Job for PWGWQRXHVJJRD-UHFFFAOYSA.py
+	AKA ONCC(=O)O
+
+Arkane log named "arkane.log"
+	at /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/ONCC(=O)O/From_Workflow
 
 
 

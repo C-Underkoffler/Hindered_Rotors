@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-11 17:48:54.419682
+2019-03-14 14:35:09.620550
 
 Beginning workflow for CCO[CH2] at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCO[CH2]/From_Workflow
@@ -10,22 +10,33 @@ Beginning workflow for CCO[CH2] at:
 Geometry & Frequency log file is complete!
 	TVFRQKHUZDMLDB-UHFFFAOYSA-N_GeoFreq_a1.log for CCO[CH2] is complete!
 
+Generated reduced GeoFreq Log
+	TVFRQKHUZDMLDB-UHFFFAOYSA.log
+
 
 Looking at (3, 0, 1, 4) torsion in CCO[CH2]
+
+	Torsion log file is complete!
+		TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by10.0_tor01_a1.log for CCO[CH2] exists and is complete!
 
 
 Looking at (1, 0, 3, 10) torsion in CCO[CH2]
 
+	Torsion log file is complete!
+		TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by10.0_tor03_a1.log for CCO[CH2] exists and is complete!
+
 
 Looking at (4, 1, 2, 8) torsion in CCO[CH2]
 
-Using lowest conformer thus far, but some scans still failed. Re-running them now...
+	Torsion log file is complete!
+		TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by10.0_tor12_a1.log for CCO[CH2] exists and is complete!
 
-	EXECUTING TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by10.0_tor01_a1
+Scans Indicate there is a conformer lower than what was previously known.
 
-	EXECUTING TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by10.0_tor03_a1
+Generating new lowest conformer and using it to write GeoFreq as attempt: 2
 
-	EXECUTING TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by10.0_tor12_a1
+Will not execute Geo opt for attempt 2 because Gaussian input file already exists
+	TVFRQKHUZDMLDB-UHFFFAOYSA-N_GeoFreq_a2.com already exists.
 
 
 

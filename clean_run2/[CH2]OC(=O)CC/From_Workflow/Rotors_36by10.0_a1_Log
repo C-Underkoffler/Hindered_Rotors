@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-11 17:48:55.299518
+2019-03-14 14:36:15.888613
 
 Beginning workflow for [CH2]OC(=O)CC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]OC(=O)CC/From_Workflow
@@ -10,27 +10,45 @@ Beginning workflow for [CH2]OC(=O)CC at:
 Geometry & Frequency log file is complete!
 	OJWHOIQFDAGZNF-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]OC(=O)CC is complete!
 
-
-Looking at (4, 0, 5, 12) torsion in [CH2]OC(=O)CC
+Generated reduced GeoFreq Log
+	OJWHOIQFDAGZNF-UHFFFAOYSA.log
 
 
 Looking at (5, 0, 4, 2) torsion in [CH2]OC(=O)CC
 
+	Torsion log file is complete!
+		OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor04_a1.log for [CH2]OC(=O)CC exists and is complete!
 
-Looking at (6, 2, 3, 10) torsion in [CH2]OC(=O)CC
+
+Looking at (4, 0, 5, 12) torsion in [CH2]OC(=O)CC
+
+	Torsion log file is complete!
+		OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor05_a1.log for [CH2]OC(=O)CC exists and is complete!
 
 
-Looking at (6, 2, 4, 1) torsion in [CH2]OC(=O)CC
+Looking at (3, 2, 4, 1) torsion in [CH2]OC(=O)CC
 
-Using lowest conformer thus far, but some scans still failed. Re-running them now...
+	Torsion log file is complete!
+		OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor24_a1.log for [CH2]OC(=O)CC exists and is complete!
 
-	EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor05_a1
 
-	EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor04_a1
+Looking at (7, 2, 3, 9) torsion in [CH2]OC(=O)CC
 
-	EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor23_a1
+	Torsion log file is complete!
+		OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor23_a1.log for [CH2]OC(=O)CC exists and is complete!
 
-	EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor24_a1
+Scans are using lowest known conformer and all have completed to satisfaction for [CH2]OC(=O)CC
+
+Species.py for [CH2]OC(=O)CC exists!
+	OJWHOIQFDAGZNF-UHFFFAOYSA.py
+
+Beginning Thermo Calculations
+
+Executing Arkane Thermo Job for OJWHOIQFDAGZNF-UHFFFAOYSA.py
+	AKA [CH2]OC(=O)CC
+
+Arkane log named "arkane.log"
+	at /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]OC(=O)CC/From_Workflow
 
 
 

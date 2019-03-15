@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-11 17:48:54.733354
+2019-03-14 14:35:28.265051
 
 Beginning workflow for CO[C](C)C at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CO[C](C)C/From_Workflow
@@ -10,27 +10,45 @@ Beginning workflow for CO[C](C)C at:
 Geometry & Frequency log file is complete!
 	VSQGJBCHGBRHMO-UHFFFAOYSA-N_GeoFreq_a1.log for CO[C](C)C is complete!
 
-
-Looking at (4, 0, 3, 13) torsion in CO[C](C)C
+Generated reduced GeoFreq Log
+	VSQGJBCHGBRHMO-UHFFFAOYSA.log
 
 
 Looking at (3, 0, 4, 2) torsion in CO[C](C)C
 
+	Torsion log file is complete!
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor04_a1.log for CO[C](C)C exists and is complete!
+
+
+Looking at (4, 0, 3, 13) torsion in CO[C](C)C
+
+	Torsion log file is complete!
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor03_a1.log for CO[C](C)C exists and is complete!
+
 
 Looking at (7, 1, 4, 2) torsion in CO[C](C)C
 
+	Torsion log file is complete!
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor14_a1.log for CO[C](C)C exists and is complete!
 
-Looking at (9, 2, 4, 1) torsion in CO[C](C)C
 
-Using lowest conformer thus far, but some scans still failed. Re-running them now...
+Looking at (8, 2, 4, 1) torsion in CO[C](C)C
 
-	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor03_a1
+	Torsion log file is complete!
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor24_a1.log for CO[C](C)C exists and is complete!
 
-	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor04_a1
+Scans are using lowest known conformer and all have completed to satisfaction for CO[C](C)C
 
-	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor14_a1
+Species.py for CO[C](C)C exists!
+	VSQGJBCHGBRHMO-UHFFFAOYSA.py
 
-	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor24_a1
+Beginning Thermo Calculations
+
+Executing Arkane Thermo Job for VSQGJBCHGBRHMO-UHFFFAOYSA.py
+	AKA CO[C](C)C
+
+Arkane log named "arkane.log"
+	at /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CO[C](C)C/From_Workflow
 
 
 

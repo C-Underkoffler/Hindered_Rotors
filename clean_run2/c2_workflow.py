@@ -21,6 +21,8 @@ from rdkit import Chem
 
 import cclib
 
+import arkane
+
 # Inputs:
 
 SMILES_list = [
@@ -56,7 +58,7 @@ log_name = None
 master_log_name = None
 ark_dict_file = None
 ThermoJob = True
-attempt = 1
+attempt = 2
 
 
 
@@ -301,6 +303,53 @@ def geos_of_interest(parser=None, file_name=None):
     
     return geometries
 
+
+def write_ArkaneThermoInput(filename, modelChemistry, spec_name, spec_file, path=None):
+    """
+    Writes thermo input file for Arkane
+    
+    filename :: name of file that will be written to
+    modelChemistry :: ModelChemistry used when finding opt geometry and frequencies
+    spec_name :: label for species
+    spec_file :: name of species file (needs to be in the same directory)
+    """
+    
+    
+    output = ['#!/usr/bin/env python',
+              '# -*- coding: utf-8 -*-',
+              '',
+              'modelChemistry = "{0}"'.format(modelChemistry),
+              'useHinderedRotors = True',
+              'useBondCorrections = True',
+              '',
+              "species('{0}', '{1}')\n\nstatmech('{0}')".format(spec_name, spec_file),
+              "thermo('{0}', '{1}')".format(spec_name, 'NASA')]
+
+    output = '\n'.join(output)
+
+    if path is None:
+        path = os.getcwd()
+    
+    with open(os.path.join(path,filename), 'w') as f:
+        f.write(output)
+        f.close()
+    
+    return
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Workflow
 
 
@@ -414,41 +463,44 @@ for conf in Conf_list:
     geo_Freq_Log = geo_Freq_Base + '.log'
 
     if not exists_and_complete(geo_Freq_Log):
-        log += ['Geometry & Frequency log file NOT FOUND or NOT COMPLETE\n\t{0} for {1} NOT FOUND or NOT COMPLETE.\n\tLooking for {0}'.format(geo_Freq_Log, SMILES)]
-        
-        if not os.path.isfile(geo_Freq_Com):
-            lowest_conf = None
-            
-            #log += ['Lowest Conformer Pickle NOT FOUND\n\t{}_lowest_conf.pickle NOT FOUND\n\tGenerating one using Hotbit...'.format(SMILES)]
-
-            try:
-                lowest_conf = hotbit_lowest_conf(SMILES)
-            except:
-                log += ['PROBLEMS WITH HOTBIT LOWEST CONFORMER SEARCH!! Consult Grad Dad']
-
-                output = '\n\n'.join(log)
-                with open(os.path.join(path, log_name), 'w') as f:
-                    f.write(output)
-
-                master_log += log
-                master_output = '\n\n'.join(master_log)
-                with open(os.path.join(base_path, master_log_name), 'w') as mastf:
-                    mastf.write(master_output)
-                continue
-                
-            assert lowest_conf is not None, 'Hotbit Solution not working'
-            
-            conf = lowest_conf
-            
-            log += ['Geometry & Frequencey input file NOT FOUND\n\t{0} for {1} NOT FOUND.\n\tGenerating one now...'.format(geo_Freq_Com, SMILES)]
-            GeoFreqCom_from_Conf(lowest_conf, geo_Freq_Base, path=path)
-
+        if attempt>1:
+            log += ['The GeoFreq for attempts greater than 1 should be generated from previous attempts, not from scratch.\n\tUnable to continue until provided GeoFreq']
         else:
-            log += ['Using previous geometry & frequency input file']
+            #First attempt, OK to generate initial geometry
+            log += ['Geometry & Frequency log file NOT FOUND or NOT COMPLETE\n\t{0} for {1} NOT FOUND or NOT COMPLETE.\n\tLooking for {0}'.format(geo_Freq_Log, SMILES)]
+
+            if not os.path.isfile(geo_Freq_Com):
+                assert False, "Protecting my mems"
+                lowest_conf = None
+
+                try:
+                    lowest_conf = hotbit_lowest_conf(SMILES)
+                except:
+                    log += ['PROBLEMS WITH HOTBIT LOWEST CONFORMER SEARCH!! Consult Grad Dad']
+
+                    output = '\n\n'.join(log)
+                    with open(os.path.join(path, log_name), 'w') as f:
+                        f.write(output)
+
+                    master_log += log
+                    master_output = '\n\n'.join(master_log)
+                    with open(os.path.join(base_path, master_log_name), 'w') as mastf:
+                        mastf.write(master_output)
+                    continue
+
+                assert lowest_conf is not None, 'Hotbit Solution not working'
+
+                conf = lowest_conf
+
+                log += ['Geometry & Frequencey input file NOT FOUND\n\t{0} for {1} NOT FOUND.\n\tGenerating one now...'.format(geo_Freq_Com, SMILES)]
+                GeoFreqCom_from_Conf(lowest_conf, geo_Freq_Base, path=path)
+
+            else:
+                log += ['Using previous geometry & frequency input file']
 
         assert os.path.isfile(geo_Freq_Com)
         log += ['EXECUTING {0}'.format(geo_Freq_Com)]
-        #subprocess.call(shlex.split('sbatch rotors_run_template.sh {0}'.format(geo_Freq_Base)))
+        subprocess.call(shlex.split('sbatch rotors_run_template.sh {0}'.format(geo_Freq_Base)))
         
 
         
@@ -471,7 +523,15 @@ for conf in Conf_list:
         
     else:
         log += ['Geometry & Frequency log file is complete!\n\t{0} for {1} is complete!'.format(geo_Freq_Log, SMILES)]
-        geo_conf = update_Conformer(conf, geo_Freq_Log, path=path)
+        
+        reduced_geo_Freq_Base = augInChIKey.strip('-N') + '.log'
+        subprocess.call(shlex.split('cp {} {}'.format(geo_Freq_Log, reduced_geo_Freq_Base)))
+        
+        if os.path.isfile(reduced_geo_Freq_Base):
+            log += ['Generated reduced GeoFreq Log\n\t{}'.format(reduced_geo_Freq_Base)]
+            print '\tGenerated reduced GeoFreq Log'
+        
+        geofreq_conf = update_Conformer(conf, geo_Freq_Log, path=path)
         
         all_Scans_Updated = True
         scan_results = {}
@@ -480,7 +540,15 @@ for conf in Conf_list:
         DNS_or_DNF = []
         has_data = {}
         
-        for torsion in geo_conf.get_torsions():
+        using_lowest = True
+        all_continuous = True
+        all_good_slope = True
+        all_good_opt_count = True
+        
+        global_min_energy = None
+        global_min_geo = None
+        
+        for torsion in geofreq_conf.get_torsions():
             (i, j, k, l) = (-1, -1, -1, -1)
             (i, j, k, l) = torsion.atom_indices
             
@@ -499,33 +567,55 @@ for conf in Conf_list:
                 mastf.write(temp_output)
 
             if exists_and_complete(os.path.join(path, scan_output_log)):
-                parser = cclib.io.ccread(scan_output_log)
-                
-                geos = geos_of_interest(parser=parser)
-                
                 log += ['\tTorsion log file is complete!\n\t\t{0} for {1} exists and is complete!'.format(scan_output_log, SMILES)]
                 
+                parser = cclib.io.ccread(scan_output_log)
+                try:
+                    geos = geos_of_interest(parser=parser)
+                except:
+                    log += ['\tCould not use geos_of_interest method']
+                    DNS_or_DNF.append(torsion)
+                    print '\tBrokeGeos#DNF_or_DNS:\t' + scan_output_log
+                    continue
+                
+                lowest_scan_geo, lowest_scan_energy = geos['scan_lowest']
+                
+                if (global_min_energy is None) or (global_min_energy > lowest_scan_energy):
+                    #Priming if verify method finds rerun with lowest energy conformer necessary
+                    global_min_energy = lowest_scan_energy
+                    global_min_geo = lowest_scan_geo
                 
                 auto_job = AutoTST_Job()
                 
                 try:
                     scan_bools = auto_job.verify_rotor(given_steps, given_stepsize, file_name=scan_output_log)
-                    [lowest_conf, continuous, good_slope, opt_count_check] = scan_bools
-                    has_data[parser] = scan_bools
-                    
-                    if not opt_count_check:
-                        DNS_or_DNF.append(scan_base)
-                        print '\tDNF_or_DNS:\t' + scan_output_log
-                        continue
-                    
-                    #I'm just trying to match naming convention in autotst.statmech
-                    reduced_scan_log = augInChIKey.strip('-N') + '_tor{}{}.log'.format(j, k)
-                    subprocess.call(shlex.split('cp {} {}'.format(scan_output_log, reduced_scan_log)))
-                    print '\t' + reduced_scan_log
                 except:
                     #Needs re-running at the very least
-                    print '\tDNF_or_DNS:\t' + scan_output_log
-                    DNS_or_DNF.append(scan_base)
+                    print '\tBVM#DNF_or_DNS:\t' + scan_output_log
+                    DNS_or_DNF.append(torsion)
+                
+                
+                [lowest_conf, continuous, good_slope, opt_count_check] = scan_bools
+                has_data[parser] = scan_bools
+                
+                if not lowest_conf:
+                    using_lowest = False  
+                    print '\tNot Lowest# ' + scan_output_log
+                
+                if not continuous:
+                    all_continuous = False    
+                if not good_slope: 
+                    all_good_slope = False
+                if not opt_count_check:
+                    DNS_or_DNF.append(torsion)
+                    print '\topt_count#DNF_or_DNS:\t' + scan_output_log
+                    continue
+
+                #I'm just trying to match naming convention in autotst.statmech
+                reduced_scan_log = augInChIKey.strip('-N') + '_tor{}{}.log'.format(j, k)
+                subprocess.call(shlex.split('cp {} {}'.format(scan_output_log, reduced_scan_log)))
+                if lowest_conf:
+                    print '\t' + reduced_scan_log
                 
                 """except:
                     log += ['\tBROKE verify_rotor() method\n\t{}'.format(scan_output_log)]
@@ -562,8 +652,8 @@ for conf in Conf_list:
                 else:
                     log += ['{} Verified!'.format((i, j, k, l))]"""
             else:
-                DNS_or_DNF.append(scan_base)
-                print '\tDNF_or_DNS:\t' + scan_output_log
+                DNS_or_DNF.append(torsion)
+                print '\t1#DNF_or_DNS:\t' + scan_output_log
                 """
                 all_Scans_Updated = False
                 
@@ -582,7 +672,7 @@ for conf in Conf_list:
                 #subprocess.call(shlex.split('sbatch rotors_run_template.sh {0}'.format(scan_rotor_base)))"""
                 
 
-        using_lowest = True
+        """using_lowest = True
         all_continuous = True
         all_good_slope = True
         all_good_opt_count = True
@@ -609,8 +699,9 @@ for conf in Conf_list:
             if not good_slope: all_good_slope = False
             if not good_opt_count: all_good_opt_count = False
         
+        """
         
-        all_Scans_Updated = using_lowest & all_continuous & all_good_slope & all_good_opt_count
+        all_Scans_Verified = using_lowest & all_continuous & all_good_slope & all_good_opt_count
             
             
             
@@ -619,24 +710,41 @@ for conf in Conf_list:
             log += ['Generating new lowest conformer and using it to write GeoFreq as attempt: {}'.format(attempt+1)]
             
             new_conf = Conformer(SMILES)
-            new_conf.ase_molecule.set_positions(min_geo)
+            new_conf.ase_molecule.set_positions(global_min_geo)
             new_conf.update_coords_from(mol_type='ase')
             
             new_geo_Freq_Base = augInChIKey + '_GeoFreq_a{}'.format(attempt+1)
+            if os.path.isfile(new_geo_Freq_Base+'.com'):
+            	log += ['Will not execute Geo opt for attempt {0} because Gaussian input file already exists\n\t{1} already exists.'.format(attemp+1, new_geo_Freq_Base+'.com')]
+	    else:
+		GeoFreqCom_from_Conf(new_conf, new_geo_Freq_Base, path=path)
             
-            GeoFreqCom_from_Conf(new_conf, new_geo_Freq_Base, path=path)
-            
-            assert os.path.isfile(new_geo_Freq_Base+'.com')
-            log += ['EXECUTING {0}'.format(new_geo_Freq_Base+'.com')]
-            #subprocess.call(shlex.split('sbatch rotors_run_template.sh {0}'.format(new_geo_Freq_Base)))
-        elif len(DNS_or_DNF)>0:
+            	assert os.path.isfile(new_geo_Freq_Base+'.com')
+            	log += ['EXECUTING {0}'.format(new_geo_Freq_Base+'.com')]
+            	subprocess.call(shlex.split('sbatch rotors_run_template.sh {0}'.format(new_geo_Freq_Base)))
+        
+	elif len(DNS_or_DNF)>0:
             log += ['Using lowest conformer thus far, but some scans still failed. Re-running them now...']
                 
-            for scan_base in DNS_or_DNF:
+            for torsion in DNS_or_DNF:
+                (i, j, k, l) = (-1, -1, -1, -1)
+                (i, j, k, l) = torsion.atom_indices
+                
+                scan_base = augInChIKey + '_{0}by{1}_tor{2}{3}_a{4}'.format(given_steps, given_stepsize, j, k, attempt)
+                scan_input_com = scan_base + '.com'
+                scan_output_log = scan_base + '.log'
+
+                if not os.path.isfile(os.path.join(path, scan_input_com)):
+                    log += ['\tTorsion input file NOT FOUND.\n\t\t{0} for {1} NOT FOUND.\n\t\tGenerating one now..'.format(scan_input_com, SMILES)]
+
+                    rote_Rotor_Input(geofreq_conf, torsion, scan_input_com, path=path, steps=given_steps, stepsize_deg=given_stepsize)
+                else:
+                    log += ['\tUsing previous torsion input file.\n\t\t{0} for {1} exists!'.format(scan_input_com, SMILES)]
+
                 log += ['\tEXECUTING {0}'.format(scan_base)]
-                #subprocess.call(shlex.split('sbatch rotors_run_template.sh {0}'.format(scan_rotor_base)))
+                subprocess.call(shlex.split('sbatch rotors_run_template.sh {0}'.format(scan_base)))
             
-        elif all_Scans_Updated:
+        elif all_Scans_Verified:
             log += ['Scans are using lowest known conformer and all have completed to satisfaction for {}'.format(SMILES)]
 
             species_file = augInChIKey.strip('-N') + '.py'
@@ -653,19 +761,20 @@ for conf in Conf_list:
                 
                 assert os.path.isfile(species_file)
                 
-                log += ['Species.py for {0} has been generated!\n\t{1}'.format(SMILSE, species_file)]
+                log += ['Species.py for {0} has been generated!\n\t{1}'.format(SMILES, species_file)]
 
             else:
                 log += ['Species.py for {0} exists!\n\t{1}'.format(SMILES, species_file)]
 
-            
+            if os.path.isfile(species_file):
+                print '\t\t' + species_file
 
             if ThermoJob:
                 log += ['Beginning Thermo Calculations']
-                thermo_filename = augInChIKey + '_Thermo.py'
+                thermo_filename = augInChIKey.strip('-N') + '_Thermo.py'
 
                 out_path = path
-                species_name = augInChI.strip('-N')
+                species_name = augInChIKey.strip('-N')
 
                 if not os.path.isfile(thermo_filename):
                     log += ['Thermo input file NOT FOUND\n\t{0} NOT FOUND for {1}\t\nGenerating one now...'.format(thermo_filename, SMILES)]
@@ -685,7 +794,12 @@ for conf in Conf_list:
                         pickle.dump(ark_dict, ark_f)
                 except:
                     pass"""
-                    
+        else:
+            #all_Scans_Verified = False
+            print '\t\tNo Suggestions Yet'
+            log += ['------------------------\nNo Suggestions at this time\n------------------------']
+    
+    print
     log += ['\n\n===========================================================================================']
 
     output = '\n\n'.join(log)
@@ -696,3 +810,6 @@ for conf in Conf_list:
     master_output = '\n\n'.join(master_log)
     with open(os.path.join(base_path, master_log_name), 'w') as mastf:
         mastf.write(master_output)
+
+print 'Finished'
+

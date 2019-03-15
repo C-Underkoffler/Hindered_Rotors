@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-11 17:48:54.217468
+2019-03-14 14:34:58.181774
 
 Beginning workflow for CCOC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCOC/From_Workflow
@@ -10,22 +10,39 @@ Beginning workflow for CCOC at:
 Geometry & Frequency log file is complete!
 	XOBKSJJDNFUZPF-UHFFFAOYSA-N_GeoFreq_a1.log for CCOC is complete!
 
-
-Looking at (3, 0, 1, 2) torsion in CCOC
-
-
-Looking at (1, 0, 3, 10) torsion in CCOC
+Generated reduced GeoFreq Log
+	XOBKSJJDNFUZPF-UHFFFAOYSA.log
 
 
-Looking at (5, 1, 2, 8) torsion in CCOC
+Looking at (3, 0, 1, 5) torsion in CCOC
 
-Using lowest conformer thus far, but some scans still failed. Re-running them now...
+	Torsion log file is complete!
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor01_a1.log for CCOC exists and is complete!
 
-	EXECUTING XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor01_a1
 
-	EXECUTING XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor03_a1
+Looking at (1, 0, 3, 11) torsion in CCOC
 
-	EXECUTING XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor12_a1
+	Torsion log file is complete!
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor03_a1.log for CCOC exists and is complete!
+
+
+Looking at (5, 1, 2, 7) torsion in CCOC
+
+	Torsion log file is complete!
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor12_a1.log for CCOC exists and is complete!
+
+Scans are using lowest known conformer and all have completed to satisfaction for CCOC
+
+Species.py for CCOC exists!
+	XOBKSJJDNFUZPF-UHFFFAOYSA.py
+
+Beginning Thermo Calculations
+
+Executing Arkane Thermo Job for XOBKSJJDNFUZPF-UHFFFAOYSA.py
+	AKA CCOC
+
+Arkane log named "arkane.log"
+	at /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCOC/From_Workflow
 
 
 

@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-11 17:48:53.809651
+2019-03-14 14:34:21.413349
 
 Beginning workflow for CCC[CH]O at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCC[CH]O/From_Workflow
@@ -10,27 +10,39 @@ Beginning workflow for CCC[CH]O at:
 Geometry & Frequency log file is complete!
 	DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_a1.log for CCC[CH]O is complete!
 
+Generated reduced GeoFreq Log
+	DHVSQGCGLGSLDF-UHFFFAOYSA.log
+
 
 Looking at (13, 0, 4, 12) torsion in CCC[CH]O
 
+	Torsion log file is complete!
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1.log for CCC[CH]O exists and is complete!
 
-Looking at (5, 1, 3, 11) torsion in CCC[CH]O
+
+Looking at (3, 1, 2, 8) torsion in CCC[CH]O
+
+	Torsion log file is complete!
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1.log for CCC[CH]O exists and is complete!
 
 
-Looking at (5, 1, 2, 8) torsion in CCC[CH]O
+Looking at (6, 1, 3, 11) torsion in CCC[CH]O
+
+	Torsion log file is complete!
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1.log for CCC[CH]O exists and is complete!
 
 
 Looking at (8, 2, 4, 12) torsion in CCC[CH]O
 
-Using lowest conformer thus far, but some scans still failed. Re-running them now...
+	Torsion log file is complete!
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1.log for CCC[CH]O exists and is complete!
 
-	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1
+Scans Indicate there is a conformer lower than what was previously known.
 
-	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1
+Generating new lowest conformer and using it to write GeoFreq as attempt: 2
 
-	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1
-
-	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1
+Will not execute Geo opt for attempt 2 because Gaussian input file already exists
+	DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_a2.com already exists.
 
 
 
