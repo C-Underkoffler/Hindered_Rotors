@@ -1,0 +1,44 @@
+
+
+===========================================================================================
+
+2019-03-12 00:32:37.760625
+
+Beginning workflow for CCCC[O] at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCCC[O]/From_Workflow
+
+Geometry & Frequency log file is complete!
+	QOOQLKSEGVNYLA-UHFFFAOYSA-N_GeoFreq_a1.log for CCCC[O] is complete!
+
+
+Looking at (3, 1, 2, 8) torsion in CCCC[O]
+
+
+Looking at (6, 1, 3, 11) torsion in CCCC[O]
+
+
+Looking at (8, 2, 4, 13) torsion in CCCC[O]
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Torsion input file NOT FOUND.
+		QOOQLKSEGVNYLA-UHFFFAOYSA-N_72by5.0_tor12_a1.com for CCCC[O] NOT FOUND.
+		Generating one now..
+
+	EXECUTING QOOQLKSEGVNYLA-UHFFFAOYSA-N_72by5.0_tor12_a1
+
+	Torsion input file NOT FOUND.
+		QOOQLKSEGVNYLA-UHFFFAOYSA-N_72by5.0_tor13_a1.com for CCCC[O] NOT FOUND.
+		Generating one now..
+
+	EXECUTING QOOQLKSEGVNYLA-UHFFFAOYSA-N_72by5.0_tor13_a1
+
+	Torsion input file NOT FOUND.
+		QOOQLKSEGVNYLA-UHFFFAOYSA-N_72by5.0_tor24_a1.com for CCCC[O] NOT FOUND.
+		Generating one now..
+
+	EXECUTING QOOQLKSEGVNYLA-UHFFFAOYSA-N_72by5.0_tor24_a1
+
+
+
+===========================================================================================

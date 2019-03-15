@@ -1,0 +1,53 @@
+
+
+===========================================================================================
+
+2019-03-12 00:32:41.578319
+
+Beginning workflow for C[CH]CCO at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/C[CH]CCO/From_Workflow
+
+Geometry & Frequency log file is complete!
+	DBQZVPSKYUCKNT-UHFFFAOYSA-N_GeoFreq_a1.log for C[CH]CCO is complete!
+
+
+Looking at (13, 0, 2, 8) torsion in C[CH]CCO
+
+
+Looking at (6, 1, 4, 12) torsion in C[CH]CCO
+
+
+Looking at (6, 1, 2, 8) torsion in C[CH]CCO
+
+
+Looking at (9, 3, 4, 12) torsion in C[CH]CCO
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Torsion input file NOT FOUND.
+		DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by5.0_tor02_a1.com for C[CH]CCO NOT FOUND.
+		Generating one now..
+
+	EXECUTING DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by5.0_tor02_a1
+
+	Torsion input file NOT FOUND.
+		DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by5.0_tor14_a1.com for C[CH]CCO NOT FOUND.
+		Generating one now..
+
+	EXECUTING DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by5.0_tor14_a1
+
+	Torsion input file NOT FOUND.
+		DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by5.0_tor12_a1.com for C[CH]CCO NOT FOUND.
+		Generating one now..
+
+	EXECUTING DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by5.0_tor12_a1
+
+	Torsion input file NOT FOUND.
+		DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by5.0_tor34_a1.com for C[CH]CCO NOT FOUND.
+		Generating one now..
+
+	EXECUTING DBQZVPSKYUCKNT-UHFFFAOYSA-N_72by5.0_tor34_a1
+
+
+
+===========================================================================================

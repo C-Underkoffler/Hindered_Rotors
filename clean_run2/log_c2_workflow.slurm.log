@@ -1,0 +1,14 @@
+Using Theano backend.
+Submitted batch job 3493389
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCCCO/From_Workflow
+	Generated reduced GeoFreq Log
+	LRHPLDYGYMQRHN-UHFFFAOYSA_tor03.log
+	LRHPLDYGYMQRHN-UHFFFAOYSA_tor12.log
+	1#DNF_or_DNS:	LRHPLDYGYMQRHN-UHFFFAOYSA-N_36by10.0_tor13_a2.log
+	LRHPLDYGYMQRHN-UHFFFAOYSA_tor24.log
+
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCCC[O]/From_Workflow
+Traceback (most recent call last):
+  File "c2_workflow.py", line 501, in <module>
+    assert os.path.isfile(geo_Freq_Com)
+AssertionError

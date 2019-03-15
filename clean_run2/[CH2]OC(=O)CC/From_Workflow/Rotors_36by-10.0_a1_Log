@@ -1,0 +1,53 @@
+
+
+===========================================================================================
+
+2019-03-12 00:32:54.983782
+
+Beginning workflow for [CH2]OC(=O)CC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]OC(=O)CC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	OJWHOIQFDAGZNF-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]OC(=O)CC is complete!
+
+
+Looking at (5, 0, 4, 2) torsion in [CH2]OC(=O)CC
+
+
+Looking at (4, 0, 5, 12) torsion in [CH2]OC(=O)CC
+
+
+Looking at (3, 2, 4, 1) torsion in [CH2]OC(=O)CC
+
+
+Looking at (7, 2, 3, 9) torsion in [CH2]OC(=O)CC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Torsion input file NOT FOUND.
+		OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by-10.0_tor04_a1.com for [CH2]OC(=O)CC NOT FOUND.
+		Generating one now..
+
+	EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by-10.0_tor04_a1
+
+	Torsion input file NOT FOUND.
+		OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by-10.0_tor05_a1.com for [CH2]OC(=O)CC NOT FOUND.
+		Generating one now..
+
+	EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by-10.0_tor05_a1
+
+	Torsion input file NOT FOUND.
+		OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by-10.0_tor24_a1.com for [CH2]OC(=O)CC NOT FOUND.
+		Generating one now..
+
+	EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by-10.0_tor24_a1
+
+	Torsion input file NOT FOUND.
+		OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by-10.0_tor23_a1.com for [CH2]OC(=O)CC NOT FOUND.
+		Generating one now..
+
+	EXECUTING OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by-10.0_tor23_a1
+
+
+
+===========================================================================================

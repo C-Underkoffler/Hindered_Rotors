@@ -1,0 +1,53 @@
+
+
+===========================================================================================
+
+2019-03-12 00:33:01.102502
+
+Beginning workflow for ONCC(=O)O at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/ONCC(=O)O/From_Workflow
+
+Geometry & Frequency log file is complete!
+	NPWGWQRXHVJJRD-UHFFFAOYSA-N_GeoFreq_a1.log for ONCC(=O)O is complete!
+
+
+Looking at (9, 0, 3, 4) torsion in ONCC(=O)O
+
+
+Looking at (10, 1, 5, 4) torsion in ONCC(=O)O
+
+
+Looking at (8, 3, 4, 7) torsion in ONCC(=O)O
+
+
+Looking at (7, 4, 5, 2) torsion in ONCC(=O)O
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Torsion input file NOT FOUND.
+		NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by5.0_tor03_a1.com for ONCC(=O)O NOT FOUND.
+		Generating one now..
+
+	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by5.0_tor03_a1
+
+	Torsion input file NOT FOUND.
+		NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by5.0_tor15_a1.com for ONCC(=O)O NOT FOUND.
+		Generating one now..
+
+	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by5.0_tor15_a1
+
+	Torsion input file NOT FOUND.
+		NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by5.0_tor34_a1.com for ONCC(=O)O NOT FOUND.
+		Generating one now..
+
+	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by5.0_tor34_a1
+
+	Torsion input file NOT FOUND.
+		NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by5.0_tor45_a1.com for ONCC(=O)O NOT FOUND.
+		Generating one now..
+
+	EXECUTING NPWGWQRXHVJJRD-UHFFFAOYSA-N_72by5.0_tor45_a1
+
+
+
+===========================================================================================

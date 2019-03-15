@@ -1,0 +1,53 @@
+
+
+===========================================================================================
+
+2019-03-12 00:32:49.297283
+
+Beginning workflow for [CH2]C(C)OC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]C(C)OC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	FBRHVBFWGRGMCF-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]C(C)OC is complete!
+
+
+Looking at (1, 0, 3, 10) torsion in [CH2]C(C)OC
+
+
+Looking at (3, 0, 1, 2) torsion in [CH2]C(C)OC
+
+
+Looking at (2, 1, 4, 13) torsion in [CH2]C(C)OC
+
+
+Looking at (5, 1, 2, 7) torsion in [CH2]C(C)OC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Torsion input file NOT FOUND.
+		FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by-10.0_tor03_a1.com for [CH2]C(C)OC NOT FOUND.
+		Generating one now..
+
+	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by-10.0_tor03_a1
+
+	Torsion input file NOT FOUND.
+		FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by-10.0_tor01_a1.com for [CH2]C(C)OC NOT FOUND.
+		Generating one now..
+
+	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by-10.0_tor01_a1
+
+	Torsion input file NOT FOUND.
+		FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by-10.0_tor14_a1.com for [CH2]C(C)OC NOT FOUND.
+		Generating one now..
+
+	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by-10.0_tor14_a1
+
+	Torsion input file NOT FOUND.
+		FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by-10.0_tor12_a1.com for [CH2]C(C)OC NOT FOUND.
+		Generating one now..
+
+	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by-10.0_tor12_a1
+
+
+
+===========================================================================================

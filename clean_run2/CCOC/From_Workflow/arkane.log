@@ -1,0 +1,340 @@
+Arkane execution initiated at Tue Mar 12 14:47:35 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Loading species XOBKSJJDNFUZPF-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Arkane execution initiated at Tue Mar 12 14:56:05 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XOBKSJJDNFUZPF-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Arkane execution initiated at Tue Mar 12 15:00:42 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XOBKSJJDNFUZPF-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Arkane execution initiated at Tue Mar 12 15:03:41 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Loading species XOBKSJJDNFUZPF-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Arkane execution initiated at Tue Mar 12 15:05:18 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XOBKSJJDNFUZPF-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [1, 2] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [1, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 3 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Saving thermo for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+
+Arkane execution terminated at Tue Mar 12 15:05:18 2019
+Arkane execution initiated at Tue Mar 12 21:02:24 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Loading species XOBKSJJDNFUZPF-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [1, 2] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [1, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 3 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Saving thermo for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+
+Arkane execution terminated at Tue Mar 12 21:02:25 2019
+Arkane execution initiated at Tue Mar 12 21:13:12 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XOBKSJJDNFUZPF-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [1, 2] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [1, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 3 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Saving thermo for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+
+Arkane execution terminated at Tue Mar 12 21:13:12 2019
+Arkane execution initiated at Tue Mar 12 21:37:06 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XOBKSJJDNFUZPF-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 3 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [1, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [1, 2] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Saving thermo for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+
+Arkane execution terminated at Tue Mar 12 21:37:07 2019
+Arkane execution initiated at Tue Mar 12 22:42:23 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Loading species XOBKSJJDNFUZPF-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 3 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [1, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [1, 2] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Saving thermo for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+
+Arkane execution terminated at Tue Mar 12 22:42:24 2019
+Arkane execution initiated at Wed Mar 13 11:33:50 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Loading species XOBKSJJDNFUZPF-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 3 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [1, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [1, 2] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Saving thermo for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+
+Arkane execution terminated at Wed Mar 13 11:33:51 2019
+Arkane execution initiated at Thu Mar 14 14:35:02 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Loading species XOBKSJJDNFUZPF-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 3 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [1, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [1, 2] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XOBKSJJDNFUZPF-UHFFFAOYSA between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Saving thermo for XOBKSJJDNFUZPF-UHFFFAOYSA...
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+
+Arkane execution terminated at Thu Mar 14 14:35:03 2019

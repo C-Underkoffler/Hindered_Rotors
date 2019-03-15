@@ -1,0 +1,231 @@
+Arkane execution initiated at Tue Mar 12 15:05:44 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species RMGHERXMTMUMMV-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for RMGHERXMTMUMMV-UHFFFAOYSA...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [1, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [1, 2] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for RMGHERXMTMUMMV-UHFFFAOYSA...
+Saving thermo for RMGHERXMTMUMMV-UHFFFAOYSA...
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+
+Arkane execution terminated at Tue Mar 12 15:05:45 2019
+Arkane execution initiated at Tue Mar 12 21:03:05 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species RMGHERXMTMUMMV-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for RMGHERXMTMUMMV-UHFFFAOYSA...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [1, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [1, 2] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for RMGHERXMTMUMMV-UHFFFAOYSA...
+Saving thermo for RMGHERXMTMUMMV-UHFFFAOYSA...
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+
+Arkane execution terminated at Tue Mar 12 21:03:06 2019
+Arkane execution initiated at Tue Mar 12 21:13:50 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species RMGHERXMTMUMMV-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for RMGHERXMTMUMMV-UHFFFAOYSA...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [1, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [1, 2] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for RMGHERXMTMUMMV-UHFFFAOYSA...
+Saving thermo for RMGHERXMTMUMMV-UHFFFAOYSA...
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+
+Arkane execution terminated at Tue Mar 12 21:13:51 2019
+Arkane execution initiated at Tue Mar 12 21:37:45 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species RMGHERXMTMUMMV-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for RMGHERXMTMUMMV-UHFFFAOYSA...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [1, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [1, 2] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for RMGHERXMTMUMMV-UHFFFAOYSA...
+Saving thermo for RMGHERXMTMUMMV-UHFFFAOYSA...
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+
+Arkane execution terminated at Tue Mar 12 21:37:46 2019
+Arkane execution initiated at Tue Mar 12 22:42:51 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species RMGHERXMTMUMMV-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for RMGHERXMTMUMMV-UHFFFAOYSA...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [1, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [1, 2] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for RMGHERXMTMUMMV-UHFFFAOYSA...
+Saving thermo for RMGHERXMTMUMMV-UHFFFAOYSA...
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+
+Arkane execution terminated at Tue Mar 12 22:42:52 2019
+Arkane execution initiated at Wed Mar 13 11:34:16 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species RMGHERXMTMUMMV-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for RMGHERXMTMUMMV-UHFFFAOYSA...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [1, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [1, 2] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for RMGHERXMTMUMMV-UHFFFAOYSA...
+Saving thermo for RMGHERXMTMUMMV-UHFFFAOYSA...
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+
+Arkane execution terminated at Wed Mar 13 11:34:17 2019
+Arkane execution initiated at Thu Mar 14 14:35:27 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species RMGHERXMTMUMMV-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for RMGHERXMTMUMMV-UHFFFAOYSA...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [1, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [1, 2] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 3 for rotor of species RMGHERXMTMUMMV-UHFFFAOYSA between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for RMGHERXMTMUMMV-UHFFFAOYSA...
+Saving thermo for RMGHERXMTMUMMV-UHFFFAOYSA...
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+
+Arkane execution terminated at Thu Mar 14 14:35:28 2019
