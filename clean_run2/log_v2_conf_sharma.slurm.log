@@ -1,0 +1,2154 @@
+Using Theano backend.
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/OOCC(C)O[O]/From_Workflow
+[16:18:37] WARNING: Omitted undefined stereo
+systematic.py:190 systematic_search INFO There are 54 unique conformers generated
+
+
+
+
+
+
+ _           _    _     _ _
+| |__   ___ | |_ | |__ |_| |_
+|  _ \ / _ \|  _||  _ \| |  _|
+| | | | ( ) | |_ | ( ) | | |_
+|_| |_|\___/ \__|\____/|_|\__|  ver. 0.1 (svn=Unversioned directory)
+Distributed under GNU GPL; see /home/underkoffler.c/Code/hotbit/lib/python/LICENSE
+Date: Thu Mar 21 16:18:38 2019
+Nodename: c0148
+Arch: x86_64
+Dir: /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/OOCC(C)O[O]/From_Workflow
+System: H7C3O4
+       Charge= 0.0
+       Container Bravais: pbc:[0,0,0], cell:[0.00,0.00,0.00] Ang, 
+   cosines(12,13,23):[nan,nan,nan]
+Symmetry operations (if any):
+       0: pbc= False , kappa-points=1, M=1
+       1: pbc= False , kappa-points=1, M=1
+       2: pbc= False , kappa-points=1, M=1
+Electronic temperature: 0.02 eV
+Mixer: Anderson with memory = 3 , mixing parameter = 0.2
+14 atoms, 35 states, 43.0 electrons (21.5 filled states)
+Initial n ranges:[0,0] [0,0] [0,0] 
+Element O in /home/underkoffler.c/Code/hotbit/param/O.elm
+    *no comment
+Element C in /home/underkoffler.c/Code/hotbit/param/C.elm
+    *fixed set C
+Element H in /home/underkoffler.c/Code/hotbit/param/H.elm
+    *no comment
+
+Interactions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CO in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+    *Quadratic original (r/r0)**2, r0=1.85*r_cov,
+    *Original repulsion (probably)
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HO in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  HC in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Repulsions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Process Process-46:
+Traceback (most recent call last):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 267, in _bootstrap
+    self.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/underkoffler.c/Code/AutoTST/autotst/conformer/systematic.py", line 219, in opt_conf
+    opt.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 202, in run
+    for converged in self.irun(fmax, steps):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 179, in irun
+    f = self.atoms.get_forces()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/atoms.py", line 714, in get_forces
+    forces = self._calc.get_forces(self)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 476, in get_forces
+    self.solve_ground_state(atoms)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 393, in solve_ground_state
+    self.st.solve()
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/states.py", line 207, in solve
+    self.e, self.wf = self.solver.get_states(self.calc,dq,self.H0,self.S)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/solver.py", line 97, in get_states
+    raise RuntimeError('Out of iterations.')
+RuntimeError: Out of iterations.
+Anderson mixer out of iterations!
+History of maximum residuals:
+0 0.977561916179
+1 0.295389318479
+2 0.220086785652
+3 0.528379093442
+4 0.195487463038
+5 0.197017704448
+6 0.181350223845
+7 0.122614428566
+8 0.555947930761
+9 0.125762577993
+10 0.112180808466
+11 0.107560831106
+12 0.071087742552
+13 0.567433045734
+14 0.0986560844007
+15 0.0879559766363
+16 0.0773418408442
+17 0.0631103175991
+18 0.564772935791
+19 0.0699905370992
+20 0.0624142577049
+21 0.0609090510648
+22 0.0562009226173
+23 0.564032123284
+24 0.061942452167
+25 0.0598467079199
+26 0.0550772079311
+27 0.0563976240372
+28 0.563909255473
+29 0.0547299730656
+30 0.0482664996558
+31 0.0547356695365
+32 0.0513516945208
+33 0.563844007486
+34 0.0465815965757
+35 0.0476750724693
+36 0.0477231502539
+37 0.0465311396232
+38 0.563526859349
+39 0.0480379146708
+40 0.0464321857616
+41 0.0432153889331
+42 0.0414216173096
+43 0.564594553247
+44 0.0286679112577
+45 0.0400909324757
+46 0.0365574879862
+47 0.0388000287686
+48 0.57400018129
+49 0.102948769284
+Recent history: (number=i'th last iteration)
+0 [ 0.0716004  -0.0889921   0.18977348  0.34859907 -0.14451033]
+1 [ 0.08945286 -0.10753658  0.21434454  0.31852528 -0.13826192]
+2 [ 0.06754272 -0.08479603  0.18419977  0.35544272 -0.14593107]
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+systematic.py:274 systematic_search INFO We have identified 3 unique conformers for <Conformer "OOCC(C)O[O]">
+Solved zero times.
+
+Timing:
+            label                    time     calls    %sub  %covered   %tot
+-------------------------------------------------------------------------------
+Hotbit                             244.198         1 (100.0 %,  0.1 %) 100.0 % |000000000000000000000000000000|
+../initialization                    0.240         1 (  0.1 %        )   0.1 % ||
+ -------------------------------------------------------------------------------
+total time      244.198 seconds      0 h  4 min  4 sec
+Thu Mar 21 16:22:42 2019
+OOCC(C)O[O]
+
+Generated conformer for OOCC(C)O[O]
+OOCC(C)O[O]
+3 conf for OOCC(C)O[O]
+
+
+
+
+
+
+ _           _    _     _ _
+| |__   ___ | |_ | |__ |_| |_
+|  _ \ / _ \|  _||  _ \| |  _|
+| | | | ( ) | |_ | ( ) | | |_
+|_| |_|\___/ \__|\____/|_|\__|  ver. 0.1 (svn=Unversioned directory)
+Distributed under GNU GPL; see /home/underkoffler.c/Code/hotbit/lib/python/LICENSE
+Date: Thu Mar 21 16:22:42 2019
+Nodename: c0148
+Arch: x86_64
+Dir: /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/OOCC(C)O[O]/From_Workflow
+System: H7C3O4
+       Charge= 0.0
+       Container Bravais: pbc:[0,0,0], cell:[0.00,0.00,0.00] Ang, 
+   cosines(12,13,23):[nan,nan,nan]
+Symmetry operations (if any):
+       0: pbc= False , kappa-points=1, M=1
+       1: pbc= False , kappa-points=1, M=1
+       2: pbc= False , kappa-points=1, M=1
+Electronic temperature: 0.02 eV
+Mixer: Anderson with memory = 3 , mixing parameter = 0.2
+14 atoms, 35 states, 43.0 electrons (21.5 filled states)
+Initial n ranges:[0,0] [0,0] [0,0] 
+Element O in /home/underkoffler.c/Code/hotbit/param/O.elm
+    *no comment
+Element C in /home/underkoffler.c/Code/hotbit/param/C.elm
+    *fixed set C
+Element H in /home/underkoffler.c/Code/hotbit/param/H.elm
+    *no comment
+
+Interactions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CO in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+    *Quadratic original (r/r0)**2, r0=1.85*r_cov,
+    *Original repulsion (probably)
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HO in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  HC in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Repulsions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~92.000 % filled.
+Found Conf 1 energy of -79.2139358588
+
+
+
+
+
+
+ _           _    _     _ _
+| |__   ___ | |_ | |__ |_| |_
+|  _ \ / _ \|  _||  _ \| |  _|
+| | | | ( ) | |_ | ( ) | | |_
+|_| |_|\___/ \__|\____/|_|\__|  ver. 0.1 (svn=Unversioned directory)
+Distributed under GNU GPL; see /home/underkoffler.c/Code/hotbit/lib/python/LICENSE
+Date: Thu Mar 21 16:22:42 2019
+Nodename: c0148
+Arch: x86_64
+Dir: /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/OOCC(C)O[O]/From_Workflow
+System: H7C3O4
+       Charge= 0.0
+       Container Bravais: pbc:[0,0,0], cell:[0.00,0.00,0.00] Ang, 
+   cosines(12,13,23):[nan,nan,nan]
+Symmetry operations (if any):
+       0: pbc= False , kappa-points=1, M=1
+       1: pbc= False , kappa-points=1, M=1
+       2: pbc= False , kappa-points=1, M=1
+Electronic temperature: 0.02 eV
+Mixer: Anderson with memory = 3 , mixing parameter = 0.2
+14 atoms, 35 states, 43.0 electrons (21.5 filled states)
+Initial n ranges:[0,0] [0,0] [0,0] 
+Element O in /home/underkoffler.c/Code/hotbit/param/O.elm
+    *no comment
+Element C in /home/underkoffler.c/Code/hotbit/param/C.elm
+    *fixed set C
+Element H in /home/underkoffler.c/Code/hotbit/param/H.elm
+    *no comment
+
+Interactions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CO in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+    *Quadratic original (r/r0)**2, r0=1.85*r_cov,
+    *Original repulsion (probably)
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HO in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  HC in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Repulsions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Found Conf 2 energy of -79.2065366561
+
+
+
+
+
+
+ _           _    _     _ _
+| |__   ___ | |_ | |__ |_| |_
+|  _ \ / _ \|  _||  _ \| |  _|
+| | | | ( ) | |_ | ( ) | | |_
+|_| |_|\___/ \__|\____/|_|\__|  ver. 0.1 (svn=Unversioned directory)
+Distributed under GNU GPL; see /home/underkoffler.c/Code/hotbit/lib/python/LICENSE
+Date: Thu Mar 21 16:22:43 2019
+Nodename: c0148
+Arch: x86_64
+Dir: /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/OOCC(C)O[O]/From_Workflow
+System: H7C3O4
+       Charge= 0.0
+       Container Bravais: pbc:[0,0,0], cell:[0.00,0.00,0.00] Ang, 
+   cosines(12,13,23):[nan,nan,nan]
+Symmetry operations (if any):
+       0: pbc= False , kappa-points=1, M=1
+       1: pbc= False , kappa-points=1, M=1
+       2: pbc= False , kappa-points=1, M=1
+Electronic temperature: 0.02 eV
+Mixer: Anderson with memory = 3 , mixing parameter = 0.2
+14 atoms, 35 states, 43.0 electrons (21.5 filled states)
+Initial n ranges:[0,0] [0,0] [0,0] 
+Element O in /home/underkoffler.c/Code/hotbit/param/O.elm
+    *no comment
+Element C in /home/underkoffler.c/Code/hotbit/param/C.elm
+    *fixed set C
+Element H in /home/underkoffler.c/Code/hotbit/param/H.elm
+    *no comment
+
+Interactions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CO in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+    *Quadratic original (r/r0)**2, r0=1.85*r_cov,
+    *Original repulsion (probably)
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HO in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  HC in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Repulsions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Found Conf 3 energy of -79.1712197174
+Solved one time; Iterations: 9
+
+Timing:
+            label                    time     calls    %sub  %covered   %tot
+-------------------------------------------------------------------------------
+Hotbit                               0.583         1 (100.0 %, 50.3 %) 100.0 % |000000000000000000000000000000|
+../initialization                    0.195         1 ( 33.4 %        )  33.4 % |1111111111|
+../geometry                          0.003         1 (  0.5 %, 45.3 %)   0.5 % ||
+../../operations                     0.000         1 (  1.1 %        )   0.0 % ||
+../../displacements                  0.001         1 ( 44.2 %        )   0.2 % ||
+../solve                             0.095         1 ( 16.2 %, 97.3 %)  16.2 % |11111|
+../../matrix construction            0.067         1 ( 71.0 %        )  11.5 % |222|
+../../gamma matrix                   0.002         1 (  2.1 %        )   0.3 % ||
+../../h1                             0.005        10 (  5.3 %        )   0.9 % ||
+../../LAPACK eigensolver             0.008        10 (  8.3 %        )   1.3 % ||
+../../Check norm (remove?)           0.001        10 (  0.8 %        )   0.1 % ||
+../../update                         0.009        10 (  9.6 %,  7.5 %)   1.6 % ||
+../../../rho                         0.001        10 (  7.5 %        )   0.1 % ||
+../../final update                   0.000         1 (  0.2 %        )   0.0 % ||
+../energy                            0.001         1 (  0.2 %, 77.1 %)   0.2 % ||
+../../e_bs                           0.000         1 (  5.0 %        )   0.0 % ||
+../../ecoul                          0.000         1 (  1.5 %        )   0.0 % ||
+../../e_rep                          0.001         1 ( 70.6 %        )   0.1 % ||
+ -------------------------------------------------------------------------------
+total time        0.583 seconds      0 h  0 min  1 sec
+Thu Mar 21 16:22:43 2019
+Solved one time; Iterations: 7
+
+Timing:
+            label                    time     calls    %sub  %covered   %tot
+-------------------------------------------------------------------------------
+Hotbit                               0.280         1 (100.0 %, 96.3 %) 100.0 % |000000000000000000000000000000|
+../initialization                    0.176         1 ( 62.8 %        )  62.8 % |1111111111111111111|
+../geometry                          0.003         1 (  1.1 %, 45.2 %)   1.1 % ||
+../../operations                     0.000         1 (  0.8 %        )   0.0 % ||
+../../displacements                  0.001         1 ( 44.4 %        )   0.5 % ||
+../solve                             0.090         1 ( 32.1 %, 97.7 %)  32.1 % |1111111111|
+../../matrix construction            0.067         1 ( 74.7 %        )  24.0 % |2222222|
+../../gamma matrix                   0.002         1 (  2.2 %        )   0.7 % ||
+../../h1                             0.004         8 (  4.4 %        )   1.4 % ||
+../../LAPACK eigensolver             0.007         8 (  7.3 %        )   2.3 % |2|
+../../Check norm (remove?)           0.001         8 (  0.7 %        )   0.2 % ||
+../../update                         0.007         8 (  8.1 %,  7.5 %)   2.6 % |2|
+../../../rho                         0.001         8 (  7.5 %        )   0.2 % ||
+../../final update                   0.000         1 (  0.2 %        )   0.1 % ||
+../energy                            0.001         1 (  0.3 %, 76.5 %)   0.3 % ||
+../../e_bs                           0.000         1 (  5.3 %        )   0.0 % ||
+../../ecoul                          0.000         1 (  1.5 %        )   0.0 % ||
+../../e_rep                          0.001         1 ( 69.6 %        )   0.2 % ||
+ -------------------------------------------------------------------------------
+total time        0.280 seconds      0 h  0 min  0 sec
+Thu Mar 21 16:22:43 2019
+[16:22:43] WARNING: Omitted undefined stereo
+Submitted batch job 3858595
+
+systematic.py:190 systematic_search INFO There are 54 unique conformers generated
+
+
+
+
+
+
+ _           _    _     _ _
+| |__   ___ | |_ | |__ |_| |_
+|  _ \ / _ \|  _||  _ \| |  _|
+| | | | ( ) | |_ | ( ) | | |_
+|_| |_|\___/ \__|\____/|_|\__|  ver. 0.1 (svn=Unversioned directory)
+Distributed under GNU GPL; see /home/underkoffler.c/Code/hotbit/lib/python/LICENSE
+Date: Thu Mar 21 16:22:46 2019
+Nodename: c0148
+Arch: x86_64
+Dir: /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/OOCC(C)O[O]/From_Workflow
+System: H7C3O4
+       Charge= 0.0
+       Container Bravais: pbc:[0,0,0], cell:[0.00,0.00,0.00] Ang, 
+   cosines(12,13,23):[nan,nan,nan]
+Symmetry operations (if any):
+       0: pbc= False , kappa-points=1, M=1
+       1: pbc= False , kappa-points=1, M=1
+       2: pbc= False , kappa-points=1, M=1
+Electronic temperature: 0.02 eV
+Mixer: Anderson with memory = 3 , mixing parameter = 0.2
+14 atoms, 35 states, 43.0 electrons (21.5 filled states)
+Initial n ranges:[0,0] [0,0] [0,0] 
+Element O in /home/underkoffler.c/Code/hotbit/param/O.elm
+    *no comment
+Element C in /home/underkoffler.c/Code/hotbit/param/C.elm
+    *fixed set C
+Element H in /home/underkoffler.c/Code/hotbit/param/H.elm
+    *no comment
+
+Interactions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CO in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+    *Quadratic original (r/r0)**2, r0=1.85*r_cov,
+    *Original repulsion (probably)
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HO in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  HC in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Repulsions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~92.980 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~92.980 % filled.
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~92.980 % filled.
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~92.980 % filled.
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~92.980 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~92.980 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~92.980 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~92.980 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Process Process-70:
+Traceback (most recent call last):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 267, in _bootstrap
+    self.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/underkoffler.c/Code/AutoTST/autotst/conformer/systematic.py", line 219, in opt_conf
+    opt.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 202, in run
+    for converged in self.irun(fmax, steps):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 179, in irun
+    f = self.atoms.get_forces()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/atoms.py", line 714, in get_forces
+    forces = self._calc.get_forces(self)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 476, in get_forces
+    self.solve_ground_state(atoms)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 393, in solve_ground_state
+    self.st.solve()
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/states.py", line 207, in solve
+    self.e, self.wf = self.solver.get_states(self.calc,dq,self.H0,self.S)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/solver.py", line 97, in get_states
+    raise RuntimeError('Out of iterations.')
+RuntimeError: Out of iterations.
+Anderson mixer out of iterations!
+History of maximum residuals:
+0 0.995480650459
+1 0.351824131986
+2 0.262073674857
+3 0.564408271498
+4 0.202076270558
+5 0.20138015006
+6 0.210055646797
+7 0.168871005257
+8 0.597527898681
+9 0.143682262871
+10 0.130885027633
+11 0.141642152927
+12 0.133823941674
+13 0.607257525314
+14 0.112800032254
+15 0.120213790687
+16 0.124387249811
+17 0.115951742455
+18 0.603250051361
+19 0.1080956239
+20 0.106710681652
+21 0.0923025201622
+22 0.110517498534
+23 0.595436838405
+24 0.0903462654503
+25 0.0702642824826
+26 0.0398089597152
+27 0.041192308123
+28 0.569040184169
+29 0.0688981422978
+30 0.0630101812375
+31 0.0549950019695
+32 0.0545128588297
+33 0.511189761328
+34 0.0594640519881
+35 0.0585069656984
+36 0.0517280439959
+37 0.0558514044048
+38 0.374866256536
+39 0.0149096222168
+40 0.0630472306001
+41 0.0560632516197
+42 0.0532693784495
+43 0.0886953496565
+44 0.0137693612998
+45 0.0015787218727
+46 0.0559029301497
+47 0.036289846607
+48 0.0151164130777
+49 0.00235315508022
+Recent history: (number=i'th last iteration)
+0 [ 0.08988377 -0.07353261  0.24029392  0.34621019 -0.15906716]
+1 [ 0.08901286 -0.07235833  0.23909924  0.34720548 -0.1592034 ]
+2 [ 0.0867379  -0.06919876  0.23581598  0.34981123 -0.15953785]
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~92.980 % filled.
+Hamiltonian ~92.980 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Process Process-58:
+Traceback (most recent call last):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 267, in _bootstrap
+    self.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/underkoffler.c/Code/AutoTST/autotst/conformer/systematic.py", line 219, in opt_conf
+    opt.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 202, in run
+    for converged in self.irun(fmax, steps):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 179, in irun
+    f = self.atoms.get_forces()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/atoms.py", line 714, in get_forces
+    forces = self._calc.get_forces(self)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 476, in get_forces
+    self.solve_ground_state(atoms)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 393, in solve_ground_state
+    self.st.solve()
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/states.py", line 207, in solve
+    self.e, self.wf = self.solver.get_states(self.calc,dq,self.H0,self.S)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/solver.py", line 97, in get_states
+    raise RuntimeError('Out of iterations.')
+RuntimeError: Out of iterations.
+Anderson mixer out of iterations!
+History of maximum residuals:
+0 0.865821924757
+1 0.390814790057
+2 0.293109485229
+3 0.577999785969
+4 0.188095841674
+5 0.243543081321
+6 0.255237420725
+7 0.192064087808
+8 0.605619126727
+9 0.163419803518
+10 0.138442581356
+11 0.153049503697
+12 0.157355525534
+13 0.609098578835
+14 0.14616152675
+15 0.110517388357
+16 0.14713321121
+17 0.156798319819
+18 0.608133092405
+19 0.127045926109
+20 0.101873101414
+21 0.109629374627
+22 0.107663032501
+23 0.604197828758
+24 0.105655137233
+25 0.0878521916209
+26 0.109816526706
+27 0.126526928821
+28 0.605348970879
+29 0.09984336365
+30 0.0886243990711
+31 0.0802511493805
+32 0.0842301856949
+33 0.604059319887
+34 0.0810589857361
+35 0.0740541698175
+36 0.0669631851683
+37 0.0719042665886
+38 0.603058884369
+39 0.0672593203029
+40 0.0626596466823
+41 0.0609420153103
+42 0.0617567985566
+43 0.602236477798
+44 0.0575525680826
+45 0.057645445558
+46 0.0552737408614
+47 0.0545977257483
+48 0.600294474542
+49 0.0516184127647
+Recent history: (number=i'th last iteration)
+0 [ 0.11507834 -0.07249481  0.31549345  0.34452277 -0.15279107]
+1 [ 0.14094551 -0.10232863  0.34412005  0.31415286 -0.14827446]
+2 [ 0.11361849 -0.07079261  0.31386104  0.34623337 -0.15304629]
+Process Process-60:
+Traceback (most recent call last):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 267, in _bootstrap
+    self.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/underkoffler.c/Code/AutoTST/autotst/conformer/systematic.py", line 219, in opt_conf
+    opt.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 202, in run
+    for converged in self.irun(fmax, steps):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 179, in irun
+    f = self.atoms.get_forces()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/atoms.py", line 714, in get_forces
+    forces = self._calc.get_forces(self)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 476, in get_forces
+    self.solve_ground_state(atoms)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 393, in solve_ground_state
+    self.st.solve()
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/states.py", line 207, in solve
+    self.e, self.wf = self.solver.get_states(self.calc,dq,self.H0,self.S)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/solver.py", line 97, in get_states
+    raise RuntimeError('Out of iterations.')
+RuntimeError: Out of iterations.
+Anderson mixer out of iterations!
+History of maximum residuals:
+0 0.993702093324
+1 0.689411918456
+2 0.285982621909
+3 0.71151043769
+4 0.502817511067
+5 0.467063734254
+6 0.817010396759
+7 0.354106683204
+8 0.561418080479
+9 0.20313361593
+10 0.111198837133
+11 0.583794850522
+12 0.561404360598
+13 0.578618307139
+14 0.109111899107
+15 0.0318606497953
+16 0.401380260236
+17 0.564920654819
+18 0.560068069498
+19 0.531163184972
+20 0.550301602523
+21 0.699332629465
+22 0.494824233607
+23 0.173654714083
+24 0.165933983512
+25 0.60314406095
+26 0.172997560088
+27 0.134188792273
+28 0.150045612214
+29 0.112430923707
+30 0.59955628809
+31 0.134704408318
+32 0.112353157885
+33 0.118563027026
+34 0.130495276615
+35 0.592757164935
+36 0.524156081407
+37 0.529160821973
+38 0.105204719301
+39 0.516674042417
+40 0.508366975691
+41 0.477459236066
+42 0.0507425703756
+43 0.0903717743165
+44 0.101802476439
+45 0.0869327003439
+46 0.0161058608065
+47 0.0114568894992
+48 0.0373145707598
+49 0.00542047252356
+Recent history: (number=i'th last iteration)
+0 [-0.00314175 -0.04317904  0.11625277  0.38599314 -0.16323914]
+1 [-0.00349785 -0.04274446  0.11566125  0.38629052 -0.16335549]
+2 [-0.00315072 -0.04350307  0.11627299  0.38571968 -0.16299588]
+Memory consumption estimate: > 0.00 GB
+Process Process-78:
+Traceback (most recent call last):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 267, in _bootstrap
+    self.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/underkoffler.c/Code/AutoTST/autotst/conformer/systematic.py", line 219, in opt_conf
+    opt.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 202, in run
+    for converged in self.irun(fmax, steps):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 179, in irun
+    f = self.atoms.get_forces()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/atoms.py", line 714, in get_forces
+    forces = self._calc.get_forces(self)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 476, in get_forces
+    self.solve_ground_state(atoms)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 393, in solve_ground_state
+    self.st.solve()
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/states.py", line 207, in solve
+    self.e, self.wf = self.solver.get_states(self.calc,dq,self.H0,self.S)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/solver.py", line 97, in get_states
+    raise RuntimeError('Out of iterations.')
+RuntimeError: Out of iterations.
+Anderson mixer out of iterations!
+History of maximum residuals:
+0 0.995883261351
+1 0.355448146655
+2 0.266243440573
+3 0.577071183947
+4 0.197960352225
+5 0.19755410027
+6 0.211934914371
+7 0.173016900405
+8 0.599544218413
+9 0.14390867506
+10 0.133614411161
+11 0.142742671841
+12 0.132931177144
+13 0.608801502986
+14 0.11405654368
+15 0.117893855798
+16 0.117891298144
+17 0.0960846338322
+18 0.603844858239
+19 0.114986597422
+20 0.102577081804
+21 0.096643217109
+22 0.0784549528748
+23 0.599480863986
+24 0.0880537319185
+25 0.0841163588511
+26 0.0842889014761
+27 0.0702683676846
+28 0.593187761355
+29 0.0549271732898
+30 0.116715779816
+31 0.109861174904
+32 0.0655615083736
+33 0.595269729864
+34 0.277744551987
+35 0.0630400042275
+36 0.0461820096314
+37 0.0502431366406
+38 0.107397936305
+39 0.593230496874
+40 0.0666483607902
+41 0.0578232595092
+42 0.0579822545092
+43 0.0518003923781
+44 0.607394114695
+45 0.0347555846755
+46 0.0421638647799
+47 0.0221206375389
+48 0.0276692379361
+49 0.0863603001204
+Recent history: (number=i'th last iteration)
+0 [ 0.07558077 -0.05819824  0.21842215  0.37170718 -0.17147767]
+1 [ 0.0925228  -0.07702647  0.23631927  0.3514099  -0.16793447]
+2 [ 0.09288407 -0.07744132  0.23670323  0.35098769 -0.1678586 ]
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Process Process-68:
+Traceback (most recent call last):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 267, in _bootstrap
+    self.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/underkoffler.c/Code/AutoTST/autotst/conformer/systematic.py", line 219, in opt_conf
+    opt.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 202, in run
+    for converged in self.irun(fmax, steps):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 179, in irun
+    f = self.atoms.get_forces()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/atoms.py", line 714, in get_forces
+    forces = self._calc.get_forces(self)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 476, in get_forces
+    self.solve_ground_state(atoms)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 393, in solve_ground_state
+    self.st.solve()
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/states.py", line 207, in solve
+    self.e, self.wf = self.solver.get_states(self.calc,dq,self.H0,self.S)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/solver.py", line 97, in get_states
+    raise RuntimeError('Out of iterations.')
+RuntimeError: Out of iterations.
+Anderson mixer out of iterations!
+History of maximum residuals:
+0 0.997220899659
+1 0.289882748327
+2 0.215646335219
+3 0.577997581751
+4 0.222988793509
+5 0.231660800256
+6 0.229797413699
+7 0.171639419705
+8 0.599637006487
+9 0.152838693587
+10 0.135184818286
+11 0.150274186804
+12 0.146440666952
+13 0.607980857422
+14 0.122640586973
+15 0.13401189305
+16 0.141564411861
+17 0.144273104647
+18 0.604694186031
+19 0.119280586463
+20 0.114676022812
+21 0.11626777985
+22 0.109945023919
+23 0.602206726973
+24 0.0963332434619
+25 0.0746236029526
+26 0.0339332037264
+27 0.057036274648
+28 0.53016879086
+29 0.0559376068892
+30 0.0776283432413
+31 0.0855923164339
+32 0.0960137576964
+33 0.5791044969
+34 0.0846846909895
+35 0.0783453457875
+36 0.0219639937386
+37 0.0831579258253
+38 0.0833441197808
+39 0.00646156234818
+40 0.0550306240279
+41 0.528843098761
+42 0.352926668163
+43 0.0641220465787
+44 0.0534042069161
+45 0.036054072057
+46 0.04976254201
+47 0.0508219044411
+48 0.0402338870186
+49 0.034570088432
+Recent history: (number=i'th last iteration)
+0 [ 0.06559371 -0.05378711  0.15559548  0.3604951  -0.17146774]
+1 [ 0.06545192 -0.05358295  0.15542629  0.36067511 -0.17152677]
+2 [ 0.06678164 -0.05523923  0.15677556  0.35894913 -0.17099416]
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~92.980 % filled.
+Hamiltonian ~93.143 % filled.
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~92.980 % filled.
+Hamiltonian ~93.143 % filled.
+Hamiltonian ~93.143 % filled.
+Process Process-80:
+Traceback (most recent call last):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 267, in _bootstrap
+    self.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/underkoffler.c/Code/AutoTST/autotst/conformer/systematic.py", line 219, in opt_conf
+    opt.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 202, in run
+    for converged in self.irun(fmax, steps):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 179, in irun
+    f = self.atoms.get_forces()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/atoms.py", line 714, in get_forces
+    forces = self._calc.get_forces(self)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 476, in get_forces
+    self.solve_ground_state(atoms)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 393, in solve_ground_state
+    self.st.solve()
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/states.py", line 207, in solve
+    self.e, self.wf = self.solver.get_states(self.calc,dq,self.H0,self.S)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/solver.py", line 97, in get_states
+    raise RuntimeError('Out of iterations.')
+RuntimeError: Out of iterations.
+Anderson mixer out of iterations!
+History of maximum residuals:
+0 0.991612778621
+1 0.750475922363
+2 0.283568828699
+3 0.660210090493
+4 0.478309089995
+5 0.361497519796
+6 0.774725933423
+7 0.374596405591
+8 0.182844201129
+9 0.220592911357
+10 0.604549684719
+11 0.286609628889
+12 0.286722960848
+13 0.190653486131
+14 0.219093261582
+15 0.597009377855
+16 0.197370819984
+17 0.170980347336
+18 0.515114465891
+19 0.150049727084
+20 0.141030957483
+21 0.474329822984
+22 0.486407054385
+23 0.231553495407
+24 0.506468208109
+25 0.509675393252
+26 0.518974796002
+27 0.518665995767
+28 0.600571245821
+29 0.349460478642
+30 0.216526161982
+31 0.19804960787
+32 0.604054774327
+33 0.505145206835
+34 0.170098774506
+35 0.187010420276
+36 0.182108456612
+37 0.209732014923
+38 0.603602119834
+39 0.527429054744
+40 0.177308122887
+41 0.171738132811
+42 0.180405758419
+43 0.171652616446
+44 0.592474393945
+45 0.539155963147
+46 0.165010207046
+47 0.179003344286
+48 0.131776379129
+49 0.138441923329
+Recent history: (number=i'th last iteration)
+0 [-0.04525283 -0.01900567  0.0766436   0.41107791 -0.15380321]
+1 [-0.04458105 -0.01970869  0.07730982  0.41019522 -0.15356366]
+2 [-0.04076003 -0.02381421  0.08111767  0.40550975 -0.15228783]
+Hamiltonian ~92.980 % filled.
+Memory consumption estimate: > 0.00 GB
+Process Process-84:
+Traceback (most recent call last):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 267, in _bootstrap
+    self.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/underkoffler.c/Code/AutoTST/autotst/conformer/systematic.py", line 219, in opt_conf
+    opt.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 202, in run
+    for converged in self.irun(fmax, steps):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 179, in irun
+    f = self.atoms.get_forces()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/atoms.py", line 714, in get_forces
+    forces = self._calc.get_forces(self)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 476, in get_forces
+    self.solve_ground_state(atoms)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 393, in solve_ground_state
+    self.st.solve()
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/states.py", line 207, in solve
+    self.e, self.wf = self.solver.get_states(self.calc,dq,self.H0,self.S)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/solver.py", line 97, in get_states
+    raise RuntimeError('Out of iterations.')
+RuntimeError: Out of iterations.
+Anderson mixer out of iterations!
+History of maximum residuals:
+0 0.990507263293
+1 0.369814521994
+2 0.276285434429
+3 0.555008747
+4 0.193879826529
+5 0.206230633402
+6 0.211049222699
+7 0.16587987709
+8 0.593209915489
+9 0.143102747808
+10 0.128207812439
+11 0.140098960796
+12 0.134993923123
+13 0.603072328878
+14 0.113826382651
+15 0.11692141528
+16 0.126872836579
+17 0.136490376537
+18 0.596067715561
+19 0.119406904215
+20 0.0979067854235
+21 0.0860452126922
+22 0.112981547067
+23 0.591649785286
+24 0.548900044777
+25 0.587263894093
+26 0.0933447389966
+27 0.0795444922395
+28 0.0371711004436
+29 0.0369320146564
+30 0.59813313343
+31 0.067804505239
+32 0.0609417923127
+33 0.0551007946376
+34 0.0667141736783
+35 0.601750811371
+36 0.06172423331
+37 0.056705043691
+38 0.0587868517241
+39 0.0577225365362
+40 0.543243282664
+41 0.0187739102185
+42 0.0209003877191
+43 0.04500991914
+44 0.0105879872057
+45 0.456359367573
+46 0.0262123662447
+47 0.0480689557458
+48 0.0583944791732
+49 0.0876663268398
+Recent history: (number=i'th last iteration)
+0 [ 0.06027123 -0.04745989  0.23239109  0.37010752 -0.16146224]
+1 [ 0.07405008 -0.06517726  0.24986451  0.35494066 -0.15936259]
+2 [ 0.07737787 -0.06897445  0.25355385  0.35118127 -0.15884857]
+Process Process-72:
+Traceback (most recent call last):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 267, in _bootstrap
+    self.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/underkoffler.c/Code/AutoTST/autotst/conformer/systematic.py", line 219, in opt_conf
+    opt.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 202, in run
+    for converged in self.irun(fmax, steps):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 179, in irun
+    f = self.atoms.get_forces()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/atoms.py", line 714, in get_forces
+    forces = self._calc.get_forces(self)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 476, in get_forces
+    self.solve_ground_state(atoms)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 393, in solve_ground_state
+    self.st.solve()
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/states.py", line 207, in solve
+    self.e, self.wf = self.solver.get_states(self.calc,dq,self.H0,self.S)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/solver.py", line 97, in get_states
+    raise RuntimeError('Out of iterations.')
+RuntimeError: Out of iterations.
+Anderson mixer out of iterations!
+History of maximum residuals:
+0 0.994704323152
+1 0.411216478886
+2 0.310020317331
+3 0.577348213485
+4 0.19500165027
+5 0.225238433887
+6 0.231413873891
+7 0.178509038504
+8 0.603788184704
+9 0.153730427893
+10 0.13394184711
+11 0.147542455065
+12 0.146680304094
+13 0.613358579879
+14 0.127101512317
+15 0.117822283468
+16 0.138427826027
+17 0.142768116008
+18 0.610071065422
+19 0.11457463611
+20 0.0918643974813
+21 0.0912486746716
+22 0.0857410319441
+23 0.606591646389
+24 0.0882862563014
+25 0.0770059984653
+26 0.0658632167654
+27 0.0606318650556
+28 0.604608823061
+29 0.0648734946895
+30 0.0808788261237
+31 0.0717155756728
+32 0.0935140215133
+33 0.605032062407
+34 0.116287503009
+35 0.106590067336
+36 0.0902045810949
+37 0.0801583179745
+38 0.605011714852
+39 0.0721197180851
+40 0.0583676433267
+41 0.0515213763088
+42 0.0542693939406
+43 0.601778596279
+44 0.0419045898902
+45 0.0490103661932
+46 0.0447090598757
+47 0.0396320139511
+48 0.622514648505
+49 0.0162172418969
+Recent history: (number=i'th last iteration)
+0 [ 0.09945318 -0.08069123  0.31150386  0.33762157 -0.16634063]
+1 [ 0.13375552 -0.11891501  0.34690955  0.29896843 -0.16149384]
+2 [ 0.09612294 -0.07765131  0.30908206  0.34142098 -0.16688483]
+Process Process-102:
+Traceback (most recent call last):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 267, in _bootstrap
+    self.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/underkoffler.c/Code/AutoTST/autotst/conformer/systematic.py", line 219, in opt_conf
+    opt.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 202, in run
+    for converged in self.irun(fmax, steps):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 179, in irun
+    f = self.atoms.get_forces()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/atoms.py", line 714, in get_forces
+    forces = self._calc.get_forces(self)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 476, in get_forces
+    self.solve_ground_state(atoms)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 393, in solve_ground_state
+    self.st.solve()
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/states.py", line 207, in solve
+    self.e, self.wf = self.solver.get_states(self.calc,dq,self.H0,self.S)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/solver.py", line 97, in get_states
+    raise RuntimeError('Out of iterations.')
+RuntimeError: Out of iterations.
+Anderson mixer out of iterations!
+History of maximum residuals:
+0 0.989434708235
+1 0.351611622779
+2 0.262770572009
+3 0.550663822324
+4 0.197009145501
+5 0.22220970873
+6 0.228585627795
+7 0.175501311357
+8 0.597521924803
+9 0.150803110501
+10 0.132421107611
+11 0.145808440931
+12 0.143178710715
+13 0.606053779619
+14 0.121983403364
+15 0.11912414494
+16 0.134455690276
+17 0.152248424644
+18 0.601316934975
+19 0.110722344453
+20 0.0821870290393
+21 0.0747858932724
+22 0.0576470531366
+23 0.597986462576
+24 0.0627227976317
+25 0.0768789379949
+26 0.0795825905296
+27 0.0756011518267
+28 0.595904145094
+29 0.0745425062816
+30 0.0659493135419
+31 0.0638769225633
+32 0.070499207874
+33 0.588906814212
+34 0.0567947538632
+35 0.0496644767865
+36 0.0646873621848
+37 0.0423590340975
+38 0.578211657535
+39 0.0411123564712
+40 0.0806998932213
+41 0.589957958508
+42 0.0565942804826
+43 0.0553456726935
+44 0.0558327171113
+45 0.0326210518704
+46 0.581417992062
+47 0.0521069920271
+48 0.0481636302484
+49 0.0465174595113
+Recent history: (number=i'th last iteration)
+0 [ 0.08537052 -0.06554061  0.23692379  0.34344983 -0.17383133]
+1 [ 0.08481428 -0.06492253  0.23633798  0.34408461 -0.17390728]
+2 [ 0.08336991 -0.06331889  0.23481775  0.34573408 -0.17410493]
+Hamiltonian ~93.143 % filled.
+Process Process-98:
+Traceback (most recent call last):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 267, in _bootstrap
+    self.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/underkoffler.c/Code/AutoTST/autotst/conformer/systematic.py", line 219, in opt_conf
+    opt.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 202, in run
+    for converged in self.irun(fmax, steps):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 179, in irun
+    f = self.atoms.get_forces()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/atoms.py", line 714, in get_forces
+    forces = self._calc.get_forces(self)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 476, in get_forces
+    self.solve_ground_state(atoms)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 393, in solve_ground_state
+    self.st.solve()
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/states.py", line 207, in solve
+    self.e, self.wf = self.solver.get_states(self.calc,dq,self.H0,self.S)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/solver.py", line 97, in get_states
+    raise RuntimeError('Out of iterations.')
+RuntimeError: Out of iterations.
+Anderson mixer out of iterations!
+History of maximum residuals:
+0 0.998231043477
+1 0.300548494583
+2 0.224785289642
+3 0.576844733843
+4 0.212345700723
+5 0.210074180782
+6 0.209400050823
+7 0.16199115685
+8 0.597580457577
+9 0.14258046965
+10 0.130593551443
+11 0.143167529037
+12 0.130356028284
+13 0.607464836872
+14 0.111681421785
+15 0.13560223714
+16 0.109696790639
+17 0.103308167977
+18 0.603997523134
+19 0.123136743221
+20 0.109369082015
+21 0.0958439166632
+22 0.0959227451119
+23 0.600645918291
+24 0.0992917608722
+25 0.0900876140595
+26 0.0772006831408
+27 0.0846811777384
+28 0.597276298286
+29 0.084651966768
+30 0.0786244651253
+31 0.0741769761679
+32 0.0732890695745
+33 0.595740297245
+34 0.0743402788211
+35 0.0656688375158
+36 0.0705203614366
+37 0.0683055499844
+38 0.591916835449
+39 0.0270668722572
+40 0.0634760509759
+41 0.0525103865498
+42 0.0524638748449
+43 0.0813243696214
+44 0.565559070348
+45 0.0540428556586
+46 0.034951866502
+47 0.0460245381471
+48 0.0143350167635
+49 0.0297378470447
+Recent history: (number=i'th last iteration)
+0 [ 0.09043782 -0.08019055  0.18044851  0.3527333  -0.16649953]
+1 [ 0.09049199 -0.07966731  0.18011348  0.35315189 -0.16668536]
+2 [ 0.08750297 -0.07600586  0.17681252  0.3569663  -0.16777637]
+Process Process-110:
+Traceback (most recent call last):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 267, in _bootstrap
+    self.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/underkoffler.c/Code/AutoTST/autotst/conformer/systematic.py", line 219, in opt_conf
+    opt.run()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 202, in run
+    for converged in self.irun(fmax, steps):
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/optimize/optimize.py", line 179, in irun
+    f = self.atoms.get_forces()
+  File "/home/underkoffler.c/anaconda2/envs/rmg_env/lib/python2.7/site-packages/ase/atoms.py", line 714, in get_forces
+    forces = self._calc.get_forces(self)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 476, in get_forces
+    self.solve_ground_state(atoms)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/aseinterface.py", line 393, in solve_ground_state
+    self.st.solve()
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/states.py", line 207, in solve
+    self.e, self.wf = self.solver.get_states(self.calc,dq,self.H0,self.S)
+  File "/home/underkoffler.c/Code/hotbit/lib/python/hotbit/solver.py", line 97, in get_states
+    raise RuntimeError('Out of iterations.')
+RuntimeError: Out of iterations.
+Anderson mixer out of iterations!
+History of maximum residuals:
+0 0.991056217675
+1 0.362095326937
+2 0.270298318682
+3 0.57022526987
+4 0.193237365408
+5 0.215036850217
+6 0.216731305048
+7 0.166587602181
+8 0.59854638307
+9 0.147766643913
+10 0.128808721416
+11 0.143833228545
+12 0.141766906772
+13 0.608503506344
+14 0.121297067413
+15 0.118746408419
+16 0.13452849514
+17 0.154208682
+18 0.602791624825
+19 0.0772407269826
+20 0.0495191768008
+21 0.0559435180534
+22 0.0357717733115
+23 0.415071205144
+24 0.0608552937592
+25 0.0560928881846
+26 0.0427044477345
+27 0.0507701779168
+28 0.561341679273
+29 0.0479484148557
+30 0.0469732590507
+31 0.0352631030543
+32 0.0362578463754
+33 0.441994109351
+34 0.0300829182448
+35 0.0398490601284
+36 0.0436166195712
+37 0.0480972648899
+38 0.516480893187
+39 0.0357908558686
+40 0.0560540178747
+41 0.0378310354802
+42 0.0289653032504
+43 0.52684988344
+44 0.0516791526363
+45 0.0489236844496
+46 0.0728206585372
+47 0.0372927318383
+48 0.530725698463
+49 0.034774394584
+Recent history: (number=i'th last iteration)
+0 [ 0.07299562 -0.06582755  0.25059908  0.3424494  -0.15672563]
+1 [ 0.08338014 -0.07833142  0.26279463  0.33029768 -0.15538098]
+2 [ 0.07257023 -0.06532525  0.25011511  0.34294813 -0.15678199]
+systematic.py:274 systematic_search INFO We have identified 5 unique conformers for <Conformer "OOCC(C)O[O]">
+Solved zero times.
+
+Timing:
+            label                    time     calls    %sub  %covered   %tot
+-------------------------------------------------------------------------------
+Hotbit                             141.441         1 (100.0 %,  0.2 %) 100.0 % |000000000000000000000000000000|
+../initialization                    0.230         1 (  0.2 %        )   0.2 % ||
+ -------------------------------------------------------------------------------
+total time      141.441 seconds      0 h  2 min  21 sec
+Thu Mar 21 16:25:08 2019
+OOCC(C)O[O]
+
+Generated conformer for OOCC(C)O[O]
+OOCC(C)O[O]
+5 conf for OOCC(C)O[O]
+
+
+
+
+
+
+ _           _    _     _ _
+| |__   ___ | |_ | |__ |_| |_
+|  _ \ / _ \|  _||  _ \| |  _|
+| | | | ( ) | |_ | ( ) | | |_
+|_| |_|\___/ \__|\____/|_|\__|  ver. 0.1 (svn=Unversioned directory)
+Distributed under GNU GPL; see /home/underkoffler.c/Code/hotbit/lib/python/LICENSE
+Date: Thu Mar 21 16:25:08 2019
+Nodename: c0148
+Arch: x86_64
+Dir: /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/OOCC(C)O[O]/From_Workflow
+System: H7C3O4
+       Charge= 0.0
+       Container Bravais: pbc:[0,0,0], cell:[0.00,0.00,0.00] Ang, 
+   cosines(12,13,23):[nan,nan,nan]
+Symmetry operations (if any):
+       0: pbc= False , kappa-points=1, M=1
+       1: pbc= False , kappa-points=1, M=1
+       2: pbc= False , kappa-points=1, M=1
+Electronic temperature: 0.02 eV
+Mixer: Anderson with memory = 3 , mixing parameter = 0.2
+14 atoms, 35 states, 43.0 electrons (21.5 filled states)
+Initial n ranges:[0,0] [0,0] [0,0] 
+Element O in /home/underkoffler.c/Code/hotbit/param/O.elm
+    *no comment
+Element C in /home/underkoffler.c/Code/hotbit/param/C.elm
+    *fixed set C
+Element H in /home/underkoffler.c/Code/hotbit/param/H.elm
+    *no comment
+
+Interactions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CO in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+    *Quadratic original (r/r0)**2, r0=1.85*r_cov,
+    *Original repulsion (probably)
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HO in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  HC in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Repulsions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~92.980 % filled.
+Found Conf 1 energy of -76.8886525898
+
+
+
+
+
+
+ _           _    _     _ _
+| |__   ___ | |_ | |__ |_| |_
+|  _ \ / _ \|  _||  _ \| |  _|
+| | | | ( ) | |_ | ( ) | | |_
+|_| |_|\___/ \__|\____/|_|\__|  ver. 0.1 (svn=Unversioned directory)
+Distributed under GNU GPL; see /home/underkoffler.c/Code/hotbit/lib/python/LICENSE
+Date: Thu Mar 21 16:25:08 2019
+Nodename: c0148
+Arch: x86_64
+Dir: /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/OOCC(C)O[O]/From_Workflow
+System: H7C3O4
+       Charge= 0.0
+       Container Bravais: pbc:[0,0,0], cell:[0.00,0.00,0.00] Ang, 
+   cosines(12,13,23):[nan,nan,nan]
+Symmetry operations (if any):
+       0: pbc= False , kappa-points=1, M=1
+       1: pbc= False , kappa-points=1, M=1
+       2: pbc= False , kappa-points=1, M=1
+Electronic temperature: 0.02 eV
+Mixer: Anderson with memory = 3 , mixing parameter = 0.2
+14 atoms, 35 states, 43.0 electrons (21.5 filled states)
+Initial n ranges:[0,0] [0,0] [0,0] 
+Element O in /home/underkoffler.c/Code/hotbit/param/O.elm
+    *no comment
+Element C in /home/underkoffler.c/Code/hotbit/param/C.elm
+    *fixed set C
+Element H in /home/underkoffler.c/Code/hotbit/param/H.elm
+    *no comment
+
+Interactions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CO in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+    *Quadratic original (r/r0)**2, r0=1.85*r_cov,
+    *Original repulsion (probably)
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HO in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  HC in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Repulsions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~92.980 % filled.
+Found Conf 2 energy of -76.8760829984
+
+
+
+
+
+
+ _           _    _     _ _
+| |__   ___ | |_ | |__ |_| |_
+|  _ \ / _ \|  _||  _ \| |  _|
+| | | | ( ) | |_ | ( ) | | |_
+|_| |_|\___/ \__|\____/|_|\__|  ver. 0.1 (svn=Unversioned directory)
+Distributed under GNU GPL; see /home/underkoffler.c/Code/hotbit/lib/python/LICENSE
+Date: Thu Mar 21 16:25:08 2019
+Nodename: c0148
+Arch: x86_64
+Dir: /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/OOCC(C)O[O]/From_Workflow
+System: H7C3O4
+       Charge= 0.0
+       Container Bravais: pbc:[0,0,0], cell:[0.00,0.00,0.00] Ang, 
+   cosines(12,13,23):[nan,nan,nan]
+Symmetry operations (if any):
+       0: pbc= False , kappa-points=1, M=1
+       1: pbc= False , kappa-points=1, M=1
+       2: pbc= False , kappa-points=1, M=1
+Electronic temperature: 0.02 eV
+Mixer: Anderson with memory = 3 , mixing parameter = 0.2
+14 atoms, 35 states, 43.0 electrons (21.5 filled states)
+Initial n ranges:[0,0] [0,0] [0,0] 
+Element O in /home/underkoffler.c/Code/hotbit/param/O.elm
+    *no comment
+Element C in /home/underkoffler.c/Code/hotbit/param/C.elm
+    *fixed set C
+Element H in /home/underkoffler.c/Code/hotbit/param/H.elm
+    *no comment
+
+Interactions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CO in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+    *Quadratic original (r/r0)**2, r0=1.85*r_cov,
+    *Original repulsion (probably)
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HO in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  HC in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Repulsions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~92.980 % filled.
+Found Conf 3 energy of -76.8542695981
+
+
+
+
+
+
+ _           _    _     _ _
+| |__   ___ | |_ | |__ |_| |_
+|  _ \ / _ \|  _||  _ \| |  _|
+| | | | ( ) | |_ | ( ) | | |_
+|_| |_|\___/ \__|\____/|_|\__|  ver. 0.1 (svn=Unversioned directory)
+Distributed under GNU GPL; see /home/underkoffler.c/Code/hotbit/lib/python/LICENSE
+Date: Thu Mar 21 16:25:09 2019
+Nodename: c0148
+Arch: x86_64
+Dir: /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/OOCC(C)O[O]/From_Workflow
+System: H7C3O4
+       Charge= 0.0
+       Container Bravais: pbc:[0,0,0], cell:[0.00,0.00,0.00] Ang, 
+   cosines(12,13,23):[nan,nan,nan]
+Symmetry operations (if any):
+       0: pbc= False , kappa-points=1, M=1
+       1: pbc= False , kappa-points=1, M=1
+       2: pbc= False , kappa-points=1, M=1
+Electronic temperature: 0.02 eV
+Mixer: Anderson with memory = 3 , mixing parameter = 0.2
+14 atoms, 35 states, 43.0 electrons (21.5 filled states)
+Initial n ranges:[0,0] [0,0] [0,0] 
+Element O in /home/underkoffler.c/Code/hotbit/param/O.elm
+    *no comment
+Element C in /home/underkoffler.c/Code/hotbit/param/C.elm
+    *fixed set C
+Element H in /home/underkoffler.c/Code/hotbit/param/H.elm
+    *no comment
+
+Interactions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CO in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+    *Quadratic original (r/r0)**2, r0=1.85*r_cov,
+    *Original repulsion (probably)
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HO in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  HC in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Repulsions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~92.000 % filled.
+Found Conf 4 energy of -76.8507261972
+
+
+
+
+
+
+ _           _    _     _ _
+| |__   ___ | |_ | |__ |_| |_
+|  _ \ / _ \|  _||  _ \| |  _|
+| | | | ( ) | |_ | ( ) | | |_
+|_| |_|\___/ \__|\____/|_|\__|  ver. 0.1 (svn=Unversioned directory)
+Distributed under GNU GPL; see /home/underkoffler.c/Code/hotbit/lib/python/LICENSE
+Date: Thu Mar 21 16:25:09 2019
+Nodename: c0148
+Arch: x86_64
+Dir: /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/OOCC(C)O[O]/From_Workflow
+System: H7C3O4
+       Charge= 0.0
+       Container Bravais: pbc:[0,0,0], cell:[0.00,0.00,0.00] Ang, 
+   cosines(12,13,23):[nan,nan,nan]
+Symmetry operations (if any):
+       0: pbc= False , kappa-points=1, M=1
+       1: pbc= False , kappa-points=1, M=1
+       2: pbc= False , kappa-points=1, M=1
+Electronic temperature: 0.02 eV
+Mixer: Anderson with memory = 3 , mixing parameter = 0.2
+14 atoms, 35 states, 43.0 electrons (21.5 filled states)
+Initial n ranges:[0,0] [0,0] [0,0] 
+Element O in /home/underkoffler.c/Code/hotbit/param/O.elm
+    *no comment
+Element C in /home/underkoffler.c/Code/hotbit/param/C.elm
+    *fixed set C
+Element H in /home/underkoffler.c/Code/hotbit/param/H.elm
+    *no comment
+
+Interactions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CO in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+    *Quadratic original (r/r0)**2, r0=1.85*r_cov,
+    *Original repulsion (probably)
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HO in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  HC in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Repulsions:
+  OO in /home/underkoffler.c/Code/hotbit/param/O_O.par
+    *test parameters 23.6 2008
+  OC in /home/underkoffler.c/Code/hotbit/param/C_O.par
+    *test parameters 23.6 2008
+  OH in /home/underkoffler.c/Code/hotbit/param/O_H.par
+    *test parameters 23.6 2008
+  CC in /home/underkoffler.c/Code/hotbit/param/C_C.par
+    *test parameters 23.6 2008
+  CH in /home/underkoffler.c/Code/hotbit/param/C_H.par
+    *test parameters 23.6 2008
+  HH in /home/underkoffler.c/Code/hotbit/param/H_H.par
+    *test parameters 23.6 2008
+
+Memory consumption estimate: > 0.00 GB
+Hamiltonian ~92.980 % filled.
+Found Conf 5 energy of -76.849747479
+Solved one time; Iterations: 6
+
+Timing:
+            label                    time     calls    %sub  %covered   %tot
+-------------------------------------------------------------------------------
+Hotbit                               0.702         1 (100.0 %, 51.7 %) 100.0 % |000000000000000000000000000000|
+../initialization                    0.244         1 ( 34.7 %        )  34.7 % |1111111111|
+../geometry                          0.004         1 (  0.5 %, 46.7 %)   0.5 % ||
+../../operations                     0.000         1 (  0.7 %        )   0.0 % ||
+../../displacements                  0.002         1 ( 45.9 %        )   0.2 % ||
+../solve                             0.114         1 ( 16.2 %, 97.3 %)  16.2 % |11111|
+../../matrix construction            0.081         1 ( 70.8 %        )  11.5 % |222|
+../../gamma matrix                   0.002         1 (  2.0 %        )   0.3 % ||
+../../h1                             0.006         7 (  5.2 %        )   0.8 % ||
+../../LAPACK eigensolver             0.009         7 (  7.6 %        )   1.2 % ||
+../../Check norm (remove?)           0.001         7 (  0.7 %        )   0.1 % ||
+../../update                         0.012         7 ( 10.9 %,  5.6 %)   1.8 % |2|
+../../../rho                         0.001         7 (  5.6 %        )   0.1 % ||
+../../final update                   0.000         1 (  0.2 %        )   0.0 % ||
+../energy                            0.002         1 (  0.2 %, 79.1 %)   0.2 % ||
+../../e_bs                           0.000         1 (  4.3 %        )   0.0 % ||
+../../ecoul                          0.000         1 (  1.6 %        )   0.0 % ||
+../../e_rep                          0.001         1 ( 73.2 %        )   0.2 % ||
+ -------------------------------------------------------------------------------
+total time        0.702 seconds      0 h  0 min  1 sec
+Thu Mar 21 16:25:09 2019
+Solved one time; Iterations: 5
+
+Timing:
+            label                    time     calls    %sub  %covered   %tot
+-------------------------------------------------------------------------------
+Hotbit                               1.017         1 (100.0 %, 30.0 %) 100.0 % |000000000000000000000000000000|
+../initialization                    0.210         1 ( 20.7 %        )  20.7 % |111111|
+../geometry                          0.003         1 (  0.3 %, 44.3 %)   0.3 % ||
+../../operations                     0.000         1 (  0.7 %        )   0.0 % ||
+../../displacements                  0.001         1 ( 43.6 %        )   0.1 % ||
+../solve                             0.091         1 (  8.9 %, 97.5 %)   8.9 % |111|
+../../matrix construction            0.065         1 ( 72.0 %        )   6.4 % |22|
+../../gamma matrix                   0.002         1 (  2.0 %        )   0.2 % ||
+../../h1                             0.004         6 (  4.8 %        )   0.4 % ||
+../../LAPACK eigensolver             0.007         6 (  7.4 %        )   0.7 % ||
+../../Check norm (remove?)           0.001         6 (  0.7 %        )   0.1 % ||
+../../update                         0.009         6 ( 10.2 %,  5.6 %)   0.9 % ||
+../../../rho                         0.001         6 (  5.6 %        )   0.1 % ||
+../../final update                   0.000         1 (  0.3 %        )   0.0 % ||
+../energy                            0.001         1 (  0.1 %, 78.6 %)   0.1 % ||
+../../e_bs                           0.000         1 (  4.5 %        )   0.0 % ||
+../../ecoul                          0.000         1 (  1.6 %        )   0.0 % ||
+../../e_rep                          0.001         1 ( 72.5 %        )   0.1 % ||
+ -------------------------------------------------------------------------------
+total time        1.017 seconds      0 h  0 min  1 sec
+Thu Mar 21 16:25:09 2019
+Solved one time; Iterations: 5
+
+Timing:
+            label                    time     calls    %sub  %covered   %tot
+-------------------------------------------------------------------------------
+Hotbit                               1.328         1 (100.0 %, 22.8 %) 100.0 % |000000000000000000000000000000|
+../initialization                    0.208         1 ( 15.7 %        )  15.7 % |11111|
+../geometry                          0.003         1 (  0.2 %, 45.6 %)   0.2 % ||
+../../operations                     0.000         1 (  0.7 %        )   0.0 % ||
+../../displacements                  0.001         1 ( 44.8 %        )   0.1 % ||
+../solve                             0.089         1 (  6.7 %, 97.5 %)   6.7 % |11|
+../../matrix construction            0.064         1 ( 71.7 %        )   4.8 % |2|
+../../gamma matrix                   0.002         1 (  2.2 %        )   0.1 % ||
+../../h1                             0.004         6 (  4.9 %        )   0.3 % ||
+../../LAPACK eigensolver             0.007         6 (  7.3 %        )   0.5 % ||
+../../Check norm (remove?)           0.001         6 (  0.7 %        )   0.0 % ||
+../../update                         0.009         6 ( 10.4 %,  5.8 %)   0.7 % ||
+../../../rho                         0.001         6 (  5.8 %        )   0.0 % ||
+../../final update                   0.000         1 (  0.2 %        )   0.0 % ||
+../energy                            0.001         1 (  0.1 %, 78.4 %)   0.1 % ||
+../../e_bs                           0.000         1 (  4.5 %        )   0.0 % ||
+../../ecoul                          0.000         1 (  1.7 %        )   0.0 % ||
+../../e_rep                          0.001         1 ( 72.2 %        )   0.1 % ||
+ -------------------------------------------------------------------------------
+total time        1.328 seconds      0 h  0 min  1 sec
+Thu Mar 21 16:25:09 2019
+Solved one time; Iterations: 5
+
+Timing:
+            label                    time     calls    %sub  %covered   %tot
+-------------------------------------------------------------------------------
+Hotbit                               0.331         1 (100.0 %, 96.9 %) 100.0 % |000000000000000000000000000000|
+../initialization                    0.222         1 ( 66.9 %        )  66.9 % |11111111111111111111|
+../geometry                          0.004         1 (  1.1 %, 45.8 %)   1.1 % ||
+../../operations                     0.000         1 (  0.9 %        )   0.0 % ||
+../../displacements                  0.002         1 ( 44.9 %        )   0.5 % ||
+../solve                             0.095         1 ( 28.6 %, 98.4 %)  28.6 % |111111111|
+../../matrix construction            0.076         1 ( 80.3 %        )  23.0 % |2222222|
+../../gamma matrix                   0.002         1 (  2.0 %        )   0.6 % ||
+../../h1                             0.003         6 (  3.2 %        )   0.9 % ||
+../../LAPACK eigensolver             0.006         6 (  5.9 %        )   1.7 % |2|
+../../Check norm (remove?)           0.000         6 (  0.5 %        )   0.1 % ||
+../../update                         0.006         6 (  6.3 %,  6.9 %)   1.8 % |2|
+../../../rho                         0.000         6 (  6.9 %        )   0.1 % ||
+../../final update                   0.000         1 (  0.2 %        )   0.0 % ||
+../energy                            0.001         1 (  0.3 %, 75.7 %)   0.3 % ||
+../../e_bs                           0.000         1 (  5.1 %        )   0.0 % ||
+../../ecoul                          0.000         1 (  1.7 %        )   0.0 % ||
+../../e_rep                          0.001         1 ( 68.8 %        )   0.2 % ||
+ -------------------------------------------------------------------------------
+total time        0.331 seconds      0 h  0 min  0 sec
+Thu Mar 21 16:25:09 2019
+Solved one time; Iterations: 9
+
+Timing:
+            label                    time     calls    %sub  %covered   %tot
+-------------------------------------------------------------------------------
+Hotbit                             147.568         1 (100.0 %,  0.2 %) 100.0 % |000000000000000000000000000000|
+../initialization                    0.179         1 (  0.1 %        )   0.1 % ||
+../geometry                          0.003         1 (  0.0 %, 44.2 %)   0.0 % ||
+../../operations                     0.000         1 (  0.8 %        )   0.0 % ||
+../../displacements                  0.001         1 ( 43.4 %        )   0.0 % ||
+../solve                             0.117         1 (  0.1 %, 96.4 %)   0.1 % ||
+../../matrix construction            0.067         1 ( 57.6 %        )   0.0 % ||
+../../gamma matrix                   0.002         1 (  1.8 %        )   0.0 % ||
+../../h1                             0.008        10 (  6.5 %        )   0.0 % ||
+../../LAPACK eigensolver             0.019        10 ( 16.6 %        )   0.0 % ||
+../../Check norm (remove?)           0.001        10 (  1.1 %        )   0.0 % ||
+../../update                         0.015        10 ( 12.6 %,  6.4 %)   0.0 % ||
+../../../rho                         0.001        10 (  6.4 %        )   0.0 % ||
+../../final update                   0.000         1 (  0.3 %        )   0.0 % ||
+../energy                            0.002         1 (  0.0 %, 77.2 %)   0.0 % ||
+../../e_bs                           0.000         1 (  4.7 %        )   0.0 % ||
+../../ecoul                          0.000         1 (  1.4 %        )   0.0 % ||
+../../e_rep                          0.001         1 ( 71.0 %        )   0.0 % ||
+ -------------------------------------------------------------------------------
+total time      147.568 seconds      0 h  2 min  28 sec
+Thu Mar 21 16:25:09 2019
+[16:25:09] WARNING: Omitted undefined stereo
+Submitted batch job 3858736
+
+
+
+!!!!!!!!!!!!!!!!!!
+!! ALL FINISHED !!
+!!!!!!!!!!!!!!!!!!
+Solved one time; Iterations: 5
+
+Timing:
+            label                    time     calls    %sub  %covered   %tot
+-------------------------------------------------------------------------------
+Hotbit                               3.133         1 (100.0 %, 10.6 %) 100.0 % |000000000000000000000000000000|
+../initialization                    0.220         1 (  7.0 %        )   7.0 % |11|
+../geometry                          0.004         1 (  0.1 %, 45.6 %)   0.1 % ||
+../../operations                     0.000         1 (  0.8 %        )   0.0 % ||
+../../displacements                  0.002         1 ( 44.8 %        )   0.1 % ||
+../solve                             0.105         1 (  3.4 %, 97.7 %)   3.4 % |1|
+../../matrix construction            0.072         1 ( 68.2 %        )   2.3 % |2|
+../../gamma matrix                   0.002         1 (  1.9 %        )   0.1 % ||
+../../h1                             0.004         6 (  4.3 %        )   0.1 % ||
+../../LAPACK eigensolver             0.014         6 ( 13.1 %        )   0.4 % ||
+../../Check norm (remove?)           0.001         6 (  0.7 %        )   0.0 % ||
+../../update                         0.010         6 (  9.2 %,  6.2 %)   0.3 % ||
+../../../rho                         0.001         6 (  6.2 %        )   0.0 % ||
+../../final update                   0.000         1 (  0.3 %        )   0.0 % ||
+../energy                            0.002         1 (  0.0 %, 78.7 %)   0.0 % ||
+../../e_bs                           0.000         1 (  4.8 %        )   0.0 % ||
+../../ecoul                          0.000         1 (  1.5 %        )   0.0 % ||
+../../e_rep                          0.001         1 ( 72.4 %        )   0.0 % ||
+ -------------------------------------------------------------------------------
+total time        3.133 seconds      0 h  0 min  3 sec
+Thu Mar 21 16:25:11 2019

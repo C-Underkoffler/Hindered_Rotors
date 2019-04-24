@@ -1,0 +1,11 @@
+
+
+===========================================================================================
+
+2019-03-18 14:40:42.386044
+
+Beginning workflow for CCO[CH2] at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCO[CH2]/From_Workflow
+
+The GeoFreq for attempts greater than 1 should be generated from previous attempts, not from scratch.
+	Unable to continue until provided GeoFreq

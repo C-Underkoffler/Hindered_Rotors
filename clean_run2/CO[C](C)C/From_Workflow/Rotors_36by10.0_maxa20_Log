@@ -1,0 +1,74 @@
+
+
+===========================================================================================
+
+2019-04-23 21:42:22.920473
+
+Beginning workflow for CO[C](C)C at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CO[C](C)C/From_Workflow
+
+No Completed GeoFreq found for attempt 20
+
+No Completed GeoFreq found for attempt 19
+
+No Completed GeoFreq found for attempt 18
+
+No Completed GeoFreq found for attempt 17
+
+No Completed GeoFreq found for attempt 16
+
+No Completed GeoFreq found for attempt 15
+
+No Completed GeoFreq found for attempt 14
+
+No Completed GeoFreq found for attempt 13
+
+No Completed GeoFreq found for attempt 12
+
+No Completed GeoFreq found for attempt 11
+
+No Completed GeoFreq found for attempt 10
+
+No Completed GeoFreq found for attempt 9
+
+No Completed GeoFreq found for attempt 8
+
+No Completed GeoFreq found for attempt 7
+
+No Completed GeoFreq found for attempt 6
+
+No Completed GeoFreq found for attempt 5
+
+No Completed GeoFreq found for attempt 4
+
+No Completed GeoFreq found for attempt 3
+
+No Completed GeoFreq found for attempt 2
+
+Geometry & Frequency log file is complete!
+	VSQGJBCHGBRHMO-UHFFFAOYSA-N_GeoFreq_a1.log for CO[C](C)C is complete!
+
+Generated reduced GeoFreq Log
+	VSQGJBCHGBRHMO-UHFFFAOYSA.log
+
+
+Looking at (4, 0, 3, 12) torsion in CO[C](C)C
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor03_a1_F
+
+
+Looking at (3, 0, 4, 2) torsion in CO[C](C)C
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor04_a1_F
+
+
+Looking at (6, 1, 4, 2) torsion in CO[C](C)C
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor14_a1_F
+
+
+Looking at (9, 2, 4, 1) torsion in CO[C](C)C
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor24_a1_F
+
+Scans are using lowest known conformer and all have completed to satisfaction for CO[C](C)C

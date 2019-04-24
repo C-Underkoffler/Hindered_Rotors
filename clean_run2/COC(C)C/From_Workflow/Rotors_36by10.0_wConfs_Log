@@ -1,0 +1,96 @@
+
+
+===========================================================================================
+
+2019-04-09 16:47:53.043617
+
+Beginning workflow for COC(C)C at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/COC(C)C/From_Workflow
+
+Geometry & Frequency log file is complete!
+	RMGHERXMTMUMMV-UHFFFAOYSA-N_GeoFreq_c2_a1.log for COC(C)C is complete!
+
+Generated reduced GeoFreq Log
+	RMGHERXMTMUMMV-UHFFFAOYSA.log
+
+
+Looking at (1, 0, 4, 14) torsion in COC(C)C
+
+
+Looking at (4, 0, 1, 2) torsion in COC(C)C
+
+
+Looking at (2, 1, 3, 11) torsion in COC(C)C
+
+
+Looking at (5, 1, 2, 8) torsion in COC(C)C
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor04_a1.com for COC(C)C exists!
+
+	EXECUTING RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor01_a1.com for COC(C)C exists!
+
+	EXECUTING RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	Using previous torsion input file.
+		RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor13_a1.com for COC(C)C exists!
+
+	EXECUTING RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	Using previous torsion input file.
+		RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor12_a1.com for COC(C)C exists!
+
+	EXECUTING RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	RMGHERXMTMUMMV-UHFFFAOYSA-N_GeoFreq_c1_a1.log for COC(C)C is complete!
+
+Generated reduced GeoFreq Log
+	RMGHERXMTMUMMV-UHFFFAOYSA.log
+
+
+Looking at (1, 0, 4, 14) torsion in COC(C)C
+
+
+Looking at (4, 0, 1, 2) torsion in COC(C)C
+
+
+Looking at (2, 1, 3, 11) torsion in COC(C)C
+
+
+Looking at (5, 1, 2, 8) torsion in COC(C)C
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor04_a1.com for COC(C)C exists!
+
+	EXECUTING RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor01_a1.com for COC(C)C exists!
+
+	EXECUTING RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	Using previous torsion input file.
+		RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor13_a1.com for COC(C)C exists!
+
+	EXECUTING RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	Using previous torsion input file.
+		RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor12_a1.com for COC(C)C exists!
+
+	EXECUTING RMGHERXMTMUMMV-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+
+
+===========================================================================================

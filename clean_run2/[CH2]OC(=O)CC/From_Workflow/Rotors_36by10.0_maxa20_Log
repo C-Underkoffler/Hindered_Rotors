@@ -1,0 +1,78 @@
+
+
+===========================================================================================
+
+2019-04-11 11:07:08.832493
+
+Beginning workflow for [CH2]OC(=O)CC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]OC(=O)CC/From_Workflow
+
+No Completed GeoFreq found for attempt 20
+
+No Completed GeoFreq found for attempt 19
+
+No Completed GeoFreq found for attempt 18
+
+No Completed GeoFreq found for attempt 17
+
+No Completed GeoFreq found for attempt 16
+
+No Completed GeoFreq found for attempt 15
+
+No Completed GeoFreq found for attempt 14
+
+No Completed GeoFreq found for attempt 13
+
+No Completed GeoFreq found for attempt 12
+
+No Completed GeoFreq found for attempt 11
+
+No Completed GeoFreq found for attempt 10
+
+No Completed GeoFreq found for attempt 9
+
+No Completed GeoFreq found for attempt 8
+
+No Completed GeoFreq found for attempt 7
+
+No Completed GeoFreq found for attempt 6
+
+No Completed GeoFreq found for attempt 5
+
+No Completed GeoFreq found for attempt 4
+
+No Completed GeoFreq found for attempt 3
+
+No Completed GeoFreq found for attempt 2
+
+Geometry & Frequency log file is complete!
+	OJWHOIQFDAGZNF-UHFFFAOYSA-N_GeoFreq_a1.log for [CH2]OC(=O)CC is complete!
+
+Generated reduced GeoFreq Log
+	OJWHOIQFDAGZNF-UHFFFAOYSA.log
+
+
+Looking at (4, 0, 5, 11) torsion in [CH2]OC(=O)CC
+
+	Torsion log file is complete!
+		OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor05_a1.log for [CH2]OC(=O)CC exists and is complete!
+
+
+Looking at (5, 0, 4, 2) torsion in [CH2]OC(=O)CC
+
+	Torsion log file is complete!
+		OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor04_a1.log for [CH2]OC(=O)CC exists and is complete!
+
+
+Looking at (7, 2, 3, 10) torsion in [CH2]OC(=O)CC
+
+	Torsion log file is complete!
+		OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor23_a1.log for [CH2]OC(=O)CC exists and is complete!
+
+
+Looking at (7, 2, 4, 1) torsion in [CH2]OC(=O)CC
+
+	Torsion log file is complete!
+		OJWHOIQFDAGZNF-UHFFFAOYSA-N_36by10.0_tor24_a1.log for [CH2]OC(=O)CC exists and is complete!
+
+Scans are using lowest known conformer and all have completed to satisfaction for [CH2]OC(=O)CC

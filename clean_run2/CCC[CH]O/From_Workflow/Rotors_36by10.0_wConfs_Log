@@ -1,0 +1,492 @@
+
+
+===========================================================================================
+
+2019-04-09 16:46:36.076179
+
+Beginning workflow for CCC[CH]O at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCC[CH]O/From_Workflow
+
+Geometry & Frequency log file is complete!
+	DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_c11_a1.log for CCC[CH]O is complete!
+
+Generated reduced GeoFreq Log
+	DHVSQGCGLGSLDF-UHFFFAOYSA.log
+
+
+Looking at (13, 0, 4, 12) torsion in CCC[CH]O
+
+
+Looking at (3, 1, 2, 8) torsion in CCC[CH]O
+
+
+Looking at (6, 1, 3, 11) torsion in CCC[CH]O
+
+
+Looking at (8, 2, 4, 12) torsion in CCC[CH]O
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_c10_a1.log for CCC[CH]O is complete!
+
+Generated reduced GeoFreq Log
+	DHVSQGCGLGSLDF-UHFFFAOYSA.log
+
+
+Looking at (13, 0, 4, 12) torsion in CCC[CH]O
+
+
+Looking at (3, 1, 2, 8) torsion in CCC[CH]O
+
+
+Looking at (6, 1, 3, 11) torsion in CCC[CH]O
+
+
+Looking at (8, 2, 4, 12) torsion in CCC[CH]O
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_c9_a1.log for CCC[CH]O is complete!
+
+Generated reduced GeoFreq Log
+	DHVSQGCGLGSLDF-UHFFFAOYSA.log
+
+
+Looking at (13, 0, 4, 12) torsion in CCC[CH]O
+
+
+Looking at (3, 1, 2, 8) torsion in CCC[CH]O
+
+
+Looking at (6, 1, 3, 11) torsion in CCC[CH]O
+
+
+Looking at (8, 2, 4, 12) torsion in CCC[CH]O
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_c8_a1.log for CCC[CH]O is complete!
+
+Generated reduced GeoFreq Log
+	DHVSQGCGLGSLDF-UHFFFAOYSA.log
+
+
+Looking at (13, 0, 4, 12) torsion in CCC[CH]O
+
+
+Looking at (3, 1, 2, 8) torsion in CCC[CH]O
+
+
+Looking at (6, 1, 3, 11) torsion in CCC[CH]O
+
+
+Looking at (8, 2, 4, 12) torsion in CCC[CH]O
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_c7_a1.log for CCC[CH]O is complete!
+
+Generated reduced GeoFreq Log
+	DHVSQGCGLGSLDF-UHFFFAOYSA.log
+
+
+Looking at (13, 0, 4, 12) torsion in CCC[CH]O
+
+
+Looking at (3, 1, 2, 8) torsion in CCC[CH]O
+
+
+Looking at (6, 1, 3, 11) torsion in CCC[CH]O
+
+
+Looking at (8, 2, 4, 12) torsion in CCC[CH]O
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_c6_a1.log for CCC[CH]O is complete!
+
+Generated reduced GeoFreq Log
+	DHVSQGCGLGSLDF-UHFFFAOYSA.log
+
+
+Looking at (13, 0, 4, 12) torsion in CCC[CH]O
+
+
+Looking at (3, 1, 2, 8) torsion in CCC[CH]O
+
+
+Looking at (6, 1, 3, 11) torsion in CCC[CH]O
+
+
+Looking at (8, 2, 4, 12) torsion in CCC[CH]O
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_c5_a1.log for CCC[CH]O is complete!
+
+Generated reduced GeoFreq Log
+	DHVSQGCGLGSLDF-UHFFFAOYSA.log
+
+
+Looking at (13, 0, 4, 12) torsion in CCC[CH]O
+
+
+Looking at (3, 1, 2, 8) torsion in CCC[CH]O
+
+
+Looking at (6, 1, 3, 11) torsion in CCC[CH]O
+
+
+Looking at (8, 2, 4, 12) torsion in CCC[CH]O
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_c4_a1.log for CCC[CH]O is complete!
+
+Generated reduced GeoFreq Log
+	DHVSQGCGLGSLDF-UHFFFAOYSA.log
+
+
+Looking at (13, 0, 4, 12) torsion in CCC[CH]O
+
+
+Looking at (3, 1, 2, 8) torsion in CCC[CH]O
+
+
+Looking at (6, 1, 3, 11) torsion in CCC[CH]O
+
+
+Looking at (8, 2, 4, 12) torsion in CCC[CH]O
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_c3_a1.log for CCC[CH]O is complete!
+
+Generated reduced GeoFreq Log
+	DHVSQGCGLGSLDF-UHFFFAOYSA.log
+
+
+Looking at (13, 0, 4, 12) torsion in CCC[CH]O
+
+
+Looking at (3, 1, 2, 8) torsion in CCC[CH]O
+
+
+Looking at (6, 1, 3, 11) torsion in CCC[CH]O
+
+
+Looking at (8, 2, 4, 12) torsion in CCC[CH]O
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_c2_a1.log for CCC[CH]O is complete!
+
+Generated reduced GeoFreq Log
+	DHVSQGCGLGSLDF-UHFFFAOYSA.log
+
+
+Looking at (13, 0, 4, 12) torsion in CCC[CH]O
+
+
+Looking at (3, 1, 2, 8) torsion in CCC[CH]O
+
+
+Looking at (6, 1, 3, 11) torsion in CCC[CH]O
+
+
+Looking at (8, 2, 4, 12) torsion in CCC[CH]O
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_c1_a1.log for CCC[CH]O is complete!
+
+Generated reduced GeoFreq Log
+	DHVSQGCGLGSLDF-UHFFFAOYSA.log
+
+
+Looking at (13, 0, 4, 12) torsion in CCC[CH]O
+
+
+Looking at (3, 1, 2, 8) torsion in CCC[CH]O
+
+
+Looking at (6, 1, 3, 11) torsion in CCC[CH]O
+
+
+Looking at (8, 2, 4, 12) torsion in CCC[CH]O
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	Using previous torsion input file.
+		DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1.com for CCC[CH]O exists!
+
+	EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================

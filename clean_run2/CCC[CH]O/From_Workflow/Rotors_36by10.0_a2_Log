@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-14 14:32:41.149918
+2019-03-18 14:39:18.038343
 
 Beginning workflow for CCC[CH]O at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCC[CH]O/From_Workflow
@@ -41,7 +41,8 @@ Scans Indicate there is a conformer lower than what was previously known.
 
 Generating new lowest conformer and using it to write GeoFreq as attempt: 3
 
-EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_a3.com
+Will not execute Geo opt for attempt 3 because Gaussian input file already exists
+	DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_a3.com already exists.
 
 
 

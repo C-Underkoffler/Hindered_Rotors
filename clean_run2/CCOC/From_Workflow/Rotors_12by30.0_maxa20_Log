@@ -1,0 +1,85 @@
+
+
+===========================================================================================
+
+2019-03-28 22:24:25.840040
+
+Beginning workflow for CCOC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCOC/From_Workflow
+
+No Completed GeoFreq found for attempt 20
+
+No Completed GeoFreq found for attempt 19
+
+No Completed GeoFreq found for attempt 18
+
+No Completed GeoFreq found for attempt 17
+
+No Completed GeoFreq found for attempt 16
+
+No Completed GeoFreq found for attempt 15
+
+No Completed GeoFreq found for attempt 14
+
+No Completed GeoFreq found for attempt 13
+
+No Completed GeoFreq found for attempt 12
+
+No Completed GeoFreq found for attempt 11
+
+No Completed GeoFreq found for attempt 10
+
+No Completed GeoFreq found for attempt 9
+
+No Completed GeoFreq found for attempt 8
+
+No Completed GeoFreq found for attempt 7
+
+No Completed GeoFreq found for attempt 6
+
+No Completed GeoFreq found for attempt 5
+
+No Completed GeoFreq found for attempt 4
+
+No Completed GeoFreq found for attempt 3
+
+No Completed GeoFreq found for attempt 2
+
+Geometry & Frequency log file is complete!
+	XOBKSJJDNFUZPF-UHFFFAOYSA-N_GeoFreq_a1.log for CCOC is complete!
+
+Generated reduced GeoFreq Log
+	XOBKSJJDNFUZPF-UHFFFAOYSA.log
+
+
+Looking at (3, 0, 1, 2) torsion in CCOC
+
+
+Looking at (1, 0, 3, 10) torsion in CCOC
+
+
+Looking at (4, 1, 2, 7) torsion in CCOC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Torsion input file NOT FOUND.
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_12by30.0_tor01_a1.com for CCOC NOT FOUND.
+		Generating one now..
+
+	EXECUTING XOBKSJJDNFUZPF-UHFFFAOYSA-N_12by30.0_tor01_a1
+
+	Torsion input file NOT FOUND.
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_12by30.0_tor03_a1.com for CCOC NOT FOUND.
+		Generating one now..
+
+	EXECUTING XOBKSJJDNFUZPF-UHFFFAOYSA-N_12by30.0_tor03_a1
+
+	Torsion input file NOT FOUND.
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_12by30.0_tor12_a1.com for CCOC NOT FOUND.
+		Generating one now..
+
+	EXECUTING XOBKSJJDNFUZPF-UHFFFAOYSA-N_12by30.0_tor12_a1
+
+
+
+===========================================================================================

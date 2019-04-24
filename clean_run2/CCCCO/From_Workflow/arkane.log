@@ -1,0 +1,1001 @@
+Arkane execution initiated at Mon Mar 18 14:37:25 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Mon Mar 18 14:37:25 2019
+Arkane execution initiated at Mon Mar 18 14:38:42 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Mon Mar 18 14:38:43 2019
+Arkane execution initiated at Mon Mar 18 14:39:17 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Mon Mar 18 14:39:18 2019
+Arkane execution initiated at Mon Mar 18 14:41:03 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Mon Mar 18 14:41:04 2019
+Arkane execution initiated at Mon Mar 18 14:44:14 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Mon Mar 18 14:44:14 2019
+Arkane execution initiated at Mon Mar 18 14:45:51 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Mon Mar 18 14:45:51 2019
+Arkane execution initiated at Mon Mar 18 14:48:54 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Mon Mar 18 14:48:54 2019
+Arkane execution initiated at Mon Mar 18 14:53:26 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Mon Mar 18 14:53:26 2019
+Arkane execution initiated at Mon Mar 18 14:57:41 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Mon Mar 18 14:57:41 2019
+Arkane execution initiated at Mon Mar 18 15:03:06 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Mon Mar 18 15:03:06 2019
+Arkane execution initiated at Mon Mar 18 15:21:23 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Mon Mar 18 15:21:23 2019
+Arkane execution initiated at Tue Mar 19 10:11:22 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Tue Mar 19 10:11:23 2019
+Arkane execution initiated at Thu Mar 28 15:19:59 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Thu Mar 28 15:19:59 2019
+Arkane execution initiated at Thu Mar 28 15:27:24 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Thu Mar 28 15:27:24 2019
+Arkane execution initiated at Thu Mar 28 15:33:15 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Thu Mar 28 15:33:15 2019
+Arkane execution initiated at Thu Mar 28 15:43:32 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Thu Mar 28 15:43:33 2019
+Arkane execution initiated at Thu Mar 28 21:43:44 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Thu Mar 28 21:43:44 2019
+Arkane execution initiated at Thu Apr 11 10:51:32 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Thu Apr 11 10:51:32 2019
+Symmetry input file written to ./CCCC[O].symm
+Point group: C1
+Symmetry input file written to ./CCC[CH]O.symm
+Point group: C1
+Symmetry input file written to ./CC[CH]CO.symm
+Point group: C1
+Symmetry input file written to ./C[CH]CCO.symm
+Point group: C1
+Symmetry input file written to ./[CH2]CCCO.symm
+Point group: C1
+Symmetry input file written to ./CCOC.symm
+Point group: Cs
+Arkane execution initiated at Thu Apr 11 11:00:08 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Thu Apr 11 11:00:08 2019
+Symmetry input file written to ./CCCC[O].symm
+Point group: C1
+Symmetry input file written to ./CCC[CH]O.symm
+Point group: C1
+Symmetry input file written to ./CC[CH]CO.symm
+Point group: C1
+Symmetry input file written to ./C[CH]CCO.symm
+Point group: C1
+Symmetry input file written to ./[CH2]CCCO.symm
+Point group: C1
+Symmetry input file written to ./CCOC.symm
+Point group: Cs
+Arkane execution initiated at Wed Apr 24 12:21:49 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_for between pivots [1, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_for between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_for between pivots [2, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species LRHPLDYG_for between pivots [3, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for LRHPLDYG_for...
+Saving thermo for LRHPLDYG_for...
+
+Arkane execution terminated at Wed Apr 24 12:21:51 2019
+Arkane execution initiated at Wed Apr 24 12:21:51 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_bac between pivots [1, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_bac between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_bac between pivots [2, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species LRHPLDYG_bac between pivots [3, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for LRHPLDYG_bac...
+Saving thermo for LRHPLDYG_bac...
+
+Arkane execution terminated at Wed Apr 24 12:21:53 2019
+Arkane execution initiated at Wed Apr 24 12:21:53 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_bac between pivots [1, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_bac between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_bac between pivots [2, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species LRHPLDYG_bac between pivots [3, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for LRHPLDYG_bac...
+Saving thermo for LRHPLDYG_bac...
+
+Arkane execution terminated at Wed Apr 24 12:21:55 2019
+Arkane execution initiated at Wed Apr 24 12:21:55 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_fix between pivots [1, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_fix between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_fix between pivots [2, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species LRHPLDYG_fix between pivots [3, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for LRHPLDYG_fix...
+Saving thermo for LRHPLDYG_fix...
+
+Arkane execution terminated at Wed Apr 24 12:21:57 2019
+Arkane execution initiated at Wed Apr 24 12:21:57 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_fix between pivots [1, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_fix between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_fix between pivots [2, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species LRHPLDYG_fix between pivots [3, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for LRHPLDYG_fix...
+Saving thermo for LRHPLDYG_fix...
+
+Arkane execution terminated at Wed Apr 24 12:21:59 2019
+Arkane execution initiated at Wed Apr 24 12:21:59 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for LRHPLDYG_con...
+Saving thermo for LRHPLDYG_con...
+
+Arkane execution terminated at Wed Apr 24 12:21:59 2019
+Arkane execution initiated at Wed Apr 24 12:21:59 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for LRHPLDYG_con...
+Saving thermo for LRHPLDYG_con...
+
+Arkane execution terminated at Wed Apr 24 12:22:00 2019
+Arkane execution initiated at Wed Apr 24 12:28:35 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_for between pivots [1, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_for between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_for between pivots [2, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species LRHPLDYG_for between pivots [3, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for LRHPLDYG_for...
+Saving thermo for LRHPLDYG_for...
+
+Arkane execution terminated at Wed Apr 24 12:28:36 2019
+Arkane execution initiated at Wed Apr 24 12:28:36 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_bac between pivots [1, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_bac between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_bac between pivots [2, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species LRHPLDYG_bac between pivots [3, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for LRHPLDYG_bac...
+Saving thermo for LRHPLDYG_bac...
+
+Arkane execution terminated at Wed Apr 24 12:28:38 2019
+Arkane execution initiated at Wed Apr 24 12:28:38 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_bac between pivots [1, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_bac between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_bac between pivots [2, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species LRHPLDYG_bac between pivots [3, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for LRHPLDYG_bac...
+Saving thermo for LRHPLDYG_bac...
+
+Arkane execution terminated at Wed Apr 24 12:28:39 2019
+Arkane execution initiated at Wed Apr 24 12:28:39 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_fix between pivots [1, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_fix between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_fix between pivots [2, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species LRHPLDYG_fix between pivots [3, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for LRHPLDYG_fix...
+Saving thermo for LRHPLDYG_fix...
+
+Arkane execution terminated at Wed Apr 24 12:28:40 2019
+Arkane execution initiated at Wed Apr 24 12:28:40 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_fix between pivots [1, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_fix between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_fix between pivots [2, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species LRHPLDYG_fix between pivots [3, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for LRHPLDYG_fix...
+Saving thermo for LRHPLDYG_fix...
+
+Arkane execution terminated at Wed Apr 24 12:28:41 2019
+Arkane execution initiated at Wed Apr 24 12:28:41 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for LRHPLDYG_con...
+Saving thermo for LRHPLDYG_con...
+
+Arkane execution terminated at Wed Apr 24 12:28:41 2019
+Arkane execution initiated at Wed Apr 24 12:28:42 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for LRHPLDYG_con...
+Saving thermo for LRHPLDYG_con...
+
+Arkane execution terminated at Wed Apr 24 12:28:42 2019
+Arkane execution initiated at Wed Apr 24 12:34:15 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_for between pivots [1, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_for between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_for between pivots [2, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species LRHPLDYG_for between pivots [3, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for LRHPLDYG_for...
+Saving thermo for LRHPLDYG_for...
+
+Arkane execution terminated at Wed Apr 24 12:34:16 2019
+Arkane execution initiated at Wed Apr 24 12:34:16 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_bac between pivots [1, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_bac between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_bac between pivots [2, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species LRHPLDYG_bac between pivots [3, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for LRHPLDYG_bac...
+Saving thermo for LRHPLDYG_bac...
+
+Arkane execution terminated at Wed Apr 24 12:34:17 2019
+Arkane execution initiated at Wed Apr 24 12:34:17 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_fix between pivots [1, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_fix between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species LRHPLDYG_fix between pivots [2, 4] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species LRHPLDYG_fix between pivots [3, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for LRHPLDYG_fix...
+Saving thermo for LRHPLDYG_fix...
+
+Arkane execution terminated at Wed Apr 24 12:34:18 2019
+Arkane execution initiated at Wed Apr 24 12:34:18 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species LRHPLDYG_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for LRHPLDYG_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for LRHPLDYG_con...
+Saving thermo for LRHPLDYG_con...
+
+Arkane execution terminated at Wed Apr 24 12:34:18 2019

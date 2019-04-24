@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-14 14:36:23.717715
+2019-03-18 14:38:33.870352
 
 Beginning workflow for ONCC(=O)O at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/ONCC(=O)O/From_Workflow
@@ -14,7 +14,7 @@ Generated reduced GeoFreq Log
 	PWGWQRXHVJJRD-UHFFFAOYSA.log
 
 
-Looking at (9, 0, 3, 8) torsion in ONCC(=O)O
+Looking at (9, 0, 3, 4) torsion in ONCC(=O)O
 
 	Torsion log file is complete!
 		NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor03_a1.log for ONCC(=O)O exists and is complete!

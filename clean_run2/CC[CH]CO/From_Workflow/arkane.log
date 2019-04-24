@@ -1,0 +1,343 @@
+Arkane execution initiated at Wed Apr 24 12:29:07 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species GIXGVIVA_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for GIXGVIVA_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_for between pivots [1, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species GIXGVIVA_for between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_for between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_for between pivots [3, 5] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for GIXGVIVA_for...
+Saving thermo for GIXGVIVA_for...
+
+Arkane execution terminated at Wed Apr 24 12:29:08 2019
+Arkane execution initiated at Wed Apr 24 12:29:08 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species GIXGVIVA_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for GIXGVIVA_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_bac between pivots [1, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species GIXGVIVA_bac between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_bac between pivots [3, 5] based on the worst valley resolution criterion.
+Saving statistical mechanics parameters for GIXGVIVA_bac...
+Saving thermo for GIXGVIVA_bac...
+
+Arkane execution terminated at Wed Apr 24 12:29:09 2019
+Arkane execution initiated at Wed Apr 24 12:29:09 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species GIXGVIVA_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for GIXGVIVA_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_bac between pivots [1, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species GIXGVIVA_bac between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_bac between pivots [3, 5] based on the worst valley resolution criterion.
+Saving statistical mechanics parameters for GIXGVIVA_bac...
+Saving thermo for GIXGVIVA_bac...
+
+Arkane execution terminated at Wed Apr 24 12:29:10 2019
+Arkane execution initiated at Wed Apr 24 12:29:10 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species GIXGVIVA_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for GIXGVIVA_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_fix between pivots [1, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species GIXGVIVA_fix between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Warning: Fourier fit for hindered rotor gave a negative barrier when fit with 12 terms, retrying with 16 terms...
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_fix between pivots [3, 5] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for GIXGVIVA_fix...
+Saving thermo for GIXGVIVA_fix...
+
+Arkane execution terminated at Wed Apr 24 12:29:12 2019
+Arkane execution initiated at Wed Apr 24 12:29:12 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species GIXGVIVA_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for GIXGVIVA_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_fix between pivots [1, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species GIXGVIVA_fix between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Warning: Fourier fit for hindered rotor gave a negative barrier when fit with 12 terms, retrying with 16 terms...
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_fix between pivots [3, 5] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for GIXGVIVA_fix...
+Saving thermo for GIXGVIVA_fix...
+
+Arkane execution terminated at Wed Apr 24 12:29:13 2019
+Arkane execution initiated at Wed Apr 24 12:29:13 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species GIXGVIVA_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for GIXGVIVA_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for GIXGVIVA_con...
+Saving thermo for GIXGVIVA_con...
+
+Arkane execution terminated at Wed Apr 24 12:29:13 2019
+Arkane execution initiated at Wed Apr 24 12:29:13 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species GIXGVIVA_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for GIXGVIVA_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for GIXGVIVA_con...
+Saving thermo for GIXGVIVA_con...
+
+Arkane execution terminated at Wed Apr 24 12:29:14 2019
+Arkane execution initiated at Wed Apr 24 12:34:37 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species GIXGVIVA_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for GIXGVIVA_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_for between pivots [1, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species GIXGVIVA_for between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_for between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_for between pivots [3, 5] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for GIXGVIVA_for...
+Saving thermo for GIXGVIVA_for...
+
+Arkane execution terminated at Wed Apr 24 12:34:38 2019
+Arkane execution initiated at Wed Apr 24 12:34:38 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species GIXGVIVA_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for GIXGVIVA_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_bac between pivots [1, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species GIXGVIVA_bac between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_bac between pivots [3, 5] based on the worst valley resolution criterion.
+Saving statistical mechanics parameters for GIXGVIVA_bac...
+Saving thermo for GIXGVIVA_bac...
+
+Arkane execution terminated at Wed Apr 24 12:34:40 2019
+Arkane execution initiated at Wed Apr 24 12:34:40 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species GIXGVIVA_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for GIXGVIVA_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_fix between pivots [1, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species GIXGVIVA_fix between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Warning: Fourier fit for hindered rotor gave a negative barrier when fit with 12 terms, retrying with 16 terms...
+Determined a symmetry number of 1 for rotor of species GIXGVIVA_fix between pivots [3, 5] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for GIXGVIVA_fix...
+Saving thermo for GIXGVIVA_fix...
+
+Arkane execution terminated at Wed Apr 24 12:34:41 2019
+Arkane execution initiated at Wed Apr 24 12:34:41 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species GIXGVIVA_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for GIXGVIVA_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for GIXGVIVA_con...
+Saving thermo for GIXGVIVA_con...
+
+Arkane execution terminated at Wed Apr 24 12:34:41 2019

@@ -1,0 +1,80 @@
+
+
+===========================================================================================
+
+2019-04-09 16:47:36.142192
+
+Beginning workflow for CCOC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCOC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	XOBKSJJDNFUZPF-UHFFFAOYSA-N_GeoFreq_c2_a1.log for CCOC is complete!
+
+Generated reduced GeoFreq Log
+	XOBKSJJDNFUZPF-UHFFFAOYSA.log
+
+
+Looking at (1, 0, 3, 11) torsion in CCOC
+
+
+Looking at (3, 0, 1, 4) torsion in CCOC
+
+
+Looking at (4, 1, 2, 8) torsion in CCOC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor03_a1.com for CCOC exists!
+
+	EXECUTING XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	Using previous torsion input file.
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor01_a1.com for CCOC exists!
+
+	EXECUTING XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	Using previous torsion input file.
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor12_a1.com for CCOC exists!
+
+	EXECUTING XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	XOBKSJJDNFUZPF-UHFFFAOYSA-N_GeoFreq_c1_a1.log for CCOC is complete!
+
+Generated reduced GeoFreq Log
+	XOBKSJJDNFUZPF-UHFFFAOYSA.log
+
+
+Looking at (1, 0, 3, 11) torsion in CCOC
+
+
+Looking at (3, 0, 1, 4) torsion in CCOC
+
+
+Looking at (4, 1, 2, 8) torsion in CCOC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor03_a1.com for CCOC exists!
+
+	EXECUTING XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	Using previous torsion input file.
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor01_a1.com for CCOC exists!
+
+	EXECUTING XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	Using previous torsion input file.
+		XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor12_a1.com for CCOC exists!
+
+	EXECUTING XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+
+
+===========================================================================================

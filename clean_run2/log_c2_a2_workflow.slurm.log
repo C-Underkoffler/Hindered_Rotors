@@ -1,12 +1,36 @@
 Using Theano backend.
-Submitted batch job 3560623
-Submitted batch job 3560624
 /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCCCO/From_Workflow
 	Generated reduced GeoFreq Log
 	LRHPLDYGYMQRHN-UHFFFAOYSA_tor03.log
 	LRHPLDYGYMQRHN-UHFFFAOYSA_tor12.log
-	1#DNF_or_DNS:	LRHPLDYGYMQRHN-UHFFFAOYSA-N_36by10.0_tor13_a2.log
+	LRHPLDYGYMQRHN-UHFFFAOYSA_tor13.log
 	LRHPLDYGYMQRHN-UHFFFAOYSA_tor24.log
+		LRHPLDYGYMQRHN-UHFFFAOYSA.py
+Arkane execution initiated at Mon Mar 18 14:39:17 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Warning: No frequency scale factor found for model chemistry ; assuming a value of unity.
+
+
+
+Arkane execution terminated at Mon Mar 18 14:39:18 2019
 
 /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCCC[O]/From_Workflow
 	Skipping Conformer since no Geo Freq at attempt 2
@@ -44,7 +68,7 @@ Submitted batch job 3560624
 	TVFRQKHUZDMLDB-UHFFFAOYSA_tor03.log
 	TVFRQKHUZDMLDB-UHFFFAOYSA_tor12.log
 		TVFRQKHUZDMLDB-UHFFFAOYSA.py
-Arkane execution initiated at Thu Mar 14 14:33:11 2019
+Arkane execution initiated at Mon Mar 18 14:39:49 2019
 
 ################################################################
 #                                                              #
@@ -58,12 +82,6 @@ Arkane execution initiated at Thu Mar 14 14:33:11 2019
 #                                                              #
 ################################################################
 
-Databases not found. Making databases
-Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
-Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
-Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
-Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
-Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
 Loading species TVFRQKHUZDMLDB-UHFFFAOYSA...
 Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
 
@@ -81,8 +99,8 @@ Saving statistical mechanics parameters for TVFRQKHUZDMLDB-UHFFFAOYSA...
 Saving thermo for TVFRQKHUZDMLDB-UHFFFAOYSA...
 Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
 
-Arkane execution terminated at Thu Mar 14 14:33:12 2019
-Submitted batch job 3560627
+Arkane execution terminated at Mon Mar 18 14:39:49 2019
+Submitted batch job 3711095
 
 /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]COC/From_Workflow
 	Generated reduced GeoFreq Log
@@ -97,13 +115,51 @@ Submitted batch job 3560627
 /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]OC(C)C/From_Workflow
 	Skipping Conformer since no Geo Freq at attempt 2
 /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]C(C)OC/From_Workflow
-[14:33:20] WARNING: Omitted undefined stereo
-Submitted batch job 3560628
+[14:39:56] WARNING: Omitted undefined stereo
 	Generated reduced GeoFreq Log
 	FBRHVBFWGRGMCF-UHFFFAOYSA_tor03.log
-	1#DNF_or_DNS:	FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor01_a2.log
+	FBRHVBFWGRGMCF-UHFFFAOYSA_tor01.log
 	FBRHVBFWGRGMCF-UHFFFAOYSA_tor14.log
 	FBRHVBFWGRGMCF-UHFFFAOYSA_tor12.log
+[14:40:04] WARNING: Omitted undefined stereo
+[14:40:04] WARNING: Omitted undefined stereo
+[14:40:04] WARNING: Omitted undefined stereo
+[14:40:04] WARNING: Omitted undefined stereo
+[14:40:04] WARNING: Omitted undefined stereo
+		FBRHVBFWGRGMCF-UHFFFAOYSA.py
+Arkane execution initiated at Mon Mar 18 14:40:04 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species FBRHVBFWGRGMCF-UHFFFAOYSA...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+Loading statistical mechanics parameters for FBRHVBFWGRGMCF-UHFFFAOYSA...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 3 for rotor of species FBRHVBFWGRGMCF-UHFFFAOYSA between pivots [1, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species FBRHVBFWGRGMCF-UHFFFAOYSA between pivots [1, 2] based on the worst peak resolution criterion.
+Determined a symmetry number of 2 for rotor of species FBRHVBFWGRGMCF-UHFFFAOYSA between pivots [2, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 3 for rotor of species FBRHVBFWGRGMCF-UHFFFAOYSA between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for FBRHVBFWGRGMCF-UHFFFAOYSA...
+Saving thermo for FBRHVBFWGRGMCF-UHFFFAOYSA...
+Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
+
+Arkane execution terminated at Mon Mar 18 14:40:05 2019
 
 /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCC(=O)OC/From_Workflow
 	Skipping Conformer since no Geo Freq at attempt 2
@@ -116,7 +172,7 @@ Submitted batch job 3560628
 	PQBOSHSVUVOHJ-UHFFFAOYSA_tor25.log
 	PQBOSHSVUVOHJ-UHFFFAOYSA_tor24.log
 		PQBOSHSVUVOHJ-UHFFFAOYSA.py
-Arkane execution initiated at Thu Mar 14 14:33:35 2019
+Arkane execution initiated at Mon Mar 18 14:40:13 2019
 
 ################################################################
 #                                                              #
@@ -149,7 +205,7 @@ Saving statistical mechanics parameters for PQBOSHSVUVOHJ-UHFFFAOYSA...
 Saving thermo for PQBOSHSVUVOHJ-UHFFFAOYSA...
 Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
 
-Arkane execution terminated at Thu Mar 14 14:33:36 2019
+Arkane execution terminated at Mon Mar 18 14:40:14 2019
 
 /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]OC(=O)CC/From_Workflow
 	Skipping Conformer since no Geo Freq at attempt 2

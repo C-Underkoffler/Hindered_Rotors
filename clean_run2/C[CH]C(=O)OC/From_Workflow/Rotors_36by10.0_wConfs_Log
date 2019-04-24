@@ -1,0 +1,228 @@
+
+
+===========================================================================================
+
+2019-04-09 16:48:47.833841
+
+Beginning workflow for C[CH]C(=O)OC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/C[CH]C(=O)OC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	DUEVIJNWLJUFDM-UHFFFAOYSA-N_GeoFreq_c5_a1.log for C[CH]C(=O)OC is complete!
+
+Generated reduced GeoFreq Log
+	DUEVIJNWLJUFDM-UHFFFAOYSA.log
+
+
+Looking at (3, 0, 5, 4) torsion in C[CH]C(=O)OC
+
+
+Looking at (5, 0, 3, 9) torsion in C[CH]C(=O)OC
+
+
+Looking at (6, 2, 4, 12) torsion in C[CH]C(=O)OC
+
+
+Looking at (12, 4, 5, 1) torsion in C[CH]C(=O)OC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor05_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor05_a1
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor03_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor24_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor45_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor45_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	DUEVIJNWLJUFDM-UHFFFAOYSA-N_GeoFreq_c4_a1.log for C[CH]C(=O)OC is complete!
+
+Generated reduced GeoFreq Log
+	DUEVIJNWLJUFDM-UHFFFAOYSA.log
+
+
+Looking at (3, 0, 5, 4) torsion in C[CH]C(=O)OC
+
+
+Looking at (5, 0, 3, 9) torsion in C[CH]C(=O)OC
+
+
+Looking at (6, 2, 4, 12) torsion in C[CH]C(=O)OC
+
+
+Looking at (12, 4, 5, 1) torsion in C[CH]C(=O)OC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor05_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor05_a1
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor03_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor24_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor45_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor45_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	DUEVIJNWLJUFDM-UHFFFAOYSA-N_GeoFreq_c3_a1.log for C[CH]C(=O)OC is complete!
+
+Generated reduced GeoFreq Log
+	DUEVIJNWLJUFDM-UHFFFAOYSA.log
+
+
+Looking at (3, 0, 5, 4) torsion in C[CH]C(=O)OC
+
+
+Looking at (5, 0, 3, 9) torsion in C[CH]C(=O)OC
+
+
+Looking at (6, 2, 4, 12) torsion in C[CH]C(=O)OC
+
+
+Looking at (12, 4, 5, 1) torsion in C[CH]C(=O)OC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor05_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor05_a1
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor03_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor24_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor45_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor45_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	DUEVIJNWLJUFDM-UHFFFAOYSA-N_GeoFreq_c2_a1.log for C[CH]C(=O)OC is complete!
+
+Generated reduced GeoFreq Log
+	DUEVIJNWLJUFDM-UHFFFAOYSA.log
+
+
+Looking at (3, 0, 5, 4) torsion in C[CH]C(=O)OC
+
+
+Looking at (5, 0, 3, 9) torsion in C[CH]C(=O)OC
+
+
+Looking at (6, 2, 4, 12) torsion in C[CH]C(=O)OC
+
+
+Looking at (12, 4, 5, 1) torsion in C[CH]C(=O)OC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor05_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor05_a1
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor03_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor24_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor45_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor45_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	DUEVIJNWLJUFDM-UHFFFAOYSA-N_GeoFreq_c1_a1.log for C[CH]C(=O)OC is complete!
+
+Generated reduced GeoFreq Log
+	DUEVIJNWLJUFDM-UHFFFAOYSA.log
+
+
+Looking at (3, 0, 5, 4) torsion in C[CH]C(=O)OC
+
+
+Looking at (5, 0, 3, 9) torsion in C[CH]C(=O)OC
+
+
+Looking at (6, 2, 4, 12) torsion in C[CH]C(=O)OC
+
+
+Looking at (12, 4, 5, 1) torsion in C[CH]C(=O)OC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor05_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor05_a1
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor03_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor24_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+	Using previous torsion input file.
+		DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor45_a1.com for C[CH]C(=O)OC exists!
+
+	EXECUTING DUEVIJNWLJUFDM-UHFFFAOYSA-N_36by10.0_tor45_a1
+
+
+
+===========================================================================================

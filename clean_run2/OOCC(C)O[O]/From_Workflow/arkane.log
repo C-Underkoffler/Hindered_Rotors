@@ -1,0 +1,2295 @@
+Arkane execution initiated at Tue Apr 16 14:25:23 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Loading species XDJVAJLI_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [5, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_for between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for XDJVAJLI_for...
+Saving thermo for XDJVAJLI_for...
+
+Arkane execution terminated at Tue Apr 16 14:25:25 2019
+Arkane execution initiated at Tue Apr 16 14:42:44 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [5, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_for between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for XDJVAJLI_for...
+Saving thermo for XDJVAJLI_for...
+
+Arkane execution terminated at Tue Apr 16 14:42:46 2019
+Arkane execution initiated at Tue Apr 16 14:42:46 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [5, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_bac between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for XDJVAJLI_bac...
+Saving thermo for XDJVAJLI_bac...
+
+Arkane execution terminated at Tue Apr 16 14:42:47 2019
+Arkane execution initiated at Tue Apr 16 14:42:47 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [5, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_fix between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for XDJVAJLI_fix...
+Saving thermo for XDJVAJLI_fix...
+
+Arkane execution terminated at Tue Apr 16 14:42:48 2019
+Arkane execution initiated at Tue Apr 16 14:42:48 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for XDJVAJLI_con...
+Saving thermo for XDJVAJLI_con...
+
+Arkane execution terminated at Tue Apr 16 14:42:48 2019
+Arkane execution initiated at Tue Apr 16 14:59:49 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Loading species XDJVAJLI_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_for between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_for...
+Saving thermo for XDJVAJLI_for...
+
+Arkane execution terminated at Tue Apr 16 14:59:51 2019
+Arkane execution initiated at Tue Apr 16 14:59:51 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_bac between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_bac...
+Saving thermo for XDJVAJLI_bac...
+
+Arkane execution terminated at Tue Apr 16 14:59:52 2019
+Arkane execution initiated at Tue Apr 16 14:59:52 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_fix between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_fix...
+Saving thermo for XDJVAJLI_fix...
+
+Arkane execution terminated at Tue Apr 16 14:59:53 2019
+Arkane execution initiated at Tue Apr 16 14:59:53 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for XDJVAJLI_con...
+Saving thermo for XDJVAJLI_con...
+
+Arkane execution terminated at Tue Apr 16 14:59:54 2019
+Arkane execution initiated at Thu Apr 18 15:31:45 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Loading species XDJVAJLI_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_for between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_for...
+Saving thermo for XDJVAJLI_for...
+
+Arkane execution terminated at Thu Apr 18 15:31:48 2019
+Arkane execution initiated at Thu Apr 18 15:31:48 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_bac between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_bac...
+Saving thermo for XDJVAJLI_bac...
+
+Arkane execution terminated at Thu Apr 18 15:31:49 2019
+Arkane execution initiated at Thu Apr 18 15:31:49 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_fix between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_fix...
+Saving thermo for XDJVAJLI_fix...
+
+Arkane execution terminated at Thu Apr 18 15:31:51 2019
+Arkane execution initiated at Thu Apr 18 15:31:51 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for XDJVAJLI_con...
+Saving thermo for XDJVAJLI_con...
+
+Arkane execution terminated at Thu Apr 18 15:31:51 2019
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Arkane execution initiated at Tue Apr 23 14:27:58 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Loading species XDJVAJLI_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_for between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_for...
+Saving thermo for XDJVAJLI_for...
+
+Arkane execution terminated at Tue Apr 23 14:28:00 2019
+Arkane execution initiated at Tue Apr 23 14:28:00 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_bac between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_bac...
+Saving thermo for XDJVAJLI_bac...
+
+Arkane execution terminated at Tue Apr 23 14:28:02 2019
+Arkane execution initiated at Tue Apr 23 14:28:02 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_fix between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_fix...
+Saving thermo for XDJVAJLI_fix...
+
+Arkane execution terminated at Tue Apr 23 14:28:03 2019
+Arkane execution initiated at Tue Apr 23 14:28:03 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for XDJVAJLI_con...
+Saving thermo for XDJVAJLI_con...
+
+Arkane execution terminated at Tue Apr 23 14:28:03 2019
+Arkane execution initiated at Tue Apr 23 14:46:42 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_for between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_for...
+Saving thermo for XDJVAJLI_for...
+
+Arkane execution terminated at Tue Apr 23 14:46:43 2019
+Arkane execution initiated at Tue Apr 23 14:46:43 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_bac between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_bac...
+Saving thermo for XDJVAJLI_bac...
+
+Arkane execution terminated at Tue Apr 23 14:46:44 2019
+Arkane execution initiated at Tue Apr 23 14:46:44 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_bac between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_bac...
+Saving thermo for XDJVAJLI_bac...
+
+Arkane execution terminated at Tue Apr 23 14:46:45 2019
+Arkane execution initiated at Tue Apr 23 14:46:45 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_fix between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_fix...
+Saving thermo for XDJVAJLI_fix...
+
+Arkane execution terminated at Tue Apr 23 14:46:46 2019
+Arkane execution initiated at Tue Apr 23 14:46:46 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_fix between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_fix...
+Saving thermo for XDJVAJLI_fix...
+
+Arkane execution terminated at Tue Apr 23 14:46:47 2019
+Arkane execution initiated at Tue Apr 23 14:46:47 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for XDJVAJLI_con...
+Saving thermo for XDJVAJLI_con...
+
+Arkane execution terminated at Tue Apr 23 14:46:47 2019
+Arkane execution initiated at Tue Apr 23 14:46:47 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for XDJVAJLI_con...
+Saving thermo for XDJVAJLI_con...
+
+Arkane execution terminated at Tue Apr 23 14:46:47 2019
+Arkane execution initiated at Tue Apr 23 14:47:33 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_for between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_for...
+Saving thermo for XDJVAJLI_for...
+
+Arkane execution terminated at Tue Apr 23 14:47:34 2019
+Arkane execution initiated at Tue Apr 23 14:47:34 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_bac between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_bac...
+Saving thermo for XDJVAJLI_bac...
+
+Arkane execution terminated at Tue Apr 23 14:47:35 2019
+Arkane execution initiated at Tue Apr 23 14:47:35 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_bac between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_bac...
+Saving thermo for XDJVAJLI_bac...
+
+Arkane execution terminated at Tue Apr 23 14:47:36 2019
+Arkane execution initiated at Tue Apr 23 14:47:36 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_fix between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_fix...
+Saving thermo for XDJVAJLI_fix...
+
+Arkane execution terminated at Tue Apr 23 14:47:37 2019
+Arkane execution initiated at Tue Apr 23 14:47:37 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_fix between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_fix...
+Saving thermo for XDJVAJLI_fix...
+
+Arkane execution terminated at Tue Apr 23 14:47:38 2019
+Arkane execution initiated at Tue Apr 23 14:47:38 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for XDJVAJLI_con...
+Saving thermo for XDJVAJLI_con...
+
+Arkane execution terminated at Tue Apr 23 14:47:38 2019
+Arkane execution initiated at Tue Apr 23 14:47:38 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for XDJVAJLI_con...
+Saving thermo for XDJVAJLI_con...
+
+Arkane execution terminated at Tue Apr 23 14:47:38 2019
+Arkane execution initiated at Tue Apr 23 14:51:30 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_for between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_for...
+Saving thermo for XDJVAJLI_for...
+
+Arkane execution terminated at Tue Apr 23 14:51:31 2019
+Arkane execution initiated at Tue Apr 23 14:51:31 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_bac between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_bac...
+Saving thermo for XDJVAJLI_bac...
+
+Arkane execution terminated at Tue Apr 23 14:51:32 2019
+Arkane execution initiated at Tue Apr 23 14:51:32 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_bac between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_bac...
+Saving thermo for XDJVAJLI_bac...
+
+Arkane execution terminated at Tue Apr 23 14:51:33 2019
+Arkane execution initiated at Tue Apr 23 14:51:33 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_fix between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_fix...
+Saving thermo for XDJVAJLI_fix...
+
+Arkane execution terminated at Tue Apr 23 14:51:34 2019
+Arkane execution initiated at Tue Apr 23 14:51:34 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_fix between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_fix...
+Saving thermo for XDJVAJLI_fix...
+
+Arkane execution terminated at Tue Apr 23 14:51:35 2019
+Arkane execution initiated at Tue Apr 23 14:51:35 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for XDJVAJLI_con...
+Saving thermo for XDJVAJLI_con...
+
+Arkane execution terminated at Tue Apr 23 14:51:35 2019
+Arkane execution initiated at Tue Apr 23 14:51:35 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for XDJVAJLI_con...
+Saving thermo for XDJVAJLI_con...
+
+Arkane execution terminated at Tue Apr 23 14:51:35 2019
+Arkane execution initiated at Wed Apr 24 12:17:11 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Loading species XDJVAJLI_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_for between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_for...
+Saving thermo for XDJVAJLI_for...
+
+Arkane execution terminated at Wed Apr 24 12:17:15 2019
+Arkane execution initiated at Wed Apr 24 12:17:15 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_bac between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_bac...
+Saving thermo for XDJVAJLI_bac...
+
+Arkane execution terminated at Wed Apr 24 12:17:17 2019
+Arkane execution initiated at Wed Apr 24 12:17:17 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_bac between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_bac...
+Saving thermo for XDJVAJLI_bac...
+
+Arkane execution terminated at Wed Apr 24 12:17:18 2019
+Arkane execution initiated at Wed Apr 24 12:17:18 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_fix between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_fix...
+Saving thermo for XDJVAJLI_fix...
+
+Arkane execution terminated at Wed Apr 24 12:17:20 2019
+Arkane execution initiated at Wed Apr 24 12:17:20 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_fix between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_fix...
+Saving thermo for XDJVAJLI_fix...
+
+Arkane execution terminated at Wed Apr 24 12:17:21 2019
+Arkane execution initiated at Wed Apr 24 12:17:21 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for XDJVAJLI_con...
+Saving thermo for XDJVAJLI_con...
+
+Arkane execution terminated at Wed Apr 24 12:17:22 2019
+Arkane execution initiated at Wed Apr 24 12:17:22 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for XDJVAJLI_con...
+Saving thermo for XDJVAJLI_con...
+
+Arkane execution terminated at Wed Apr 24 12:17:22 2019
+Arkane execution initiated at Wed Apr 24 12:40:20 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [5, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_for between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for XDJVAJLI_for...
+Saving thermo for XDJVAJLI_for...
+
+Arkane execution terminated at Wed Apr 24 12:40:22 2019
+Arkane execution initiated at Wed Apr 24 12:40:22 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [5, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_bac between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for XDJVAJLI_bac...
+Saving thermo for XDJVAJLI_bac...
+
+Arkane execution terminated at Wed Apr 24 12:40:24 2019
+Arkane execution initiated at Wed Apr 24 12:40:24 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [5, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_fix between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for XDJVAJLI_fix...
+Saving thermo for XDJVAJLI_fix...
+
+Arkane execution terminated at Wed Apr 24 12:40:25 2019
+Arkane execution initiated at Wed Apr 24 12:40:25 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for XDJVAJLI_con...
+Saving thermo for XDJVAJLI_con...
+
+Arkane execution terminated at Wed Apr 24 12:40:25 2019
+Arkane execution initiated at Wed Apr 24 12:41:04 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_for between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_for...
+Saving thermo for XDJVAJLI_for...
+
+Arkane execution terminated at Wed Apr 24 12:41:06 2019
+Arkane execution initiated at Wed Apr 24 12:41:06 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_bac between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_bac...
+Saving thermo for XDJVAJLI_bac...
+
+Arkane execution terminated at Wed Apr 24 12:41:07 2019
+Arkane execution initiated at Wed Apr 24 12:41:07 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_fix between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [5, 6] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for XDJVAJLI_fix...
+Saving thermo for XDJVAJLI_fix...
+
+Arkane execution terminated at Wed Apr 24 12:41:09 2019
+Arkane execution initiated at Wed Apr 24 12:41:09 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for XDJVAJLI_con...
+Saving thermo for XDJVAJLI_con...
+
+Arkane execution terminated at Wed Apr 24 12:41:09 2019
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Warning: Number of basis functions (nbasis) has changed from 301 to 336
+Warning: Number of basis functions (nbasis) has changed from 336 to 301
+Arkane execution initiated at Wed Apr 24 14:00:01 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_for between pivots [5, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_for between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for XDJVAJLI_for...
+Saving thermo for XDJVAJLI_for...
+
+Arkane execution terminated at Wed Apr 24 14:00:02 2019
+Arkane execution initiated at Wed Apr 24 14:00:02 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_bac between pivots [5, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_bac between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for XDJVAJLI_bac...
+Saving thermo for XDJVAJLI_bac...
+
+Arkane execution terminated at Wed Apr 24 14:00:03 2019
+Arkane execution initiated at Wed Apr 24 14:00:03 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [1, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species XDJVAJLI_fix between pivots [5, 6] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species XDJVAJLI_fix between pivots [5, 7] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for XDJVAJLI_fix...
+Saving thermo for XDJVAJLI_fix...
+
+Arkane execution terminated at Wed Apr 24 14:00:05 2019
+Arkane execution initiated at Wed Apr 24 14:00:05 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species XDJVAJLI_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for XDJVAJLI_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'O-O'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for XDJVAJLI_con...
+Saving thermo for XDJVAJLI_con...
+
+Arkane execution terminated at Wed Apr 24 14:00:05 2019

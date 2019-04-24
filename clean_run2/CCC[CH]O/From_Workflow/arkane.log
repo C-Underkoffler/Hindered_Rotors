@@ -1,0 +1,411 @@
+Arkane execution initiated at Tue Apr 16 10:21:53 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Databases not found. Making databases
+Loading frequencies group database from /home/underkoffler.c/Code/RMG-database/input/statmech/groups...
+Loading transport library from PrimaryTransportLibrary.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from GRI-Mech.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport library from NOx2018.py in /home/underkoffler.c/Code/RMG-database/input/transport/libraries...
+Loading transport group database from /home/underkoffler.c/Code/RMG-database/input/transport/groups...
+Loading species DHVSQGCG...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DHVSQGCG...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG between pivots [1, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species DHVSQGCG between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG between pivots [3, 5] based on the 10% of the maximum peak criterion.
+Saving statistical mechanics parameters for DHVSQGCG...
+Saving thermo for DHVSQGCG...
+
+Arkane execution terminated at Tue Apr 16 10:21:55 2019
+Thermo already generated for species DHVSQGCG. Skipping thermo generation.
+Arkane execution initiated at Tue Apr 16 10:32:28 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DHVSQGCG_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DHVSQGCG_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_for between pivots [1, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species DHVSQGCG_for between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_for between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_for between pivots [3, 5] based on the 10% of the maximum peak criterion.
+Saving statistical mechanics parameters for DHVSQGCG_for...
+Saving thermo for DHVSQGCG_for...
+
+Arkane execution terminated at Tue Apr 16 10:32:29 2019
+Arkane execution initiated at Wed Apr 24 12:28:56 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DHVSQGCG_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DHVSQGCG_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_for between pivots [1, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species DHVSQGCG_for between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_for between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_for between pivots [3, 5] based on the 10% of the maximum peak criterion.
+Saving statistical mechanics parameters for DHVSQGCG_for...
+Saving thermo for DHVSQGCG_for...
+
+Arkane execution terminated at Wed Apr 24 12:28:57 2019
+Arkane execution initiated at Wed Apr 24 12:28:57 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DHVSQGCG_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DHVSQGCG_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_bac between pivots [1, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species DHVSQGCG_bac between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_bac between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_bac between pivots [3, 5] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for DHVSQGCG_bac...
+Saving thermo for DHVSQGCG_bac...
+
+Arkane execution terminated at Wed Apr 24 12:28:58 2019
+Arkane execution initiated at Wed Apr 24 12:28:58 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DHVSQGCG_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DHVSQGCG_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_bac between pivots [1, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species DHVSQGCG_bac between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_bac between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_bac between pivots [3, 5] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for DHVSQGCG_bac...
+Saving thermo for DHVSQGCG_bac...
+
+Arkane execution terminated at Wed Apr 24 12:29:00 2019
+Arkane execution initiated at Wed Apr 24 12:29:00 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DHVSQGCG_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DHVSQGCG_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_fix between pivots [1, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species DHVSQGCG_fix between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_fix between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_fix between pivots [3, 5] based on the worst valley resolution criterion.
+Saving statistical mechanics parameters for DHVSQGCG_fix...
+Saving thermo for DHVSQGCG_fix...
+
+Arkane execution terminated at Wed Apr 24 12:29:01 2019
+Arkane execution initiated at Wed Apr 24 12:29:01 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DHVSQGCG_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DHVSQGCG_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_fix between pivots [1, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species DHVSQGCG_fix between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_fix between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_fix between pivots [3, 5] based on the worst valley resolution criterion.
+Saving statistical mechanics parameters for DHVSQGCG_fix...
+Saving thermo for DHVSQGCG_fix...
+
+Arkane execution terminated at Wed Apr 24 12:29:02 2019
+Arkane execution initiated at Wed Apr 24 12:29:02 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DHVSQGCG_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DHVSQGCG_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for DHVSQGCG_con...
+Saving thermo for DHVSQGCG_con...
+
+Arkane execution terminated at Wed Apr 24 12:29:03 2019
+Arkane execution initiated at Wed Apr 24 12:29:03 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DHVSQGCG_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DHVSQGCG_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for DHVSQGCG_con...
+Saving thermo for DHVSQGCG_con...
+
+Arkane execution terminated at Wed Apr 24 12:29:03 2019
+Arkane execution initiated at Wed Apr 24 12:34:29 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DHVSQGCG_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DHVSQGCG_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_for between pivots [1, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_for between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species DHVSQGCG_for between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_for between pivots [3, 5] based on the 10% of the maximum peak criterion.
+Saving statistical mechanics parameters for DHVSQGCG_for...
+Saving thermo for DHVSQGCG_for...
+
+Arkane execution terminated at Wed Apr 24 12:34:31 2019
+Arkane execution initiated at Wed Apr 24 12:34:31 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DHVSQGCG_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DHVSQGCG_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_bac between pivots [1, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_bac between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species DHVSQGCG_bac between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_bac between pivots [3, 5] based on the worst peak resolution criterion.
+Saving statistical mechanics parameters for DHVSQGCG_bac...
+Saving thermo for DHVSQGCG_bac...
+
+Arkane execution terminated at Wed Apr 24 12:34:32 2019
+Arkane execution initiated at Wed Apr 24 12:34:32 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DHVSQGCG_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DHVSQGCG_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_fix between pivots [1, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_fix between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species DHVSQGCG_fix between pivots [2, 4] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 1 for rotor of species DHVSQGCG_fix between pivots [3, 5] based on the worst valley resolution criterion.
+Saving statistical mechanics parameters for DHVSQGCG_fix...
+Saving thermo for DHVSQGCG_fix...
+
+Arkane execution terminated at Wed Apr 24 12:34:33 2019
+Arkane execution initiated at Wed Apr 24 12:34:33 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DHVSQGCG_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DHVSQGCG_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for DHVSQGCG_con...
+Saving thermo for DHVSQGCG_con...
+
+Arkane execution terminated at Wed Apr 24 12:34:33 2019

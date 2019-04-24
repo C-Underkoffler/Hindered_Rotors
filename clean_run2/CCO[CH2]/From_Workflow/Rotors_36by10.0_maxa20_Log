@@ -1,0 +1,73 @@
+
+
+===========================================================================================
+
+2019-04-23 21:42:11.610709
+
+Beginning workflow for CCO[CH2] at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCO[CH2]/From_Workflow
+
+No Completed GeoFreq found for attempt 20
+
+No Completed GeoFreq found for attempt 19
+
+No Completed GeoFreq found for attempt 18
+
+No Completed GeoFreq found for attempt 17
+
+No Completed GeoFreq found for attempt 16
+
+No Completed GeoFreq found for attempt 15
+
+No Completed GeoFreq found for attempt 14
+
+No Completed GeoFreq found for attempt 13
+
+No Completed GeoFreq found for attempt 12
+
+No Completed GeoFreq found for attempt 11
+
+No Completed GeoFreq found for attempt 10
+
+No Completed GeoFreq found for attempt 9
+
+No Completed GeoFreq found for attempt 8
+
+No Completed GeoFreq found for attempt 7
+
+No Completed GeoFreq found for attempt 6
+
+No Completed GeoFreq found for attempt 5
+
+No Completed GeoFreq found for attempt 4
+
+No Completed GeoFreq found for attempt 3
+
+Geometry & Frequency log file is complete!
+	TVFRQKHUZDMLDB-UHFFFAOYSA-N_GeoFreq_a2.log for CCO[CH2] is complete!
+
+Generated reduced GeoFreq Log
+	TVFRQKHUZDMLDB-UHFFFAOYSA.log
+
+
+Looking at (3, 0, 1, 5) torsion in CCO[CH2]
+
+	EXECUTING TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by-10.0_tor01_a2
+
+	EXECUTING TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by10.0_tor01_a2_F
+
+
+Looking at (1, 0, 3, 9) torsion in CCO[CH2]
+
+	EXECUTING TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by-10.0_tor03_a2
+
+	EXECUTING TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by10.0_tor03_a2_F
+
+
+Looking at (5, 1, 2, 6) torsion in CCO[CH2]
+
+	EXECUTING TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by-10.0_tor12_a2
+
+	EXECUTING TVFRQKHUZDMLDB-UHFFFAOYSA-N_36by10.0_tor12_a2_F
+
+Scans are using lowest known conformer and all have completed to satisfaction for CCO[CH2]

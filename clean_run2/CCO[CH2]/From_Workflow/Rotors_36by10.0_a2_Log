@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-14 14:33:05.781662
+2019-03-18 14:39:44.265800
 
 Beginning workflow for CCO[CH2] at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCO[CH2]/From_Workflow
@@ -33,18 +33,10 @@ Looking at (4, 1, 2, 8) torsion in CCO[CH2]
 
 Scans are using lowest known conformer and all have completed to satisfaction for CCO[CH2]
 
-Arkane Species.py file NOT FOUND
-	TVFRQKHUZDMLDB-UHFFFAOYSA.py NOT FOUND for CCO[CH2]
-	Generating one now...
-
-Species.py for CCO[CH2] has been generated!
+Species.py for CCO[CH2] exists!
 	TVFRQKHUZDMLDB-UHFFFAOYSA.py
 
 Beginning Thermo Calculations
-
-Thermo input file NOT FOUND
-	TVFRQKHUZDMLDB-UHFFFAOYSA_Thermo.py NOT FOUND for CCO[CH2]	
-Generating one now...
 
 Executing Arkane Thermo Job for TVFRQKHUZDMLDB-UHFFFAOYSA.py
 	AKA CCO[CH2]

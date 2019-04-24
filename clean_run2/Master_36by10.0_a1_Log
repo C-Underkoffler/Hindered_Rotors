@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-14 14:34:05.963808
+2019-03-18 14:36:01.738399
 
 Beginning workflow for CCCCO at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCCCO/From_Workflow
@@ -52,7 +52,7 @@ Will not execute Geo opt for attempt 2 because Gaussian input file already exist
 
 ===========================================================================================
 
-2019-03-14 14:34:13.294279
+2019-03-18 14:36:09.588910
 
 Beginning workflow for CCCC[O] at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCCC[O]/From_Workflow
@@ -80,8 +80,9 @@ Looking at (8, 2, 4, 13) torsion in CCCC[O]
 
 Using lowest conformer thus far, but some scans still failed. Re-running them now...
 
-	Using previous torsion input file.
-		QOOQLKSEGVNYLA-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCCC[O] exists!
+	Torsion input file NOT FOUND.
+		QOOQLKSEGVNYLA-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCCC[O] NOT FOUND.
+		Generating one now..
 
 	EXECUTING QOOQLKSEGVNYLA-UHFFFAOYSA-N_36by10.0_tor13_a1
 
@@ -93,7 +94,7 @@ Using lowest conformer thus far, but some scans still failed. Re-running them no
 
 ===========================================================================================
 
-2019-03-14 14:34:21.413349
+2019-03-18 14:36:17.865121
 
 Beginning workflow for CCC[CH]O at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCC[CH]O/From_Workflow
@@ -143,7 +144,7 @@ Will not execute Geo opt for attempt 2 because Gaussian input file already exist
 
 ===========================================================================================
 
-2019-03-14 14:34:29.608290
+2019-03-18 14:36:27.176750
 
 Beginning workflow for CC[CH]CO at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CC[CH]CO/From_Workflow
@@ -193,7 +194,7 @@ Will not execute Geo opt for attempt 2 because Gaussian input file already exist
 
 ===========================================================================================
 
-2019-03-14 14:34:39.446305
+2019-03-18 14:36:38.194913
 
 Beginning workflow for C[CH]CCO at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/C[CH]CCO/From_Workflow
@@ -240,7 +241,7 @@ No Suggestions at this time
 
 ===========================================================================================
 
-2019-03-14 14:34:48.792410
+2019-03-18 14:36:48.650558
 
 Beginning workflow for [CH2]CCCO at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]CCCO/From_Workflow
@@ -287,7 +288,7 @@ No Suggestions at this time
 
 ===========================================================================================
 
-2019-03-14 14:34:58.181774
+2019-03-18 14:36:58.946194
 
 Beginning workflow for CCOC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCOC/From_Workflow
@@ -311,7 +312,7 @@ Looking at (1, 0, 3, 11) torsion in CCOC
 		XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor03_a1.log for CCOC exists and is complete!
 
 
-Looking at (5, 1, 2, 7) torsion in CCOC
+Looking at (5, 1, 2, 8) torsion in CCOC
 
 	Torsion log file is complete!
 		XOBKSJJDNFUZPF-UHFFFAOYSA-N_36by10.0_tor12_a1.log for CCOC exists and is complete!
@@ -337,7 +338,7 @@ Arkane log named "arkane.log"
 
 ===========================================================================================
 
-2019-03-14 14:35:03.143595
+2019-03-18 14:37:05.202622
 
 Beginning workflow for C[CH]OC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/C[CH]OC/From_Workflow
@@ -381,7 +382,7 @@ Will not execute Geo opt for attempt 2 because Gaussian input file already exist
 
 ===========================================================================================
 
-2019-03-14 14:35:09.620550
+2019-03-18 14:37:12.118610
 
 Beginning workflow for CCO[CH2] at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCO[CH2]/From_Workflow
@@ -425,7 +426,7 @@ Will not execute Geo opt for attempt 2 because Gaussian input file already exist
 
 ===========================================================================================
 
-2019-03-14 14:35:14.862210
+2019-03-18 14:37:17.366097
 
 Beginning workflow for [CH2]COC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]COC/From_Workflow
@@ -469,7 +470,7 @@ Will not execute Geo opt for attempt 2 because Gaussian input file already exist
 
 ===========================================================================================
 
-2019-03-14 14:35:19.903555
+2019-03-18 14:37:22.984033
 
 Beginning workflow for COC(C)C at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/COC(C)C/From_Workflow
@@ -525,7 +526,7 @@ Arkane log named "arkane.log"
 
 ===========================================================================================
 
-2019-03-14 14:35:28.265051
+2019-03-18 14:37:32.096612
 
 Beginning workflow for CO[C](C)C at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CO[C](C)C/From_Workflow
@@ -581,7 +582,7 @@ Arkane log named "arkane.log"
 
 ===========================================================================================
 
-2019-03-14 14:35:36.455784
+2019-03-18 14:37:41.496397
 
 Beginning workflow for [CH2]OC(C)C at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]OC(C)C/From_Workflow
@@ -637,7 +638,7 @@ Arkane log named "arkane.log"
 
 ===========================================================================================
 
-2019-03-14 14:35:44.753610
+2019-03-18 14:37:50.133879
 
 Beginning workflow for [CH2]C(C)OC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]C(C)OC/From_Workflow
@@ -687,7 +688,7 @@ Will not execute Geo opt for attempt 2 because Gaussian input file already exist
 
 ===========================================================================================
 
-2019-03-14 14:35:52.843673
+2019-03-18 14:37:59.794074
 
 Beginning workflow for CCC(=O)OC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCC(=O)OC/From_Workflow
@@ -743,7 +744,7 @@ Arkane log named "arkane.log"
 
 ===========================================================================================
 
-2019-03-14 14:35:59.791098
+2019-03-18 14:38:07.388405
 
 Beginning workflow for C[CH]C(=O)OC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/C[CH]C(=O)OC/From_Workflow
@@ -799,7 +800,7 @@ Arkane log named "arkane.log"
 
 ===========================================================================================
 
-2019-03-14 14:36:07.392659
+2019-03-18 14:38:15.752671
 
 Beginning workflow for [CH2]CC(=O)OC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]CC(=O)OC/From_Workflow
@@ -849,7 +850,7 @@ Will not execute Geo opt for attempt 2 because Gaussian input file already exist
 
 ===========================================================================================
 
-2019-03-14 14:36:15.888613
+2019-03-18 14:38:24.829734
 
 Beginning workflow for [CH2]OC(=O)CC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]OC(=O)CC/From_Workflow
@@ -905,7 +906,7 @@ Arkane log named "arkane.log"
 
 ===========================================================================================
 
-2019-03-14 14:36:23.717715
+2019-03-18 14:38:33.870352
 
 Beginning workflow for ONCC(=O)O at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/ONCC(=O)O/From_Workflow
@@ -917,7 +918,7 @@ Generated reduced GeoFreq Log
 	PWGWQRXHVJJRD-UHFFFAOYSA.log
 
 
-Looking at (9, 0, 3, 8) torsion in ONCC(=O)O
+Looking at (9, 0, 3, 4) torsion in ONCC(=O)O
 
 	Torsion log file is complete!
 		NPWGWQRXHVJJRD-UHFFFAOYSA-N_36by10.0_tor03_a1.log for ONCC(=O)O exists and is complete!

@@ -1,0 +1,5 @@
+ Entering Gaussian System, Link 0=g16
+ Input=IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor13_a1.com
+ Output=IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor13_a1.log
+ Initial command:
+ /shared/centos7/gaussian/g16/l1.exe "/scratch/underkoffler.c/gaussian_scratch/Gau-9204.inp" -scrdir="/scratch/underkoffler.c/gaussian_scratch/"

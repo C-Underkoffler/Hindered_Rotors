@@ -1,0 +1,60 @@
+
+
+===========================================================================================
+
+2019-04-09 16:46:18.178489
+
+Beginning workflow for OOCC(C)O[O] at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/OOCC(C)O[O]/From_Workflow
+
+Geometry & Frequency log file is complete!
+	XDJVAJLIXKTENM-UHFFFAOYSA-N_GeoFreq_c1_a1.log for OOCC(C)O[O] is complete!
+
+Generated reduced GeoFreq Log
+	XDJVAJLIXKTENM-UHFFFAOYSA.log
+
+
+Looking at (5, 0, 2, 13) torsion in OOCC(C)O[O]
+
+
+Looking at (2, 0, 5, 9) torsion in OOCC(C)O[O]
+
+
+Looking at (3, 1, 4, 5) torsion in OOCC(C)O[O]
+
+
+Looking at (5, 4, 6, 12) torsion in OOCC(C)O[O]
+
+
+Looking at (7, 4, 5, 9) torsion in OOCC(C)O[O]
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor02_a1.com for OOCC(C)O[O] exists!
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor02_a1
+
+	Using previous torsion input file.
+		XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor05_a1.com for OOCC(C)O[O] exists!
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor05_a1
+
+	Using previous torsion input file.
+		XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor14_a1.com for OOCC(C)O[O] exists!
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor14_a1
+
+	Using previous torsion input file.
+		XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor46_a1.com for OOCC(C)O[O] exists!
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor46_a1
+
+	Using previous torsion input file.
+		XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor45_a1.com for OOCC(C)O[O] exists!
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor45_a1
+
+
+
+===========================================================================================

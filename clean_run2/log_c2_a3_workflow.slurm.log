@@ -1,0 +1,50 @@
+Using Theano backend.
+Submitted batch job 3711102
+Submitted batch job 3711103
+Submitted batch job 3711104
+Submitted batch job 3711105
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCCCO/From_Workflow
+	Skipping Conformer since no Geo Freq at attempt 3
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCCC[O]/From_Workflow
+	Skipping Conformer since no Geo Freq at attempt 3
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCC[CH]O/From_Workflow
+	Generated reduced GeoFreq Log
+	1#DNF_or_DNS:	DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor04_a3.log
+	1#DNF_or_DNS:	DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor12_a3.log
+	1#DNF_or_DNS:	DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor13_a3.log
+	1#DNF_or_DNS:	DHVSQGCGLGSLDF-UHFFFAOYSA-N_36by10.0_tor24_a3.log
+
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CC[CH]CO/From_Workflow
+	Skipping Conformer since no Geo Freq at attempt 3
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/C[CH]CCO/From_Workflow
+	Skipping Conformer since no Geo Freq at attempt 3
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]CCCO/From_Workflow
+	Skipping Conformer since no Geo Freq at attempt 3
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCOC/From_Workflow
+	Skipping Conformer since no Geo Freq at attempt 3
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/C[CH]OC/From_Workflow
+	Skipping Conformer since no Geo Freq at attempt 3
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCO[CH2]/From_Workflow
+	Skipping Conformer since no Geo Freq at attempt 3
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]COC/From_Workflow
+	Skipping Conformer since no Geo Freq at attempt 3
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/COC(C)C/From_Workflow
+	Skipping Conformer since no Geo Freq at attempt 3
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CO[C](C)C/From_Workflow
+	Skipping Conformer since no Geo Freq at attempt 3
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]OC(C)C/From_Workflow
+	Skipping Conformer since no Geo Freq at attempt 3
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]C(C)OC/From_Workflow
+[14:40:42] WARNING: Omitted undefined stereo
+	Skipping Conformer since no Geo Freq at attempt 3
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCC(=O)OC/From_Workflow
+	Skipping Conformer since no Geo Freq at attempt 3
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/C[CH]C(=O)OC/From_Workflow
+	Skipping Conformer since no Geo Freq at attempt 3
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]CC(=O)OC/From_Workflow
+	Skipping Conformer since no Geo Freq at attempt 3
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]OC(=O)CC/From_Workflow
+	Skipping Conformer since no Geo Freq at attempt 3
+/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/ONCC(=O)O/From_Workflow
+	Skipping Conformer since no Geo Freq at attempt 3
+Finished

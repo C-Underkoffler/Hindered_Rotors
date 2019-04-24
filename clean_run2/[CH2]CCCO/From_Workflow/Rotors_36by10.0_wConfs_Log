@@ -1,0 +1,140 @@
+
+
+===========================================================================================
+
+2019-04-09 16:47:28.349417
+
+Beginning workflow for [CH2]CCCO at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]CCCO/From_Workflow
+
+Geometry & Frequency log file is complete!
+	SXIFAEWFOJETOA-UHFFFAOYSA-N_GeoFreq_c3_a1.log for [CH2]CCCO is complete!
+
+Generated reduced GeoFreq Log
+	SXIFAEWFOJETOA-UHFFFAOYSA.log
+
+
+Looking at (13, 0, 3, 10) torsion in [CH2]CCCO
+
+
+Looking at (6, 1, 2, 8) torsion in [CH2]CCCO
+
+
+Looking at (6, 1, 3, 10) torsion in [CH2]CCCO
+
+
+Looking at (8, 2, 4, 11) torsion in [CH2]CCCO
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor03_a1.com for [CH2]CCCO exists!
+
+	EXECUTING SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	Using previous torsion input file.
+		SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor12_a1.com for [CH2]CCCO exists!
+
+	EXECUTING SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor13_a1.com for [CH2]CCCO exists!
+
+	EXECUTING SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	Using previous torsion input file.
+		SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor24_a1.com for [CH2]CCCO exists!
+
+	EXECUTING SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	SXIFAEWFOJETOA-UHFFFAOYSA-N_GeoFreq_c2_a1.log for [CH2]CCCO is complete!
+
+Generated reduced GeoFreq Log
+	SXIFAEWFOJETOA-UHFFFAOYSA.log
+
+
+Looking at (13, 0, 3, 10) torsion in [CH2]CCCO
+
+
+Looking at (6, 1, 2, 8) torsion in [CH2]CCCO
+
+
+Looking at (6, 1, 3, 10) torsion in [CH2]CCCO
+
+
+Looking at (8, 2, 4, 11) torsion in [CH2]CCCO
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor03_a1.com for [CH2]CCCO exists!
+
+	EXECUTING SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	Using previous torsion input file.
+		SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor12_a1.com for [CH2]CCCO exists!
+
+	EXECUTING SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor13_a1.com for [CH2]CCCO exists!
+
+	EXECUTING SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	Using previous torsion input file.
+		SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor24_a1.com for [CH2]CCCO exists!
+
+	EXECUTING SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	SXIFAEWFOJETOA-UHFFFAOYSA-N_GeoFreq_c1_a1.log for [CH2]CCCO is complete!
+
+Generated reduced GeoFreq Log
+	SXIFAEWFOJETOA-UHFFFAOYSA.log
+
+
+Looking at (13, 0, 3, 10) torsion in [CH2]CCCO
+
+
+Looking at (6, 1, 2, 8) torsion in [CH2]CCCO
+
+
+Looking at (6, 1, 3, 10) torsion in [CH2]CCCO
+
+
+Looking at (8, 2, 4, 11) torsion in [CH2]CCCO
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor03_a1.com for [CH2]CCCO exists!
+
+	EXECUTING SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	Using previous torsion input file.
+		SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor12_a1.com for [CH2]CCCO exists!
+
+	EXECUTING SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor13_a1.com for [CH2]CCCO exists!
+
+	EXECUTING SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+	Using previous torsion input file.
+		SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor24_a1.com for [CH2]CCCO exists!
+
+	EXECUTING SXIFAEWFOJETOA-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================

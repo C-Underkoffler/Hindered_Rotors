@@ -1,0 +1,86 @@
+
+
+===========================================================================================
+
+2019-04-14 12:58:32.739242
+
+Beginning workflow for OOCC(C)O[O] at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run3/OOCC(C)O[O]/From_Workflow
+
+Geometry & Frequency log file is complete!
+	XDJVAJLIXKTENM-UHFFFAOYSA-N_GeoFreq_c1_a1.log for OOCC(C)O[O] is complete!
+
+Generated reduced GeoFreq Log
+	XDJVAJLIXKTENM-UHFFFAOYSA.log
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by-10.0_tor02_a1
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor02_a1_F
+
+
+Looking at (5, 0, 2, 13) torsion in OOCC(C)O[O]
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by-10.0_tor05_a1
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor05_a1_F
+
+
+Looking at (2, 0, 5, 9) torsion in OOCC(C)O[O]
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by-10.0_tor14_a1
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor14_a1_F
+
+
+Looking at (3, 1, 4, 7) torsion in OOCC(C)O[O]
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by-10.0_tor46_a1
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor46_a1_F
+
+
+Looking at (7, 4, 6, 12) torsion in OOCC(C)O[O]
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by-10.0_tor45_a1
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor45_a1_F
+
+
+Looking at (7, 4, 5, 9) torsion in OOCC(C)O[O]
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor02_a1.com for OOCC(C)O[O] exists!
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor02_a1
+
+	Using previous torsion input file.
+		XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor05_a1.com for OOCC(C)O[O] exists!
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor05_a1
+
+	Using previous torsion input file.
+		XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor14_a1.com for OOCC(C)O[O] exists!
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor14_a1
+
+	Using previous torsion input file.
+		XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor46_a1.com for OOCC(C)O[O] exists!
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor46_a1
+
+	Using previous torsion input file.
+		XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor45_a1.com for OOCC(C)O[O] exists!
+
+	EXECUTING XDJVAJLIXKTENM-UHFFFAOYSA-N_36by10.0_tor45_a1
+
+
+
+===========================================================================================
+
+!!!!!!!!!!!!!!!!!!
+!! ALL FINISHED !!
+!!!!!!!!!!!!!!!!!!
+
+

@@ -1,0 +1,116 @@
+
+
+===========================================================================================
+
+2019-04-09 16:47:39.498895
+
+Beginning workflow for C[CH]OC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/C[CH]OC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	JQCSUVJDBHJKNG-UHFFFAOYSA-N_GeoFreq_c3_a1.log for C[CH]OC is complete!
+
+Generated reduced GeoFreq Log
+	JQCSUVJDBHJKNG-UHFFFAOYSA.log
+
+
+Looking at (2, 0, 3, 10) torsion in C[CH]OC
+
+
+Looking at (3, 0, 2, 9) torsion in C[CH]OC
+
+
+Looking at (5, 1, 3, 10) torsion in C[CH]OC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor03_a1.com for C[CH]OC exists!
+
+	EXECUTING JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	Using previous torsion input file.
+		JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor02_a1.com for C[CH]OC exists!
+
+	EXECUTING JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor02_a1
+
+	Using previous torsion input file.
+		JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor13_a1.com for C[CH]OC exists!
+
+	EXECUTING JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	JQCSUVJDBHJKNG-UHFFFAOYSA-N_GeoFreq_c2_a1.log for C[CH]OC is complete!
+
+Generated reduced GeoFreq Log
+	JQCSUVJDBHJKNG-UHFFFAOYSA.log
+
+
+Looking at (2, 0, 3, 10) torsion in C[CH]OC
+
+
+Looking at (3, 0, 2, 9) torsion in C[CH]OC
+
+
+Looking at (5, 1, 3, 10) torsion in C[CH]OC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor03_a1.com for C[CH]OC exists!
+
+	EXECUTING JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	Using previous torsion input file.
+		JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor02_a1.com for C[CH]OC exists!
+
+	EXECUTING JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor02_a1
+
+	Using previous torsion input file.
+		JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor13_a1.com for C[CH]OC exists!
+
+	EXECUTING JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	JQCSUVJDBHJKNG-UHFFFAOYSA-N_GeoFreq_c1_a1.log for C[CH]OC is complete!
+
+Generated reduced GeoFreq Log
+	JQCSUVJDBHJKNG-UHFFFAOYSA.log
+
+
+Looking at (2, 0, 3, 10) torsion in C[CH]OC
+
+
+Looking at (3, 0, 2, 9) torsion in C[CH]OC
+
+
+Looking at (5, 1, 3, 10) torsion in C[CH]OC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor03_a1.com for C[CH]OC exists!
+
+	EXECUTING JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	Using previous torsion input file.
+		JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor02_a1.com for C[CH]OC exists!
+
+	EXECUTING JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor02_a1
+
+	Using previous torsion input file.
+		JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor13_a1.com for C[CH]OC exists!
+
+	EXECUTING JQCSUVJDBHJKNG-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================

@@ -1,0 +1,94 @@
+
+
+===========================================================================================
+
+2019-03-28 22:24:33.678962
+
+Beginning workflow for CCC(=O)OC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCC(=O)OC/From_Workflow
+
+No Completed GeoFreq found for attempt 20
+
+No Completed GeoFreq found for attempt 19
+
+No Completed GeoFreq found for attempt 18
+
+No Completed GeoFreq found for attempt 17
+
+No Completed GeoFreq found for attempt 16
+
+No Completed GeoFreq found for attempt 15
+
+No Completed GeoFreq found for attempt 14
+
+No Completed GeoFreq found for attempt 13
+
+No Completed GeoFreq found for attempt 12
+
+No Completed GeoFreq found for attempt 11
+
+No Completed GeoFreq found for attempt 10
+
+No Completed GeoFreq found for attempt 9
+
+No Completed GeoFreq found for attempt 8
+
+No Completed GeoFreq found for attempt 7
+
+No Completed GeoFreq found for attempt 6
+
+No Completed GeoFreq found for attempt 5
+
+No Completed GeoFreq found for attempt 4
+
+No Completed GeoFreq found for attempt 3
+
+No Completed GeoFreq found for attempt 2
+
+Geometry & Frequency log file is complete!
+	RJUFJBKOKNCXHH-UHFFFAOYSA-N_GeoFreq_a1.log for CCC(=O)OC is complete!
+
+Generated reduced GeoFreq Log
+	RJUFJBKOKNCXHH-UHFFFAOYSA.log
+
+
+Looking at (5, 0, 4, 12) torsion in CCC(=O)OC
+
+
+Looking at (4, 0, 5, 2) torsion in CCC(=O)OC
+
+
+Looking at (5, 2, 3, 9) torsion in CCC(=O)OC
+
+
+Looking at (3, 2, 5, 1) torsion in CCC(=O)OC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Torsion input file NOT FOUND.
+		RJUFJBKOKNCXHH-UHFFFAOYSA-N_12by30.0_tor04_a1.com for CCC(=O)OC NOT FOUND.
+		Generating one now..
+
+	EXECUTING RJUFJBKOKNCXHH-UHFFFAOYSA-N_12by30.0_tor04_a1
+
+	Torsion input file NOT FOUND.
+		RJUFJBKOKNCXHH-UHFFFAOYSA-N_12by30.0_tor05_a1.com for CCC(=O)OC NOT FOUND.
+		Generating one now..
+
+	EXECUTING RJUFJBKOKNCXHH-UHFFFAOYSA-N_12by30.0_tor05_a1
+
+	Torsion input file NOT FOUND.
+		RJUFJBKOKNCXHH-UHFFFAOYSA-N_12by30.0_tor23_a1.com for CCC(=O)OC NOT FOUND.
+		Generating one now..
+
+	EXECUTING RJUFJBKOKNCXHH-UHFFFAOYSA-N_12by30.0_tor23_a1
+
+	Torsion input file NOT FOUND.
+		RJUFJBKOKNCXHH-UHFFFAOYSA-N_12by30.0_tor25_a1.com for CCC(=O)OC NOT FOUND.
+		Generating one now..
+
+	EXECUTING RJUFJBKOKNCXHH-UHFFFAOYSA-N_12by30.0_tor25_a1
+
+
+
+===========================================================================================

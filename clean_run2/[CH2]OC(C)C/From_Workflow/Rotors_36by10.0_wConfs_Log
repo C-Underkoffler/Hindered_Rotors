@@ -1,0 +1,316 @@
+
+
+===========================================================================================
+
+2019-04-09 16:48:13.560932
+
+Beginning workflow for [CH2]OC(C)C at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]OC(C)C/From_Workflow
+
+Geometry & Frequency log file is complete!
+	BWWHSGPVJDTLAO-UHFFFAOYSA-N_GeoFreq_c7_a1.log for [CH2]OC(C)C is complete!
+
+Generated reduced GeoFreq Log
+	BWWHSGPVJDTLAO-UHFFFAOYSA.log
+
+
+Looking at (4, 0, 1, 3) torsion in [CH2]OC(C)C
+
+
+Looking at (1, 0, 4, 12) torsion in [CH2]OC(C)C
+
+
+Looking at (3, 1, 2, 8) torsion in [CH2]OC(C)C
+
+
+Looking at (2, 1, 3, 9) torsion in [CH2]OC(C)C
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor01_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor04_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor12_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor13_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	BWWHSGPVJDTLAO-UHFFFAOYSA-N_GeoFreq_c6_a1.log for [CH2]OC(C)C is complete!
+
+Generated reduced GeoFreq Log
+	BWWHSGPVJDTLAO-UHFFFAOYSA.log
+
+
+Looking at (4, 0, 1, 3) torsion in [CH2]OC(C)C
+
+
+Looking at (1, 0, 4, 12) torsion in [CH2]OC(C)C
+
+
+Looking at (3, 1, 2, 8) torsion in [CH2]OC(C)C
+
+
+Looking at (2, 1, 3, 9) torsion in [CH2]OC(C)C
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor01_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor04_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor12_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor13_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	BWWHSGPVJDTLAO-UHFFFAOYSA-N_GeoFreq_c5_a1.log for [CH2]OC(C)C is complete!
+
+Generated reduced GeoFreq Log
+	BWWHSGPVJDTLAO-UHFFFAOYSA.log
+
+
+Looking at (4, 0, 1, 3) torsion in [CH2]OC(C)C
+
+
+Looking at (1, 0, 4, 12) torsion in [CH2]OC(C)C
+
+
+Looking at (3, 1, 2, 8) torsion in [CH2]OC(C)C
+
+
+Looking at (2, 1, 3, 9) torsion in [CH2]OC(C)C
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor01_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor04_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor12_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor13_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	BWWHSGPVJDTLAO-UHFFFAOYSA-N_GeoFreq_c4_a1.log for [CH2]OC(C)C is complete!
+
+Generated reduced GeoFreq Log
+	BWWHSGPVJDTLAO-UHFFFAOYSA.log
+
+
+Looking at (4, 0, 1, 3) torsion in [CH2]OC(C)C
+
+
+Looking at (1, 0, 4, 12) torsion in [CH2]OC(C)C
+
+
+Looking at (3, 1, 2, 8) torsion in [CH2]OC(C)C
+
+
+Looking at (2, 1, 3, 9) torsion in [CH2]OC(C)C
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor01_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor04_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor12_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor13_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	BWWHSGPVJDTLAO-UHFFFAOYSA-N_GeoFreq_c3_a1.log for [CH2]OC(C)C is complete!
+
+Generated reduced GeoFreq Log
+	BWWHSGPVJDTLAO-UHFFFAOYSA.log
+
+
+Looking at (4, 0, 1, 3) torsion in [CH2]OC(C)C
+
+
+Looking at (1, 0, 4, 12) torsion in [CH2]OC(C)C
+
+
+Looking at (3, 1, 2, 8) torsion in [CH2]OC(C)C
+
+
+Looking at (2, 1, 3, 9) torsion in [CH2]OC(C)C
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor01_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor04_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor12_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor13_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	BWWHSGPVJDTLAO-UHFFFAOYSA-N_GeoFreq_c2_a1.log for [CH2]OC(C)C is complete!
+
+Generated reduced GeoFreq Log
+	BWWHSGPVJDTLAO-UHFFFAOYSA.log
+
+
+Looking at (4, 0, 1, 3) torsion in [CH2]OC(C)C
+
+
+Looking at (1, 0, 4, 12) torsion in [CH2]OC(C)C
+
+
+Looking at (3, 1, 2, 8) torsion in [CH2]OC(C)C
+
+
+Looking at (2, 1, 3, 9) torsion in [CH2]OC(C)C
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor01_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor04_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor12_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor13_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	BWWHSGPVJDTLAO-UHFFFAOYSA-N_GeoFreq_c1_a1.log for [CH2]OC(C)C is complete!
+
+Generated reduced GeoFreq Log
+	BWWHSGPVJDTLAO-UHFFFAOYSA.log
+
+
+Looking at (4, 0, 1, 3) torsion in [CH2]OC(C)C
+
+
+Looking at (1, 0, 4, 12) torsion in [CH2]OC(C)C
+
+
+Looking at (3, 1, 2, 8) torsion in [CH2]OC(C)C
+
+
+Looking at (2, 1, 3, 9) torsion in [CH2]OC(C)C
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor01_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor04_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor12_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor12_a1
+
+	Using previous torsion input file.
+		BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor13_a1.com for [CH2]OC(C)C exists!
+
+	EXECUTING BWWHSGPVJDTLAO-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================

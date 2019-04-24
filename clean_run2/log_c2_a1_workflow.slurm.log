@@ -1,5 +1,5 @@
 Using Theano backend.
-Submitted batch job 3560629
+Submitted batch job 3711065
 /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCCCO/From_Workflow
 	Generated reduced GeoFreq Log
 	Not Lowest# LRHPLDYGYMQRHN-UHFFFAOYSA-N_36by10.0_tor03_a1.log
@@ -49,7 +49,7 @@ Submitted batch job 3560629
 	XOBKSJJDNFUZPF-UHFFFAOYSA_tor03.log
 	XOBKSJJDNFUZPF-UHFFFAOYSA_tor12.log
 		XOBKSJJDNFUZPF-UHFFFAOYSA.py
-Arkane execution initiated at Thu Mar 14 14:35:02 2019
+Arkane execution initiated at Mon Mar 18 14:37:03 2019
 
 ################################################################
 #                                                              #
@@ -86,7 +86,7 @@ Saving statistical mechanics parameters for XOBKSJJDNFUZPF-UHFFFAOYSA...
 Saving thermo for XOBKSJJDNFUZPF-UHFFFAOYSA...
 Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
 
-Arkane execution terminated at Thu Mar 14 14:35:03 2019
+Arkane execution terminated at Mon Mar 18 14:37:05 2019
 
 /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/C[CH]OC/From_Workflow
 	Generated reduced GeoFreq Log
@@ -113,7 +113,7 @@ Arkane execution terminated at Thu Mar 14 14:35:03 2019
 	RMGHERXMTMUMMV-UHFFFAOYSA_tor12.log
 	RMGHERXMTMUMMV-UHFFFAOYSA_tor13.log
 		RMGHERXMTMUMMV-UHFFFAOYSA.py
-Arkane execution initiated at Thu Mar 14 14:35:27 2019
+Arkane execution initiated at Mon Mar 18 14:37:31 2019
 
 ################################################################
 #                                                              #
@@ -145,7 +145,7 @@ Saving statistical mechanics parameters for RMGHERXMTMUMMV-UHFFFAOYSA...
 Saving thermo for RMGHERXMTMUMMV-UHFFFAOYSA...
 Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
 
-Arkane execution terminated at Thu Mar 14 14:35:28 2019
+Arkane execution terminated at Mon Mar 18 14:37:32 2019
 
 /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CO[C](C)C/From_Workflow
 	Generated reduced GeoFreq Log
@@ -154,7 +154,7 @@ Arkane execution terminated at Thu Mar 14 14:35:28 2019
 	VSQGJBCHGBRHMO-UHFFFAOYSA_tor14.log
 	VSQGJBCHGBRHMO-UHFFFAOYSA_tor24.log
 		VSQGJBCHGBRHMO-UHFFFAOYSA.py
-Arkane execution initiated at Thu Mar 14 14:35:35 2019
+Arkane execution initiated at Mon Mar 18 14:37:40 2019
 
 ################################################################
 #                                                              #
@@ -186,7 +186,7 @@ Saving statistical mechanics parameters for VSQGJBCHGBRHMO-UHFFFAOYSA...
 Saving thermo for VSQGJBCHGBRHMO-UHFFFAOYSA...
 Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
 
-Arkane execution terminated at Thu Mar 14 14:35:36 2019
+Arkane execution terminated at Mon Mar 18 14:37:41 2019
 
 /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]OC(C)C/From_Workflow
 	Generated reduced GeoFreq Log
@@ -195,7 +195,7 @@ Arkane execution terminated at Thu Mar 14 14:35:36 2019
 	BWWHSGPVJDTLAO-UHFFFAOYSA_tor12.log
 	BWWHSGPVJDTLAO-UHFFFAOYSA_tor13.log
 		BWWHSGPVJDTLAO-UHFFFAOYSA.py
-Arkane execution initiated at Thu Mar 14 14:35:44 2019
+Arkane execution initiated at Mon Mar 18 14:37:49 2019
 
 ################################################################
 #                                                              #
@@ -227,10 +227,10 @@ Saving statistical mechanics parameters for BWWHSGPVJDTLAO-UHFFFAOYSA...
 Saving thermo for BWWHSGPVJDTLAO-UHFFFAOYSA...
 Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
 
-Arkane execution terminated at Thu Mar 14 14:35:44 2019
+Arkane execution terminated at Mon Mar 18 14:37:50 2019
 
 /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]C(C)OC/From_Workflow
-[14:35:44] WARNING: Omitted undefined stereo
+[14:37:50] WARNING: Omitted undefined stereo
 	Generated reduced GeoFreq Log
 	FBRHVBFWGRGMCF-UHFFFAOYSA_tor03.log
 	Not Lowest# FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor01_a1.log
@@ -244,7 +244,7 @@ Arkane execution terminated at Thu Mar 14 14:35:44 2019
 	RJUFJBKOKNCXHH-UHFFFAOYSA_tor23.log
 	RJUFJBKOKNCXHH-UHFFFAOYSA_tor25.log
 		RJUFJBKOKNCXHH-UHFFFAOYSA.py
-Arkane execution initiated at Thu Mar 14 14:35:59 2019
+Arkane execution initiated at Mon Mar 18 14:38:06 2019
 
 ################################################################
 #                                                              #
@@ -277,7 +277,7 @@ Saving statistical mechanics parameters for RJUFJBKOKNCXHH-UHFFFAOYSA...
 Saving thermo for RJUFJBKOKNCXHH-UHFFFAOYSA...
 Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
 
-Arkane execution terminated at Thu Mar 14 14:35:59 2019
+Arkane execution terminated at Mon Mar 18 14:38:07 2019
 
 /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/C[CH]C(=O)OC/From_Workflow
 	Generated reduced GeoFreq Log
@@ -286,7 +286,7 @@ Arkane execution terminated at Thu Mar 14 14:35:59 2019
 	DUEVIJNWLJUFDM-UHFFFAOYSA_tor24.log
 	DUEVIJNWLJUFDM-UHFFFAOYSA_tor45.log
 		DUEVIJNWLJUFDM-UHFFFAOYSA.py
-Arkane execution initiated at Thu Mar 14 14:36:06 2019
+Arkane execution initiated at Mon Mar 18 14:38:15 2019
 
 ################################################################
 #                                                              #
@@ -319,7 +319,7 @@ Saving statistical mechanics parameters for DUEVIJNWLJUFDM-UHFFFAOYSA...
 Saving thermo for DUEVIJNWLJUFDM-UHFFFAOYSA...
 Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
 
-Arkane execution terminated at Thu Mar 14 14:36:07 2019
+Arkane execution terminated at Mon Mar 18 14:38:15 2019
 
 /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]CC(=O)OC/From_Workflow
 	Generated reduced GeoFreq Log
@@ -335,7 +335,7 @@ Arkane execution terminated at Thu Mar 14 14:36:07 2019
 	OJWHOIQFDAGZNF-UHFFFAOYSA_tor24.log
 	OJWHOIQFDAGZNF-UHFFFAOYSA_tor23.log
 		OJWHOIQFDAGZNF-UHFFFAOYSA.py
-Arkane execution initiated at Thu Mar 14 14:36:23 2019
+Arkane execution initiated at Mon Mar 18 14:38:33 2019
 
 ################################################################
 #                                                              #
@@ -368,7 +368,7 @@ Saving statistical mechanics parameters for OJWHOIQFDAGZNF-UHFFFAOYSA...
 Saving thermo for OJWHOIQFDAGZNF-UHFFFAOYSA...
 Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
 
-Arkane execution terminated at Thu Mar 14 14:36:23 2019
+Arkane execution terminated at Mon Mar 18 14:38:33 2019
 
 /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/ONCC(=O)O/From_Workflow
 	Generated reduced GeoFreq Log
@@ -377,7 +377,7 @@ Arkane execution terminated at Thu Mar 14 14:36:23 2019
 	PWGWQRXHVJJRD-UHFFFAOYSA_tor34.log
 	PWGWQRXHVJJRD-UHFFFAOYSA_tor45.log
 		PWGWQRXHVJJRD-UHFFFAOYSA.py
-Arkane execution initiated at Thu Mar 14 14:36:31 2019
+Arkane execution initiated at Mon Mar 18 14:38:40 2019
 
 ################################################################
 #                                                              #
@@ -414,6 +414,6 @@ Saving statistical mechanics parameters for PWGWQRXHVJJRD-UHFFFAOYSA...
 Saving thermo for PWGWQRXHVJJRD-UHFFFAOYSA...
 Warning: Species label is longer than 15 characters and will break CHEMKIN 2.0
 
-Arkane execution terminated at Thu Mar 14 14:36:31 2019
+Arkane execution terminated at Mon Mar 18 14:38:41 2019
 
 Finished

@@ -1,0 +1,340 @@
+Arkane execution initiated at Wed Apr 24 12:29:18 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DBQZVPSK_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DBQZVPSK_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_for between pivots [1, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_for between pivots [2, 5] based on the worst valley resolution criterion.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_for between pivots [2, 3] based on the worst valley resolution criterion.
+Determined a symmetry number of 3 for rotor of species DBQZVPSK_for between pivots [4, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for DBQZVPSK_for...
+Saving thermo for DBQZVPSK_for...
+
+Arkane execution terminated at Wed Apr 24 12:29:19 2019
+Arkane execution initiated at Wed Apr 24 12:29:19 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DBQZVPSK_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DBQZVPSK_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_bac between pivots [1, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species DBQZVPSK_bac between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 3 for rotor of species DBQZVPSK_bac between pivots [4, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for DBQZVPSK_bac...
+Saving thermo for DBQZVPSK_bac...
+
+Arkane execution terminated at Wed Apr 24 12:29:20 2019
+Arkane execution initiated at Wed Apr 24 12:29:20 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DBQZVPSK_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DBQZVPSK_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_bac between pivots [1, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species DBQZVPSK_bac between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 3 for rotor of species DBQZVPSK_bac between pivots [4, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for DBQZVPSK_bac...
+Saving thermo for DBQZVPSK_bac...
+
+Arkane execution terminated at Wed Apr 24 12:29:21 2019
+Arkane execution initiated at Wed Apr 24 12:29:21 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DBQZVPSK_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DBQZVPSK_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_fix between pivots [1, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_fix between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species DBQZVPSK_fix between pivots [4, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for DBQZVPSK_fix...
+Saving thermo for DBQZVPSK_fix...
+
+Arkane execution terminated at Wed Apr 24 12:29:23 2019
+Arkane execution initiated at Wed Apr 24 12:29:23 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DBQZVPSK_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DBQZVPSK_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_fix between pivots [1, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_fix between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species DBQZVPSK_fix between pivots [4, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for DBQZVPSK_fix...
+Saving thermo for DBQZVPSK_fix...
+
+Arkane execution terminated at Wed Apr 24 12:29:24 2019
+Arkane execution initiated at Wed Apr 24 12:29:24 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DBQZVPSK_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DBQZVPSK_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for DBQZVPSK_con...
+Saving thermo for DBQZVPSK_con...
+
+Arkane execution terminated at Wed Apr 24 12:29:24 2019
+Arkane execution initiated at Wed Apr 24 12:29:24 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DBQZVPSK_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DBQZVPSK_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for DBQZVPSK_con...
+Saving thermo for DBQZVPSK_con...
+
+Arkane execution terminated at Wed Apr 24 12:29:25 2019
+Arkane execution initiated at Wed Apr 24 12:34:44 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DBQZVPSK_for...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DBQZVPSK_for...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_for between pivots [1, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_for between pivots [2, 5] based on the worst valley resolution criterion.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_for between pivots [2, 3] based on the worst valley resolution criterion.
+Determined a symmetry number of 3 for rotor of species DBQZVPSK_for between pivots [4, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for DBQZVPSK_for...
+Saving thermo for DBQZVPSK_for...
+
+Arkane execution terminated at Wed Apr 24 12:34:46 2019
+Arkane execution initiated at Wed Apr 24 12:34:46 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DBQZVPSK_bac...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DBQZVPSK_bac...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_bac between pivots [1, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_bac between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species DBQZVPSK_bac between pivots [2, 3] based on the number of peaks and valleys, all within the determined resolution criteria.
+Determined a symmetry number of 3 for rotor of species DBQZVPSK_bac between pivots [4, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for DBQZVPSK_bac...
+Saving thermo for DBQZVPSK_bac...
+
+Arkane execution terminated at Wed Apr 24 12:34:47 2019
+Arkane execution initiated at Wed Apr 24 12:34:47 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DBQZVPSK_fix...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DBQZVPSK_fix...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_fix between pivots [1, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_fix between pivots [2, 5] based on the worst peak resolution criterion.
+Determined a symmetry number of 1 for rotor of species DBQZVPSK_fix between pivots [2, 3] based on the worst peak resolution criterion.
+Determined a symmetry number of 3 for rotor of species DBQZVPSK_fix between pivots [4, 5] based on the number of peaks and valleys, all within the determined resolution criteria.
+Saving statistical mechanics parameters for DBQZVPSK_fix...
+Saving thermo for DBQZVPSK_fix...
+
+Arkane execution terminated at Wed Apr 24 12:34:48 2019
+Arkane execution initiated at Wed Apr 24 12:34:48 2019
+
+################################################################
+#                                                              #
+# Automated Reaction Kinetics and Network Exploration (Arkane) #
+#                                                              #
+#   Version: 2.3.0                                             #
+#   Authors: RMG Developers (rmg_dev@mit.edu)                  #
+#   P.I.s:   William H. Green (whgreen@mit.edu)                #
+#            Richard H. West (r.west@neu.edu)                  #
+#   Website: http://reactionmechanismgenerator.github.io/      #
+#                                                              #
+################################################################
+
+Loading species DBQZVPSK_con...
+Assigned a frequency scale factor of 0.955 for model chemistry M06-2X/cc-pVTZ
+
+
+Loading statistical mechanics parameters for DBQZVPSK_con...
+Warning: No bond energy correction found for model chemistry: m06-2x/cc-pvtz
+Warning: Ignored unknown bond type 'C-O'.
+Warning: Ignored unknown bond type 'O-H'.
+Warning: Ignored unknown bond type 'C-C'.
+Warning: Ignored unknown bond type 'C-H'.
+Saving statistical mechanics parameters for DBQZVPSK_con...
+Saving thermo for DBQZVPSK_con...
+
+Arkane execution terminated at Wed Apr 24 12:34:48 2019

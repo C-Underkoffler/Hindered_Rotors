@@ -801,6 +801,10 @@ for conf in Conf_list:
     log += ['\n\n===========================================================================================']
 
     
+master_log += log
+master_output = '\n\n'.join(master_log)
+with open(os.path.join(base_path, master_log_name), 'w') as mastf:
+    mastf.write(master_output)
 
 print 'Finished'
 

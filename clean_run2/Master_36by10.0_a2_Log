@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-14 14:32:34.766659
+2019-03-18 14:39:10.294846
 
 Beginning workflow for CCCCO at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCCCO/From_Workflow
@@ -28,18 +28,27 @@ Looking at (7, 1, 2, 4) torsion in CCCCO
 
 Looking at (7, 1, 3, 9) torsion in CCCCO
 
+	Torsion log file is complete!
+		LRHPLDYGYMQRHN-UHFFFAOYSA-N_36by10.0_tor13_a2.log for CCCCO exists and is complete!
+
 
 Looking at (6, 2, 4, 12) torsion in CCCCO
 
 	Torsion log file is complete!
 		LRHPLDYGYMQRHN-UHFFFAOYSA-N_36by10.0_tor24_a2.log for CCCCO exists and is complete!
 
-Using lowest conformer thus far, but some scans still failed. Re-running them now...
+Scans are using lowest known conformer and all have completed to satisfaction for CCCCO
 
-	Using previous torsion input file.
-		LRHPLDYGYMQRHN-UHFFFAOYSA-N_36by10.0_tor13_a2.com for CCCCO exists!
+Species.py for CCCCO exists!
+	LRHPLDYGYMQRHN-UHFFFAOYSA.py
 
-	EXECUTING LRHPLDYGYMQRHN-UHFFFAOYSA-N_36by10.0_tor13_a2
+Beginning Thermo Calculations
+
+Executing Arkane Thermo Job for LRHPLDYGYMQRHN-UHFFFAOYSA.py
+	AKA CCCCO
+
+Arkane log named "arkane.log"
+	at /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCCCO/From_Workflow
 
 
 
@@ -49,7 +58,7 @@ Using lowest conformer thus far, but some scans still failed. Re-running them no
 
 ===========================================================================================
 
-2019-03-14 14:32:41.127570
+2019-03-18 14:39:18.020474
 
 Beginning workflow for CCCC[O] at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCCC[O]/From_Workflow
@@ -61,7 +70,7 @@ The GeoFreq for attempts greater than 1 should be generated from previous attemp
 
 ===========================================================================================
 
-2019-03-14 14:32:41.149918
+2019-03-18 14:39:18.038343
 
 Beginning workflow for CCC[CH]O at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCC[CH]O/From_Workflow
@@ -100,7 +109,8 @@ Scans Indicate there is a conformer lower than what was previously known.
 
 Generating new lowest conformer and using it to write GeoFreq as attempt: 3
 
-EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_a3.com
+Will not execute Geo opt for attempt 3 because Gaussian input file already exists
+	DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_a3.com already exists.
 
 
 
@@ -110,7 +120,7 @@ EXECUTING DHVSQGCGLGSLDF-UHFFFAOYSA-N_GeoFreq_a3.com
 
 ===========================================================================================
 
-2019-03-14 14:32:50.333932
+2019-03-18 14:39:27.784858
 
 Beginning workflow for CC[CH]CO at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CC[CH]CO/From_Workflow
@@ -157,7 +167,7 @@ No Suggestions at this time
 
 ===========================================================================================
 
-2019-03-14 14:33:00.465335
+2019-03-18 14:39:38.397961
 
 Beginning workflow for C[CH]CCO at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/C[CH]CCO/From_Workflow
@@ -169,7 +179,7 @@ The GeoFreq for attempts greater than 1 should be generated from previous attemp
 
 ===========================================================================================
 
-2019-03-14 14:33:00.486644
+2019-03-18 14:39:38.416592
 
 Beginning workflow for [CH2]CCCO at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]CCCO/From_Workflow
@@ -181,7 +191,7 @@ The GeoFreq for attempts greater than 1 should be generated from previous attemp
 
 ===========================================================================================
 
-2019-03-14 14:33:00.506495
+2019-03-18 14:39:38.434899
 
 Beginning workflow for CCOC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCOC/From_Workflow
@@ -193,7 +203,7 @@ The GeoFreq for attempts greater than 1 should be generated from previous attemp
 
 ===========================================================================================
 
-2019-03-14 14:33:00.525599
+2019-03-18 14:39:38.453010
 
 Beginning workflow for C[CH]OC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/C[CH]OC/From_Workflow
@@ -234,7 +244,7 @@ No Suggestions at this time
 
 ===========================================================================================
 
-2019-03-14 14:33:05.781662
+2019-03-18 14:39:44.265800
 
 Beginning workflow for CCO[CH2] at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCO[CH2]/From_Workflow
@@ -265,18 +275,10 @@ Looking at (4, 1, 2, 8) torsion in CCO[CH2]
 
 Scans are using lowest known conformer and all have completed to satisfaction for CCO[CH2]
 
-Arkane Species.py file NOT FOUND
-	TVFRQKHUZDMLDB-UHFFFAOYSA.py NOT FOUND for CCO[CH2]
-	Generating one now...
-
-Species.py for CCO[CH2] has been generated!
+Species.py for CCO[CH2] exists!
 	TVFRQKHUZDMLDB-UHFFFAOYSA.py
 
 Beginning Thermo Calculations
-
-Thermo input file NOT FOUND
-	TVFRQKHUZDMLDB-UHFFFAOYSA_Thermo.py NOT FOUND for CCO[CH2]	
-Generating one now...
 
 Executing Arkane Thermo Job for TVFRQKHUZDMLDB-UHFFFAOYSA.py
 	AKA CCO[CH2]
@@ -292,7 +294,7 @@ Arkane log named "arkane.log"
 
 ===========================================================================================
 
-2019-03-14 14:33:12.248182
+2019-03-18 14:39:49.862548
 
 Beginning workflow for [CH2]COC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]COC/From_Workflow
@@ -336,7 +338,7 @@ Using lowest conformer thus far, but some scans still failed. Re-running them no
 
 ===========================================================================================
 
-2019-03-14 14:33:20.309202
+2019-03-18 14:39:56.368294
 
 Beginning workflow for COC(C)C at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/COC(C)C/From_Workflow
@@ -348,7 +350,7 @@ The GeoFreq for attempts greater than 1 should be generated from previous attemp
 
 ===========================================================================================
 
-2019-03-14 14:33:20.331692
+2019-03-18 14:39:56.387270
 
 Beginning workflow for CO[C](C)C at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CO[C](C)C/From_Workflow
@@ -360,7 +362,7 @@ The GeoFreq for attempts greater than 1 should be generated from previous attemp
 
 ===========================================================================================
 
-2019-03-14 14:33:20.353031
+2019-03-18 14:39:56.404343
 
 Beginning workflow for [CH2]OC(C)C at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]OC(C)C/From_Workflow
@@ -372,7 +374,7 @@ The GeoFreq for attempts greater than 1 should be generated from previous attemp
 
 ===========================================================================================
 
-2019-03-14 14:33:20.373263
+2019-03-18 14:39:56.421448
 
 Beginning workflow for [CH2]C(C)OC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]C(C)OC/From_Workflow
@@ -384,13 +386,16 @@ Generated reduced GeoFreq Log
 	FBRHVBFWGRGMCF-UHFFFAOYSA.log
 
 
-Looking at (1, 0, 3, 10) torsion in [CH2]C(C)OC
+Looking at (1, 0, 3, 11) torsion in [CH2]C(C)OC
 
 	Torsion log file is complete!
 		FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor03_a2.log for [CH2]C(C)OC exists and is complete!
 
 
 Looking at (3, 0, 1, 2) torsion in [CH2]C(C)OC
+
+	Torsion log file is complete!
+		FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor01_a2.log for [CH2]C(C)OC exists and is complete!
 
 
 Looking at (2, 1, 4, 13) torsion in [CH2]C(C)OC
@@ -404,12 +409,26 @@ Looking at (5, 1, 2, 7) torsion in [CH2]C(C)OC
 	Torsion log file is complete!
 		FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor12_a2.log for [CH2]C(C)OC exists and is complete!
 
-Using lowest conformer thus far, but some scans still failed. Re-running them now...
+Scans are using lowest known conformer and all have completed to satisfaction for [CH2]C(C)OC
 
-	Using previous torsion input file.
-		FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor01_a2.com for [CH2]C(C)OC exists!
+Arkane Species.py file NOT FOUND
+	FBRHVBFWGRGMCF-UHFFFAOYSA.py NOT FOUND for [CH2]C(C)OC
+	Generating one now...
 
-	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor01_a2
+Species.py for [CH2]C(C)OC has been generated!
+	FBRHVBFWGRGMCF-UHFFFAOYSA.py
+
+Beginning Thermo Calculations
+
+Thermo input file NOT FOUND
+	FBRHVBFWGRGMCF-UHFFFAOYSA_Thermo.py NOT FOUND for [CH2]C(C)OC	
+Generating one now...
+
+Executing Arkane Thermo Job for FBRHVBFWGRGMCF-UHFFFAOYSA.py
+	AKA [CH2]C(C)OC
+
+Arkane log named "arkane.log"
+	at /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]C(C)OC/From_Workflow
 
 
 
@@ -419,7 +438,7 @@ Using lowest conformer thus far, but some scans still failed. Re-running them no
 
 ===========================================================================================
 
-2019-03-14 14:33:28.150631
+2019-03-18 14:40:05.206599
 
 Beginning workflow for CCC(=O)OC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCC(=O)OC/From_Workflow
@@ -431,7 +450,7 @@ The GeoFreq for attempts greater than 1 should be generated from previous attemp
 
 ===========================================================================================
 
-2019-03-14 14:33:28.171853
+2019-03-18 14:40:05.223783
 
 Beginning workflow for C[CH]C(=O)OC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/C[CH]C(=O)OC/From_Workflow
@@ -443,7 +462,7 @@ The GeoFreq for attempts greater than 1 should be generated from previous attemp
 
 ===========================================================================================
 
-2019-03-14 14:33:28.192238
+2019-03-18 14:40:05.241691
 
 Beginning workflow for [CH2]CC(=O)OC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]CC(=O)OC/From_Workflow
@@ -480,18 +499,10 @@ Looking at (7, 2, 4, 1) torsion in [CH2]CC(=O)OC
 
 Scans are using lowest known conformer and all have completed to satisfaction for [CH2]CC(=O)OC
 
-Arkane Species.py file NOT FOUND
-	PQBOSHSVUVOHJ-UHFFFAOYSA.py NOT FOUND for [CH2]CC(=O)OC
-	Generating one now...
-
-Species.py for [CH2]CC(=O)OC has been generated!
+Species.py for [CH2]CC(=O)OC exists!
 	PQBOSHSVUVOHJ-UHFFFAOYSA.py
 
 Beginning Thermo Calculations
-
-Thermo input file NOT FOUND
-	PQBOSHSVUVOHJ-UHFFFAOYSA_Thermo.py NOT FOUND for [CH2]CC(=O)OC	
-Generating one now...
 
 Executing Arkane Thermo Job for PQBOSHSVUVOHJ-UHFFFAOYSA.py
 	AKA [CH2]CC(=O)OC
@@ -507,7 +518,7 @@ Arkane log named "arkane.log"
 
 ===========================================================================================
 
-2019-03-14 14:33:36.432329
+2019-03-18 14:40:14.056678
 
 Beginning workflow for [CH2]OC(=O)CC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]OC(=O)CC/From_Workflow
@@ -519,7 +530,10 @@ The GeoFreq for attempts greater than 1 should be generated from previous attemp
 
 ===========================================================================================
 
-2019-03-14 14:33:36.453897
+2019-03-18 14:40:14.074619
 
 Beginning workflow for ONCC(=O)O at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/ONCC(=O)O/From_Workflow
+
+The GeoFreq for attempts greater than 1 should be generated from previous attempts, not from scratch.
+	Unable to continue until provided GeoFreq

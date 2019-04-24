@@ -1,0 +1,96 @@
+
+
+===========================================================================================
+
+2019-04-09 16:47:57.711549
+
+Beginning workflow for CO[C](C)C at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CO[C](C)C/From_Workflow
+
+Geometry & Frequency log file is complete!
+	VSQGJBCHGBRHMO-UHFFFAOYSA-N_GeoFreq_c2_a1.log for CO[C](C)C is complete!
+
+Generated reduced GeoFreq Log
+	VSQGJBCHGBRHMO-UHFFFAOYSA.log
+
+
+Looking at (4, 0, 3, 13) torsion in CO[C](C)C
+
+
+Looking at (3, 0, 4, 2) torsion in CO[C](C)C
+
+
+Looking at (6, 1, 4, 2) torsion in CO[C](C)C
+
+
+Looking at (10, 2, 4, 1) torsion in CO[C](C)C
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor03_a1.com for CO[C](C)C exists!
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	Using previous torsion input file.
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor04_a1.com for CO[C](C)C exists!
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor14_a1.com for CO[C](C)C exists!
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor14_a1
+
+	Using previous torsion input file.
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor24_a1.com for CO[C](C)C exists!
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	VSQGJBCHGBRHMO-UHFFFAOYSA-N_GeoFreq_c1_a1.log for CO[C](C)C is complete!
+
+Generated reduced GeoFreq Log
+	VSQGJBCHGBRHMO-UHFFFAOYSA.log
+
+
+Looking at (4, 0, 3, 13) torsion in CO[C](C)C
+
+
+Looking at (3, 0, 4, 2) torsion in CO[C](C)C
+
+
+Looking at (6, 1, 4, 2) torsion in CO[C](C)C
+
+
+Looking at (10, 2, 4, 1) torsion in CO[C](C)C
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor03_a1.com for CO[C](C)C exists!
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor03_a1
+
+	Using previous torsion input file.
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor04_a1.com for CO[C](C)C exists!
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor04_a1
+
+	Using previous torsion input file.
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor14_a1.com for CO[C](C)C exists!
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor14_a1
+
+	Using previous torsion input file.
+		VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor24_a1.com for CO[C](C)C exists!
+
+	EXECUTING VSQGJBCHGBRHMO-UHFFFAOYSA-N_36by10.0_tor24_a1
+
+
+
+===========================================================================================

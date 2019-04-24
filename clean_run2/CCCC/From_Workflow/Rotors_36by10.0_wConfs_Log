@@ -1,0 +1,116 @@
+
+
+===========================================================================================
+
+2019-04-09 16:46:12.488961
+
+Beginning workflow for CCCC at:
+	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCCC/From_Workflow
+
+Geometry & Frequency log file is complete!
+	IJDNQMDRQITEOD-UHFFFAOYSA-N_GeoFreq_c3_a1.log for CCCC is complete!
+
+Generated reduced GeoFreq Log
+	IJDNQMDRQITEOD-UHFFFAOYSA.log
+
+
+Looking at (4, 0, 1, 7) torsion in CCCC
+
+
+Looking at (4, 0, 2, 9) torsion in CCCC
+
+
+Looking at (7, 1, 3, 11) torsion in CCCC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor01_a1.com for CCCC exists!
+
+	EXECUTING IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	Using previous torsion input file.
+		IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor02_a1.com for CCCC exists!
+
+	EXECUTING IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor02_a1
+
+	Using previous torsion input file.
+		IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCCC exists!
+
+	EXECUTING IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	IJDNQMDRQITEOD-UHFFFAOYSA-N_GeoFreq_c2_a1.log for CCCC is complete!
+
+Generated reduced GeoFreq Log
+	IJDNQMDRQITEOD-UHFFFAOYSA.log
+
+
+Looking at (4, 0, 1, 7) torsion in CCCC
+
+
+Looking at (4, 0, 2, 9) torsion in CCCC
+
+
+Looking at (7, 1, 3, 11) torsion in CCCC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor01_a1.com for CCCC exists!
+
+	EXECUTING IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	Using previous torsion input file.
+		IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor02_a1.com for CCCC exists!
+
+	EXECUTING IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor02_a1
+
+	Using previous torsion input file.
+		IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCCC exists!
+
+	EXECUTING IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================
+
+Geometry & Frequency log file is complete!
+	IJDNQMDRQITEOD-UHFFFAOYSA-N_GeoFreq_c1_a1.log for CCCC is complete!
+
+Generated reduced GeoFreq Log
+	IJDNQMDRQITEOD-UHFFFAOYSA.log
+
+
+Looking at (4, 0, 1, 7) torsion in CCCC
+
+
+Looking at (4, 0, 2, 9) torsion in CCCC
+
+
+Looking at (7, 1, 3, 11) torsion in CCCC
+
+Using lowest conformer thus far, but some scans still failed. Re-running them now...
+
+	Using previous torsion input file.
+		IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor01_a1.com for CCCC exists!
+
+	EXECUTING IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor01_a1
+
+	Using previous torsion input file.
+		IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor02_a1.com for CCCC exists!
+
+	EXECUTING IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor02_a1
+
+	Using previous torsion input file.
+		IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCCC exists!
+
+	EXECUTING IJDNQMDRQITEOD-UHFFFAOYSA-N_36by10.0_tor13_a1
+
+
+
+===========================================================================================

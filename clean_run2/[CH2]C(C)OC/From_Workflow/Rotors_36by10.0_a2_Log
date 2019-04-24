@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-14 14:33:20.373263
+2019-03-18 14:39:56.421448
 
 Beginning workflow for [CH2]C(C)OC at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]C(C)OC/From_Workflow
@@ -14,13 +14,16 @@ Generated reduced GeoFreq Log
 	FBRHVBFWGRGMCF-UHFFFAOYSA.log
 
 
-Looking at (1, 0, 3, 10) torsion in [CH2]C(C)OC
+Looking at (1, 0, 3, 11) torsion in [CH2]C(C)OC
 
 	Torsion log file is complete!
 		FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor03_a2.log for [CH2]C(C)OC exists and is complete!
 
 
 Looking at (3, 0, 1, 2) torsion in [CH2]C(C)OC
+
+	Torsion log file is complete!
+		FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor01_a2.log for [CH2]C(C)OC exists and is complete!
 
 
 Looking at (2, 1, 4, 13) torsion in [CH2]C(C)OC
@@ -34,12 +37,26 @@ Looking at (5, 1, 2, 7) torsion in [CH2]C(C)OC
 	Torsion log file is complete!
 		FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor12_a2.log for [CH2]C(C)OC exists and is complete!
 
-Using lowest conformer thus far, but some scans still failed. Re-running them now...
+Scans are using lowest known conformer and all have completed to satisfaction for [CH2]C(C)OC
 
-	Using previous torsion input file.
-		FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor01_a2.com for [CH2]C(C)OC exists!
+Arkane Species.py file NOT FOUND
+	FBRHVBFWGRGMCF-UHFFFAOYSA.py NOT FOUND for [CH2]C(C)OC
+	Generating one now...
 
-	EXECUTING FBRHVBFWGRGMCF-UHFFFAOYSA-N_36by10.0_tor01_a2
+Species.py for [CH2]C(C)OC has been generated!
+	FBRHVBFWGRGMCF-UHFFFAOYSA.py
+
+Beginning Thermo Calculations
+
+Thermo input file NOT FOUND
+	FBRHVBFWGRGMCF-UHFFFAOYSA_Thermo.py NOT FOUND for [CH2]C(C)OC	
+Generating one now...
+
+Executing Arkane Thermo Job for FBRHVBFWGRGMCF-UHFFFAOYSA.py
+	AKA [CH2]C(C)OC
+
+Arkane log named "arkane.log"
+	at /home/underkoffler.c/Code/Hindered_Rotors/clean_run2/[CH2]C(C)OC/From_Workflow
 
 
 

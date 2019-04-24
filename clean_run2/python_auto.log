@@ -1,0 +1,4 @@
+  File "max20_workflow.py", line 142
+    if torsion.atom_indices != locked_torsion.atom_indices:
+    ^
+IndentationError: unexpected indent

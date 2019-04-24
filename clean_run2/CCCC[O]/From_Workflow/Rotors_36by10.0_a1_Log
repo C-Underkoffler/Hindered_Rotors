@@ -2,7 +2,7 @@
 
 ===========================================================================================
 
-2019-03-14 14:34:13.294279
+2019-03-18 14:36:09.588910
 
 Beginning workflow for CCCC[O] at:
 	/home/underkoffler.c/Code/Hindered_Rotors/clean_run2/CCCC[O]/From_Workflow
@@ -30,8 +30,9 @@ Looking at (8, 2, 4, 13) torsion in CCCC[O]
 
 Using lowest conformer thus far, but some scans still failed. Re-running them now...
 
-	Using previous torsion input file.
-		QOOQLKSEGVNYLA-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCCC[O] exists!
+	Torsion input file NOT FOUND.
+		QOOQLKSEGVNYLA-UHFFFAOYSA-N_36by10.0_tor13_a1.com for CCCC[O] NOT FOUND.
+		Generating one now..
 
 	EXECUTING QOOQLKSEGVNYLA-UHFFFAOYSA-N_36by10.0_tor13_a1
 
